@@ -6,9 +6,33 @@
 </description>
     <link>http://vatly.github.io/</link>
     <atom:link href="http://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Jun 2015 17:19:12 +0800</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2015 17:19:12 +0800</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2015 01:30:28 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 01:30:28 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Bài giảng cuối cùng của Wilter Lewin</title>
+        <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết. 
+Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
+
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video có nguồn từ kênh trên Youtube của OCW, tại &lt;a href=&quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
+        <link>http://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</link>
+        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Thí nghiệm của Galilleo</title>
@@ -80,7 +104,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
       </item>
     
       <item>
-        <title>Phương trình E = mc2!</title>
+        <title>Phương trình E = mc^2</title>
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng E = mc^2.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
