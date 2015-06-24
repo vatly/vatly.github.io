@@ -6,13 +6,166 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 17:24:43 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 17:24:43 +0800</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2015 21:03:03 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 21:03:03 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
+        <title>Vụ nổ lớn - Sự khởi đầu của mọi thứ</title>
+        <description>&lt;p&gt;Bài giảng hữu ích cho ta biết cách nhìn của vật lý học về sự khởi đầu của vũ trụ.
+Ngày nay lý thuyết vụ nổ lớn đã được cộng đồng vật lý hoàn toàn chấp nhận với những bằng chứng
+thực nghiệm không thể chối cải.&lt;/p&gt;
+
+&lt;p&gt;Đầu tiên phải kể đến việc nhà thiên văn học nổi tiếng Edwin Hubble
+tìm ra rằng vũ trụ đang giản nở. Sau đó là việc tình cờ phát hiện ra bức xạ nền vũ trụ, một
+trong những bằng chứng quan trọng nhất của lý thuyết vụ nổ lớn. Từ đó tới nay nhiều điều mới mẻ
+vẫn tiếp tục được phát hiện, nhiều câu hỏi mới được đặt ra.&lt;/p&gt;
+
+&lt;p&gt;Chúng ta đang đứng trước ngưỡng cửa và cơ hội để giải đáp những câu hỏi nguyên thủy nhất
+về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối tiếp nhau vẫn luôn tự hỏi khi ngước nhìn lên bầu trời sao.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/wNDGgL73ihY?cc_lang_pref=vi&amp;amp;cc_load_policy=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Kurz Gesagt - In a Nutshell&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=wNDGgL73ihY&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bây giờ tới màn vận động trí não một tí để hiểu rõ hơn.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div id=&quot;quiz-result&quot; class=&quot;card&quot;&gt;
+Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;!-- Quiz Container --&gt;
+&lt;div id=&quot;quiz&quot;&gt;
+&lt;!-- Question 1 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. Bức xạ nền vũ trụ (Cosmic microwave background) là gì? &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-1&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-1-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; một bức tường bức xạ vô hình tạo thành một vỏ bọc bao lấy vũ trụ.&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-2&quot; name=&quot;q1&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-1-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; bức xạ nhiệt còn lại của vụ nổ lớn, có mặt ở khắp nơi trong vũ trụ.&lt;/label&gt; &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-3&quot; name=&quot;q1&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-1-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; là một khái niệm vật lý do các nhà vật lý nghĩ ra mà chưa có bằng chứng chứng minh.&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Question 2 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;2. Giai đoạn ban đầu của vụ nổ lớn có tên gọi là gì?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-1&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-2-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; giai đoạn lạm phát.&lt;/label&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-2&quot; name=&quot;q2&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-2-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; giai đoạn tăng trưởng&lt;/label&gt; &lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-3&quot; name=&quot;q2&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-2-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; giai đoạn ổn định.&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Question 3 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;3. Giả sử vũ trụ đang giãn nở theo công thức $v = H_0 D$ (hay còn gọi là Hubble&#39;s law). &lt;br /&gt;
+      Trong đó $v$ là vận tốc giãn nở, $H_0 = 67~km/s/Mpc$ là hằng số Hubble. .&lt;br /&gt;
+
+      &lt;br /&gt;
+      Nếu giả sử hai điểm đang giãn nở với vận tốc $v$ bằng hai lần vận tốc ánh sáng. Biết $c = 3 \times 10^8~m/s$ và $1~Mpc=3.09\times10^{22}~m$,
+      hỏi hai điểm đó cách nhau bao xa?
+      &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-1&quot; name=&quot;q3&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-3-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $2.767 \times 10^{26}~m$.&lt;/label&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-2&quot; name=&quot;q3&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-3-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $1.242 \times 10^{36}~m$.&lt;/label&gt; &lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-3&quot; name=&quot;q3&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-3-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $2.898 \times 10^{-19}~m$.&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+  var quiz;
+
+  function showResults() {
+      // Check answers and continue if all questions have been answered
+      if (quiz.checkAnswers()) {
+          var quizScorePercent = quiz.result.scorePercentFormatted; // The unformatted percentage is a decimal in range 0 - 1
+          var quizResultElement = document.getElementById(&#39;quiz-result&#39;);
+          quizResultElement.style.display = &#39;block&#39;;
+          document.getElementById(&#39;quiz-score&#39;).innerHTML = quiz.result.score.toString();
+          document.getElementById(&#39;quiz-max-score&#39;).innerHTML = quiz.result.totalQuestions.toString();
+          document.getElementById(&#39;quiz-percent&#39;).innerHTML = quizScorePercent.toString();
+
+          // Change background colour of results div according to score percent
+          if (quizScorePercent &gt;= 75) quizResultElement.style.backgroundColor = &#39;#4caf50&#39;;
+          else if (quizScorePercent &gt;= 50) quizResultElement.style.backgroundColor = &#39;#ffc107&#39;;
+          else if (quizScorePercent &gt;= 25) quizResultElement.style.backgroundColor = &#39;#ff9800&#39;;
+          else if (quizScorePercent &gt;= 0) quizResultElement.style.backgroundColor = &#39;#f44336&#39;;
+
+          // Highlight questions according to whether they were correctly answered. The callback allows us to highlight/show the correct answer
+          quiz.highlightResults(handleAnswers);
+      }
+  }
+
+  /** Callback for Quiz.highlightResults. Highlights the correct answers of incorrectly answered questions
+   * Parameters are: the question element, question number, correctly answered flag
+   */
+  function handleAnswers(question, no, correct) {
+      if (!correct) {
+          var answers = question.getElementsByTagName(&#39;input&#39;);
+          for (var i = 0; i &lt; answers.length; i++) {
+              if (answers[i].type === &quot;checkbox&quot; || answers[i].type === &quot;radio&quot;){
+                  // If the current input element is part of the correct answer, highlight it
+                  if (quiz.answers[no].indexOf(answers[i].value) &gt; -1) {
+                      answers[i].parentNode.classList.add(quiz.Classes.CORRECT);
+                  }
+              } else {
+                  // If the input is anything other than a checkbox or radio button, show the correct answer next to the element
+                  var correctAnswer = document.createElement(&#39;span&#39;);
+                  correctAnswer.classList.add(quiz.Classes.CORRECT);
+                  correctAnswer.classList.add(quiz.Classes.TEMP); // quiz.checkAnswers will automatically remove elements with the temp class
+                  correctAnswer.innerHTML = quiz.answers[no];
+                  correctAnswer.style.marginLeft = &#39;10px&#39;;
+                  answers[i].parentNode.insertBefore(correctAnswer, answers[i].nextSibling);
+              }
+          }
+      }
+  }
+
+  window.onload = function() {
+      quiz = new Quiz(&#39;quiz&#39;, [
+          &#39;b&#39;,
+          &#39;a&#39;,
+          &#39;a&#39;,
+      ]);
+  };
+
+&lt;/script&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2015 02:13:45 +0800</pubDate>
+        <link>https://vatly.github.io/physics/2015/06/25/Big-Bang-khoi-dau-cua-moi-thu.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/25/Big-Bang-khoi-dau-cua-moi-thu.html</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
         <title>Bài giảng cuối cùng của Walter Lewin</title>
-        <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết. 
+        <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
 Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
 
 &lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
@@ -25,9 +178,9 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
+        <pubDate>Wed, 24 Jun 2015 10:45:45 +0800</pubDate>
+        <link>https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin0.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin0.html</guid>
         
         
         <category>physics</category>
@@ -36,7 +189,7 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
     
       <item>
         <title>Thí nghiệm của Galilleo</title>
-        <description>&lt;p&gt;Nhà vật lý người Anh giới thiệu thí nghiệm đã khai sinh ra Vật lý học. Thả hai vật rơi tự do. 
+        <description>&lt;p&gt;Nhà vật lý người Anh giới thiệu thí nghiệm đã khai sinh ra Vật lý học. Thả hai vật rơi tự do.
 Với thí nghiệm đơn giản này, con người ngày càng gần hơn với bản chất thật sự của lực hấp dẫn, của không gian và thời gian.&lt;/p&gt;
 
 &lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
@@ -51,9 +204,9 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</guid>
+        <pubDate>Wed, 24 Jun 2015 07:45:45 +0800</pubDate>
+        <link>https://vatly.github.io/physics/2015/06/24/Thi-nghiem-cua-Galilleo.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/Thi-nghiem-cua-Galilleo.html</guid>
         
         
         <category>physics</category>
@@ -69,9 +222,9 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</guid>
+        <pubDate>Wed, 24 Jun 2015 04:45:45 +0800</pubDate>
+        <link>https://vatly.github.io/physics/2015/06/24/Tau-vu-tru-ti-hon.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/Tau-vu-tru-ti-hon.html</guid>
         
         
         <category>physics</category>
@@ -94,7 +247,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
+        <pubDate>Tue, 23 Jun 2015 23:05:45 +0800</pubDate>
         <link>https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</link>
         <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</guid>
         
