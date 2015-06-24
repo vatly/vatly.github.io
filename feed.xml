@@ -4,10 +4,10 @@
     <title>Hỏi đáp Vật lý</title>
     <description>Tập hợp các video bài giảng hay về Vật lý. Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
 </description>
-    <link>http://vatly.github.io/</link>
-    <atom:link href="http://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 01:31:12 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 01:31:12 +0800</lastBuildDate>
+    <link>https://vatly.github.io/</link>
+    <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Jun 2015 17:09:04 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 17:09:04 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,8 +26,8 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>http://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</link>
-        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
         
         
         <category>physics</category>
@@ -52,8 +52,8 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>http://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</link>
-        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Thi-nghiem-cua-Galilleo.html</guid>
         
         
         <category>physics</category>
@@ -70,8 +70,8 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>http://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</link>
-        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Tau-vu-tru-ti-hon.html</guid>
         
         
         <category>physics</category>
@@ -95,8 +95,8 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>http://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</link>
-        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</guid>
         
         
         <category>physics</category>
@@ -104,18 +104,131 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
       </item>
     
       <item>
-        <title>Phương trình E = mc^2</title>
-        <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng E = mc^2.
+        <title>Phương trình $E = mc^2$</title>
+        <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
 &lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;div id=&quot;quiz-result&quot; class=&quot;card&quot;&gt;
+Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;!-- Quiz Container --&gt;
+&lt;div id=&quot;quiz&quot;&gt;
+&lt;!-- Question 1 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. Nếu $c=2$ và $m=3$ hỏi năng lượng là bao nhiêu? &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;input type=&quot;text&quot; name=&quot;q1&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Question 2 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;2. Ánh sáng có khối lượng hay không?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-1&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-2-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt;có&lt;/label&gt;
+              &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-2&quot; name=&quot;q2&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-2-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt;không&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Question 3 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;3. Khi tất cả mọi người trên trái đất đồng loạt nhất búa từ mặt đất lên cao,
+      hỏi khối lượng của trái đất có thay đổi hay không?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-1&quot; name=&quot;q3&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-3-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt;có&lt;/label&gt;
+              &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-2&quot; name=&quot;q3&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-3-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt;không&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;3. Which factors will contribute to the end of humanity as we know it?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input id=&quot;q21&quot; type=&quot;checkbox&quot; name=&quot;q3&quot; value=&quot;a&quot;&gt;&lt;label for=&quot;q21&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt;Global warming&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input id=&quot;q22&quot; type=&quot;checkbox&quot; name=&quot;q3&quot; value=&quot;b&quot;&gt;&lt;label for=&quot;q22&quot;&gt; &lt;span&gt;&lt;/span&gt;&lt;/label&gt;The release of Linux 4.1.15&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input id=&quot;q23&quot; type=&quot;checkbox&quot; name=&quot;q3&quot; value=&quot;c&quot;&gt;&lt;label for=&quot;q23&quot;&gt; &lt;span&gt;&lt;/span&gt;&lt;/label&gt;Cats&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input id=&quot;q24&quot; type=&quot;checkbox&quot; name=&quot;q3&quot; value=&quot;d&quot;&gt;&lt;label for=&quot;q24&quot;&gt; &lt;span&gt;&lt;/span&gt;&lt;/label&gt;Advancements in artificial intelligence&lt;/label&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+Answer Button --&gt;
+&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+  var quiz;
+
+  function showResults() {
+      // Check answers and continue if all questions have been answered
+      if (quiz.checkAnswers()) {
+          var quizScorePercent = quiz.result.scorePercentFormatted; // The unformatted percentage is a decimal in range 0 - 1
+          var quizResultElement = document.getElementById(&#39;quiz-result&#39;);
+          quizResultElement.style.display = &#39;block&#39;;
+          document.getElementById(&#39;quiz-score&#39;).innerHTML = quiz.result.score.toString();
+          document.getElementById(&#39;quiz-max-score&#39;).innerHTML = quiz.result.totalQuestions.toString();
+          document.getElementById(&#39;quiz-percent&#39;).innerHTML = quizScorePercent.toString();
+
+          // Change background colour of results div according to score percent
+          if (quizScorePercent &gt;= 75) quizResultElement.style.backgroundColor = &#39;#4caf50&#39;;
+          else if (quizScorePercent &gt;= 50) quizResultElement.style.backgroundColor = &#39;#ffc107&#39;;
+          else if (quizScorePercent &gt;= 25) quizResultElement.style.backgroundColor = &#39;#ff9800&#39;;
+          else if (quizScorePercent &gt;= 0) quizResultElement.style.backgroundColor = &#39;#f44336&#39;;
+
+          // Highlight questions according to whether they were correctly answered. The callback allows us to highlight/show the correct answer
+          quiz.highlightResults(handleAnswers);
+      }
+  }
+
+  /** Callback for Quiz.highlightResults. Highlights the correct answers of incorrectly answered questions
+   * Parameters are: the question element, question number, correctly answered flag
+   */
+  function handleAnswers(question, no, correct) {
+      if (!correct) {
+          var answers = question.getElementsByTagName(&#39;input&#39;);
+          for (var i = 0; i &lt; answers.length; i++) {
+              if (answers[i].type === &quot;checkbox&quot; || answers[i].type === &quot;radio&quot;){
+                  // If the current input element is part of the correct answer, highlight it
+                  if (quiz.answers[no].indexOf(answers[i].value) &gt; -1) {
+                      answers[i].parentNode.classList.add(quiz.Classes.CORRECT);
+                  }
+              } else {
+                  // If the input is anything other than a checkbox or radio button, show the correct answer next to the element
+                  var correctAnswer = document.createElement(&#39;span&#39;);
+                  correctAnswer.classList.add(quiz.Classes.CORRECT);
+                  correctAnswer.classList.add(quiz.Classes.TEMP); // quiz.checkAnswers will automatically remove elements with the temp class
+                  correctAnswer.innerHTML = quiz.answers[no];
+                  correctAnswer.style.marginLeft = &#39;10px&#39;;
+                  answers[i].parentNode.insertBefore(correctAnswer, answers[i].nextSibling);
+              }
+          }
+      }
+  }
+
+  window.onload = function() {
+      quiz = new Quiz(&#39;quiz&#39;, [
+          &#39;12&#39;,
+          &#39;b&#39;,
+          &#39;b&#39;,
+      ]);
+  };
+
+&lt;/script&gt;
+
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>http://vatly.github.io/physics/2015/06/23/E-m-c-2.html</link>
-        <guid isPermaLink="true">http://vatly.github.io/physics/2015/06/23/E-m-c-2.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/23/E-m-c-2.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/E-m-c-2.html</guid>
         
         
         <category>physics</category>
