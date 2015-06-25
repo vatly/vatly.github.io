@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2015 17:55:24 +0800</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 17:55:24 +0800</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2015 17:56:44 +0800</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 17:56:44 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -45,7 +45,7 @@
 &lt;div id=&quot;quiz&quot;&gt;
 &lt;!-- Question 1 --&gt;
 &lt;div class=&quot;card quizlib-question&quot;&gt;
-    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. Muon được tìm ra bởi ai? &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. $Muon$ được tìm ra bởi ai? &lt;/div&gt;
     &lt;div class=&quot;quizlib-question-answers&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-1&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-1-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; Carl D. Anderson và Seth Neddermeyer.&lt;/label&gt;&lt;/li&gt;
