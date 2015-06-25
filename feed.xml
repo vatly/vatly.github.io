@@ -6,9 +6,166 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 21:11:40 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 21:11:40 +0800</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2015 17:38:52 +0800</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 17:38:52 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Phản vật chất là gì?</title>
+        <description>&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;b&gt;Paul Dirac&lt;/b&gt;&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dirac_4.jpg/220px-Dirac_4.jpg&quot; alt=&quot;Paul Dirac&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;b&gt;Carl Anderson&lt;/b&gt;&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_Anderson.jpg&quot; alt=&quot;Carl Anderson&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Phản vật chất (antimatter) là một thành tựu quan trọng của cơ học lượng tử tương đối tính. Năm 1928, Paul Dirac khi đang giải phương trình sóng Schrodinger cho electron bằng cách sửa đổi phương trình của Schrodinger cho phù hợp với thuyết tương đối hẹp, đã tìm ra một nghiệm khác của phương trình. Ông đã đặt tên cho nó là antielectron.&lt;/p&gt;
+
+&lt;p&gt;Đến năm 1932, Cark D. Anderson phát hiện ra điều Dirac dự đoán bốn năm trước và đặt tên cho nó là positron (positive electron.)&lt;/p&gt;
+
+&lt;p&gt;Dirac và Schrodinger cùng chia nhau giải Nobel năm 1933 cho &lt;em&gt;phám khá ra lý thuyết mới về nguyên tử&lt;/em&gt;. Anderson nhận giải Nobel năm 1936 cho việc phát hiện ra positron.&lt;/p&gt;
+
+&lt;p&gt;Các thành tựu về lý thuyết và thực nghiệm này đánh dấu cho việc tìm ra một nữa thế giới vật chất mà trước đó không hề được biết đến bởi bất kì nhân loại nào.&lt;/p&gt;
+
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;MinutePhysics&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=Lo8NmoDL9T8&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Một vài câu hỏi để hiểu rõ hơn.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div id=&quot;quiz-result&quot; class=&quot;card&quot;&gt;
+Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;!-- Quiz Container --&gt;
+&lt;div id=&quot;quiz&quot;&gt;
+&lt;!-- Question 1 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. Muon được tìm ra bởi ai? &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-1&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-1-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; Carl D. Anderson và Seth Neddermeyer.&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-2&quot; name=&quot;q1&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-1-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; Paul Dirac và Erwin Schrödinger.&lt;/label&gt; &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-3&quot; name=&quot;q1&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-1-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; Galileo Galilei và Nicolaus Copernicus .&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Question 2 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;2. $Positronium$ là tên của hệ?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-1&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-2-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; một $electron$ quay quanh một $proton$.&lt;/label&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-2&quot; name=&quot;q2&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-2-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; một $electron$ quay quanh một $positron$.&lt;/label&gt; &lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-3&quot; name=&quot;q2&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-2-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; một $positron$ quay quanh một $phản~proton$.&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Question 3 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;3. Giả sử bạn muốn chế tạo bom phản vật chất. Bạn lấy $1~kg$ vật chất trộn với $2~kg$ phản vật chất. Hỏi quả bom phản vật chất này có sức công phá bằng bao nhiêu $kg$ thuốc nổ TNT? &lt;br /&gt; &lt;br /&gt; Biết $c = 3\times 10^8 m/s$, công thức Einsten $E = mc^2$ và $1~kg$ TNT tương đương $4.184\times 10^6~J.$
+      &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-1&quot; name=&quot;q3&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-3-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $3\times 21.5$ tỉ $kg$ TNT.&lt;/label&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-2&quot; name=&quot;q3&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-3-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $2\times 21.5$ tỉ $kg$ TNT.&lt;/label&gt; &lt;/li&gt;
+          &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-3&quot; name=&quot;q3&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-3-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $1\times 21.5$ tỉ $kg$ TNT.&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+
+  var quiz;
+
+  function showResults() {
+      // Check answers and continue if all questions have been answered
+      if (quiz.checkAnswers()) {
+          var quizScorePercent = quiz.result.scorePercentFormatted; // The unformatted percentage is a decimal in range 0 - 1
+          var quizResultElement = document.getElementById(&#39;quiz-result&#39;);
+          quizResultElement.style.display = &#39;block&#39;;
+          document.getElementById(&#39;quiz-score&#39;).innerHTML = quiz.result.score.toString();
+          document.getElementById(&#39;quiz-max-score&#39;).innerHTML = quiz.result.totalQuestions.toString();
+          document.getElementById(&#39;quiz-percent&#39;).innerHTML = quizScorePercent.toString();
+
+          // Change background colour of results div according to score percent
+          if (quizScorePercent &gt;= 75) quizResultElement.style.backgroundColor = &#39;#4caf50&#39;;
+          else if (quizScorePercent &gt;= 50) quizResultElement.style.backgroundColor = &#39;#ffc107&#39;;
+          else if (quizScorePercent &gt;= 25) quizResultElement.style.backgroundColor = &#39;#ff9800&#39;;
+          else if (quizScorePercent &gt;= 0) quizResultElement.style.backgroundColor = &#39;#f44336&#39;;
+
+          // Highlight questions according to whether they were correctly answered. The callback allows us to highlight/show the correct answer
+          quiz.highlightResults(handleAnswers);
+      }
+  }
+
+  /** Callback for Quiz.highlightResults. Highlights the correct answers of incorrectly answered questions
+   * Parameters are: the question element, question number, correctly answered flag
+   */
+  function handleAnswers(question, no, correct) {
+      if (!correct) {
+          var answers = question.getElementsByTagName(&#39;input&#39;);
+          for (var i = 0; i &lt; answers.length; i++) {
+              if (answers[i].type === &quot;checkbox&quot; || answers[i].type === &quot;radio&quot;){
+                  // If the current input element is part of the correct answer, highlight it
+                  if (quiz.answers[no].indexOf(answers[i].value) &gt; -1) {
+                      answers[i].parentNode.classList.add(quiz.Classes.CORRECT);
+                  }
+              } else {
+                  // If the input is anything other than a checkbox or radio button, show the correct answer next to the element
+                  var correctAnswer = document.createElement(&#39;span&#39;);
+                  correctAnswer.classList.add(quiz.Classes.CORRECT);
+                  correctAnswer.classList.add(quiz.Classes.TEMP); // quiz.checkAnswers will automatically remove elements with the temp class
+                  correctAnswer.innerHTML = quiz.answers[no];
+                  correctAnswer.style.marginLeft = &#39;10px&#39;;
+                  answers[i].parentNode.insertBefore(correctAnswer, answers[i].nextSibling);
+              }
+          }
+      }
+  }
+
+  window.onload = function() {
+      quiz = new Quiz(&#39;quiz&#39;, [
+          &#39;a&#39;,
+          &#39;b&#39;,
+          &#39;b&#39;,
+      ]);
+  };
+
+&lt;/script&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2015 22:30:40 +0800</pubDate>
+        <link>https://vatly.github.io/physics/2015/06/25/Phan-vat-chat.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/25/Phan-vat-chat.html</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Vụ nổ lớn - Sự khởi đầu của mọi thứ</title>
@@ -168,7 +325,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
 Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -179,8 +336,8 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 10:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin0.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin0.html</guid>
+        <link>https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin.html</link>
+        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
         
         
         <category>physics</category>
@@ -194,7 +351,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -217,7 +374,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <title>Tàu vũ trụ siêu nhỏ</title>
         <description>&lt;p&gt;Một bài giảng từ TED với dự đoán về tương lai của tàu vũ trụ.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -237,7 +394,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Một trường hợp tương tự với mối liên hệ giữa Higgs boson và trường Higgs là mối liên hệ giữa hạt photon và trường điện từ. Bạn hãy thử suy nghĩ về nó.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -261,7 +418,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;370px&quot; data-width=&quot;620px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
