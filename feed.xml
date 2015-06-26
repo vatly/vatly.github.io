@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QA Vật lý</title>
-    <description>Tập hợp các video bài giảng hay về Vật lý. Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
+    <title>Hỏi đáp Vật lý</title>
+    <description>Tập hợp các video bài giảng hay về Vật lý.  Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 14:34:58 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 14:34:58 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 15:37:41 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 15:37:41 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Phản vật chất là gì?</title>
-        <description>&lt;p&gt;Phản vật chất (antimatter) là một thành tựu quan trọng của cơ học lượng tử tương đối tính. Năm 1928, Paul Dirac, khi đang giải phương trình sóng Schrodinger cho electron, bằng cách sửa đổi phương trình của Schrodinger phù hợp với thuyết tương đối hẹp, đã tìm ra một nghiệm khác của phương trình. Ông đặt tên cho nó là antielectron.&lt;/p&gt;
+        <description>&lt;p&gt;Phản vật chất (antimatter) là một thành tựu quan trọng của cơ học lượng tử tương đối tính.&lt;/p&gt;
 &lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;b&gt;Paul Dirac&lt;/b&gt;&lt;/caption&gt;
+&lt;caption align=&quot;bottom&quot;&gt;Paul Dirac&lt;/caption&gt;
 &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dirac_4.jpg/220px-Dirac_4.jpg&quot; alt=&quot;Paul Dirac&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
-
 &lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;b&gt;Carl Anderson&lt;/b&gt;&lt;/caption&gt;
+&lt;caption align=&quot;bottom&quot;&gt;Carl Anderson&lt;/caption&gt;
 &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_Anderson.jpg&quot; alt=&quot;Carl Anderson&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;Năm 1928, Paul Dirac, khi đang giải phương trình sóng Schrodinger cho electron, bằng cách sửa đổi phương trình của Schrodinger phù hợp với thuyết tương đối hẹp, đã tìm ra một nghiệm khác của phương trình. Ông đặt tên cho nó là antielectron.&lt;/p&gt;
 
 &lt;p&gt;Đến năm 1932, Carl D. Anderson phát hiện ra điều Dirac dự đoán bốn năm về trước và đặt tên là positron (positive electron.)&lt;/p&gt;
 
 &lt;p&gt;Dirac và Schrodinger cùng chia nhau giải Nobel năm 1933 cho &lt;em&gt;phám khá ra lý thuyết mới về nguyên tử&lt;/em&gt;. Anderson nhận giải Nobel năm 1936 cho việc phát hiện ra positron.&lt;/p&gt;
 
-&lt;p&gt;Các thành tựu về lý thuyết và thực nghiệm này đánh dấu cho việc tìm ra một nửa thế giới vật chất mà trước đó không hề được biết đến bởi bất kì nhân loại nào.&lt;/p&gt;
+&lt;p&gt;Các thành tựu về lý thuyết và thực nghiệm này đánh dấu cho việc tìm ra một nửa thế giới vật chất mà trước đó không hề được biết đến bởi bất kì nhân loại nào.
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -45,7 +46,7 @@
 &lt;div id=&quot;quiz&quot;&gt;
 &lt;!-- Question 1 --&gt;
 &lt;div class=&quot;card quizlib-question&quot;&gt;
-    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. $Muon$ được tìm ra bởi ai? &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;1. &lt;em&gt;Muon&lt;/em&gt; được tìm ra bởi ai? &lt;/div&gt;
     &lt;div class=&quot;quizlib-question-answers&quot;&gt;
         &lt;ul&gt;
             &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-1&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-1-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; Carl D. Anderson và Seth Neddermeyer.&lt;/label&gt;&lt;/li&gt;
@@ -56,7 +57,7 @@
 &lt;/div&gt;
 &lt;!-- Question 2 --&gt;
 &lt;div class=&quot;card quizlib-question&quot;&gt;
-    &lt;div class=&quot;quizlib-question-title&quot;&gt;2. $Positronium$ là tên của hệ?&lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;2. &lt;em&gt;Positronium&lt;/em&gt; là tên của hệ?&lt;/div&gt;
     &lt;div class=&quot;quizlib-question-answers&quot;&gt;
         &lt;ul&gt;
           &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-1&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-2-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; một $electron$ quay quanh một $proton$.&lt;/label&gt;&lt;/li&gt;
@@ -324,7 +325,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
 Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -350,7 +351,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -373,7 +374,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <title>Tàu vũ trụ siêu nhỏ</title>
         <description>&lt;p&gt;Một bài giảng từ TED với dự đoán về tương lai của tàu vũ trụ.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -393,7 +394,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Một trường hợp tương tự với mối liên hệ giữa Higgs boson và trường Higgs là mối liên hệ giữa hạt photon và trường điện từ. Bạn hãy thử suy nghĩ về nó.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -417,7 +418,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

@@ -145,9 +145,7 @@ b, h1, strong, h2, h3, h4 {
   color: firebrick;
 }
 
-#gallery {
-    width: 80%;
-    margin: 30px auto;
+.gallery {
     overflow: hidden;    
     margin-left: -2%;
     margin-right: -2%;
@@ -212,12 +210,9 @@ b, h1, strong, h2, h3, h4 {
 
 
 /* MEDIA QUERIES*/
-@media {
-    .gallery-item {width: 21%;}
-}
+
  
-@media only screen and (max-width : 720px),
-only screen and (max-device-width : 720px){
+@media {
     .gallery-item {width: 29.33333%;}
 }
  
@@ -239,6 +234,5 @@ only screen and (max-device-width : 320px){
     z-index: 100;
     color: #bbb;
     font-size: 7px;
-    margin-right: -20px;
     overflow: hidden;
 }
