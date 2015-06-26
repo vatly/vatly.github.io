@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 22:46:29 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 22:46:29 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 23:08:51 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 23:08:51 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -105,7 +105,7 @@
 Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button class=&quot;xemkq&quot; type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;&lt;/p&gt;
 
 &lt;script&gt;
 
@@ -271,7 +271,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;button class=&quot;xemkq&quot; type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
