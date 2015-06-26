@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hỏi đáp Vật lý</title>
+    <title>QA Vật lý</title>
     <description>Tập hợp các video bài giảng hay về Vật lý. Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2015 20:10:19 +0800</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 20:10:19 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 14:34:58 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 14:34:58 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,7 +29,7 @@
 
 &lt;p&gt;Các thành tựu về lý thuyết và thực nghiệm này đánh dấu cho việc tìm ra một nửa thế giới vật chất mà trước đó không hề được biết đến bởi bất kì nhân loại nào.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -158,8 +158,8 @@
 &lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 22:30:40 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/25/Phan-vat-chat.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/25/Phan-vat-chat.html</guid>
+        <link>https://vatly.github.io/vatly/Phan-vat-chat/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Phan-vat-chat/</guid>
         
         
         <category>physics</category>
@@ -311,8 +311,8 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
 &lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 02:13:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/25/Big-Bang-khoi-dau-cua-moi-thu.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/25/Big-Bang-khoi-dau-cua-moi-thu.html</guid>
+        <link>https://vatly.github.io/vatly/Big-Bang-khoi-dau-cua-moi-thu/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Big-Bang-khoi-dau-cua-moi-thu/</guid>
         
         
         <category>physics</category>
@@ -324,7 +324,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
 Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -335,8 +335,8 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 10:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/bai-giang-cuoi-cua-Walter-Lewin.html</guid>
+        <link>https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</guid>
         
         
         <category>physics</category>
@@ -350,7 +350,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -361,8 +361,8 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/24/Thi-nghiem-cua-Galilleo.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/Thi-nghiem-cua-Galilleo.html</guid>
+        <link>https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</guid>
         
         
         <category>physics</category>
@@ -373,14 +373,14 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <title>Tàu vũ trụ siêu nhỏ</title>
         <description>&lt;p&gt;Một bài giảng từ TED với dự đoán về tương lai của tàu vũ trụ.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 24 Jun 2015 04:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/24/Tau-vu-tru-ti-hon.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/24/Tau-vu-tru-ti-hon.html</guid>
+        <link>https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</guid>
         
         
         <category>physics</category>
@@ -393,7 +393,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Một trường hợp tương tự với mối liên hệ giữa Higgs boson và trường Higgs là mối liên hệ giữa hạt photon và trường điện từ. Bạn hãy thử suy nghĩ về nó.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -404,8 +404,8 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 23:05:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/Higgs-boson-la-gi.html</guid>
+        <link>https://vatly.github.io/vatly/Higgs-boson-la-gi/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Higgs-boson-la-gi/</guid>
         
         
         <category>physics</category>
@@ -417,7 +417,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-height=&quot;480px&quot; data-width=&quot;720px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;854px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
   &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -536,8 +536,8 @@ Answer Button --&gt;
 
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/physics/2015/06/23/E-m-c-2.html</link>
-        <guid isPermaLink="true">https://vatly.github.io/physics/2015/06/23/E-m-c-2.html</guid>
+        <link>https://vatly.github.io/vatly/E-m-c-2/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/E-m-c-2/</guid>
         
         
         <category>physics</category>

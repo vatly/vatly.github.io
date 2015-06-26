@@ -1,6 +1,5 @@
 
 .card {
-  padding: 18px;
   background-color: #fff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -8,6 +7,18 @@
   -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
+  padding: 18px;
+}
+
+.cardprime {
+  background-color: #fff;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
+  padding: 0px;
 }
 
 #quiz-result {
@@ -132,4 +143,102 @@ input[type="checkbox"]:checked + label span {
 
 b, h1, strong, h2, h3, h4 {
   color: firebrick;
+}
+
+#gallery {
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;    
+    margin-left: -2%;
+    margin-right: -2%;
+}
+
+.gallery-item {
+  color: #797478;
+  float: left;
+  width: 16%;
+  margin: 2% 2% 50px 2%;
+  text-decoration: none;
+  overflow: hidden;        
+
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+
+}
+
+.galleery-item a {
+      text-decoration: none;
+}
+
+.gallery-item-inner:hover {
+    color: firebrick;
+    text-decoration: none;
+    -webkit-filter: brightness(150%);
+}
+
+.gallery-item-inner {
+    text-decoration: none;    
+}
+
+.gallery-item-name {
+    text-transform: uppercase;
+    height: 30px;
+    font-weight: 400;
+    color: #797478;
+    font-size: 10px;
+    line-height: 30px;
+    overflow:hidden;
+    
+    margin-left: 5px;
+    margin-right: 5px;
+
+    font-weight: 500;
+   
+}
+
+.gallery-item-image img {
+
+
+}
+
+.gallery-item:hover {
+    overflow: hidden;    
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+
+/* MEDIA QUERIES*/
+@media {
+    .gallery-item {width: 21%;}
+}
+ 
+@media only screen and (max-width : 720px),
+only screen and (max-device-width : 720px){
+    .gallery-item {width: 29.33333%;}
+}
+ 
+@media only screen and (max-width : 530px),
+only screen and (max-device-width : 530px){
+    .gallery-item {width: 46%;}
+}
+ 
+@media only screen and (max-width : 320px),
+only screen and (max-device-width : 320px){
+    .gallery-item {width: 96%;}
+    .gallery-item-image img {width: 96%;}
+    .gallery-item-name {font-size: 18px;}
+    .galleryItem p, {font-size: 18px;}
+}
+
+.cmtcount {
+    float:right;
+    z-index: 100;
+    color: #bbb;
+    font-size: 7px;
+    margin-right: -20px;
+    overflow: hidden;
 }
