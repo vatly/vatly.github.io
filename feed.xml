@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 21:51:42 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 21:51:42 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 22:44:40 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 22:44:40 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,9 +28,21 @@
 
 &lt;p&gt;Trong video dưới đây nhà vật lý lý thuyết Michio Kaku sẽ dẫn ta đi trên hành trình khám phá ứng dụng của toán trong vật lý học, và gợi ý cho ta, về tâm trí của Chúa khi tạo nên vũ trụ này.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=jremlZvNDuk?cc_load_policy=0&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=jremlZvNDuk&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/jremlZvNDuk.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Big Think&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=jremlZvNDuk&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
