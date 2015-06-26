@@ -123,9 +123,21 @@
     <p>Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.</p>
 
-<div class="amara-embed" data-hide-order="true" data-height="480px" data-width="740px" data-initial-language="vi" data-show-subtitles-default="true" data-url="http://www.youtube.com/watch?v=Xo232kyTsO0">
-  </div>
-<p><br /></p>
+<div id="myElement"></div>
+
+<script>
+    jwplayer("myElement").setup({
+        file: "https://www.youtube.com/watch?v=Xo232kyTsO0",
+        width: "100%",
+        tracks: [{ 
+    file: '/assets/Xo232kyTsO0.vtt', 
+    label: 'tiếng Việt', 
+    kind: 'captions',
+    default: true,
+  }],
+        
+    });
+</script>
 
 <div id="quiz-result" class="card">
 Điểm số <span id="quiz-percent"></span>% - <span id="quiz-score"></span>/<span id="quiz-max-score"></span><br />
@@ -177,7 +189,7 @@ Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự
     </div>
 </div>
 Answer Button -->
-<button type="button" onclick="showResults();">XEM KẾT QUẢ</button>
+<button class="xemkq" type="button" onclick="showResults();">XEM KẾT QUẢ</button>
 </div>
 
 <script>
@@ -240,6 +252,17 @@ Answer Button -->
 
 </script>
 
+<p>Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.</p>
+
+<p>Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.</p>
+
+<p>💕 <strong>CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN</strong>  💕</p>
+
+<p>Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.</p>
+
+<p><em>Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.</em></p>
+
+<p>Và đôi khi chỉ một câu hỏi <em>ngớ ngẩn</em> có thể làm thay đổi cả thế giới.</p>
 
   </article>
 	

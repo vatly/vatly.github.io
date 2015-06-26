@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 23:08:51 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 23:08:51 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 23:44:31 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 23:44:31 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -190,7 +190,7 @@
 
 &lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN&lt;/strong&gt;  💕&lt;/p&gt;
 
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẫn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 01:06:42 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Chua-la-nha-toan-hoc/</link>
@@ -221,9 +221,21 @@
 &lt;p&gt;Các thành tựu về lý thuyết và thực nghiệm này đánh dấu cho việc tìm ra một nửa thế giới vật chất mà trước đó không hề được biết đến bởi bất kì nhân loại nào.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Lo8NmoDL9T8?cc_load_policy=0&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=Lo8NmoDL9T8&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/Lo8NmoDL9T8.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;MinutePhysics&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=Lo8NmoDL9T8&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
@@ -347,7 +359,7 @@
 
 &lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 22:30:40 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Phan-vat-chat/</link>
@@ -424,7 +436,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;button class=&quot;xemkq&quot; type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
 &lt;br /&gt;
 
 &lt;br /&gt;
@@ -500,7 +512,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
 
 &lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẫn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jun 2015 02:13:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Big-Bang-khoi-dau-cua-moi-thu/</link>
@@ -516,15 +528,35 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
 Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/4a0FbQdH3dY.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh trên Youtube của OCW, tại &lt;a href=&quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 10:45:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</link>
@@ -542,15 +574,35 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=E43-CfukEgs&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/E43-CfukEgs.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh trên Youtube của BBC, tại &lt;a href=&quot;https://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 07:45:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</link>
@@ -565,10 +617,31 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <title>Tàu vũ trụ siêu nhỏ</title>
         <description>&lt;p&gt;Một bài giảng từ TED với dự đoán về tương lai của tàu vũ trụ.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
 
+&lt;p&gt;Xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;đây&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=Y7IsyjFROHE&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/Y7IsyjFROHE.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, vui lòng xem hướng dẫn ở cuối trang. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jun 2015 04:45:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</link>
@@ -585,15 +658,35 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;p&gt;Một trường hợp tương tự với mối liên hệ giữa Higgs boson và trường Higgs là mối liên hệ giữa hạt photon và trường điện từ. Bạn hãy thử suy nghĩ về nó.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh trên Youtube của Fermilab, tại &lt;a href=&quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
 
 &lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 23:05:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Higgs-boson-la-gi/</link>
@@ -609,9 +702,21 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
 
-&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=Xo232kyTsO0&quot;&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=Xo232kyTsO0&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/Xo232kyTsO0.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;div id=&quot;quiz-result&quot; class=&quot;card&quot;&gt;
 Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
@@ -663,7 +768,7 @@ Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự
     &lt;/div&gt;
 &lt;/div&gt;
 Answer Button --&gt;
-&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
+&lt;button class=&quot;xemkq&quot; type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -726,6 +831,17 @@ Answer Button --&gt;
 
 &lt;/script&gt;
 
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI CẦN NHỮNG CÂU HỎI CỦA CÁC BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Đặt câu hỏi không nói lên rằng bạn *dốt*, hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2015 07:45:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/E-m-c-2/</link>

@@ -1,0 +1,2934 @@
+WEBVTT
+
+00:00:00.005 --> 00:00:03.019
+WALTER Lewin: Vào chỗ ngồi.
+
+00:00:03.019 --> 00:00:11.095
+Xin vui lòng, Vào chỗ ngồi.
+
+00:00:11.095 --> 00:00:14.074
+Bài giảng của tôi sẽ khoảng 40 phút.
+
+00:00:14.074 --> 00:00:18.044
+Và sau đó, tôi sẽ cho mọi người cơ hội
+
+00:00:18.044 --> 00:00:21.065
+đặt câu hỏi khoảng 15 hoặc 20 phút.
+
+00:00:21.065 --> 00:00:23.052
+Vì vậy, toàn bộ sẽ là một giờ.
+
+00:00:23.052 --> 00:00:26.897
+Và đó là sau đó mà tôi sẽ kí tặng sách.
+
+00:00:26.897 --> 00:00:29.004
+Bạn có thể mua những cuốn sách ngoài kia nếu muốn
+
+00:00:29.004 --> 00:00:31.056
+và tôi sẽ ký vào nó ở đây.
+
+00:00:31.056 --> 00:00:35.039
+Chúng ta sẽ quay lại với nó sau.
+
+00:00:35.039 --> 00:00:41.015
+Nếu bạn có một con lắc
+
+00:00:41.015 --> 00:00:47.059
+đây là một con lắc, khối lượng m, chiều dài l
+
+00:00:47.059 --> 00:00:51.072
+mà bạn suy ra, cái tôi làm trong lớp học, nhưng tôi sẽ không làm phiền
+
+00:00:51.072 --> 00:00:53.055
+bạn với điều đó.
+
+00:00:53.055 --> 00:00:56.058
+Bạn suy ra được phải mất bao lâu để con lắc thực hiện
+
+00:00:56.058 --> 00:00:59.012
+một dao động hoàn chỉnh.
+
+00:00:59.012 --> 00:01:02.237
+Và chúng ta gọi đó là chu kỳ của con lắc.
+
+00:01:02.237 --> 00:01:09.046
+Và tôi đã suy ra trong lớp học rằng chu kỳ đó bằng 2 lần pi
+
+00:01:09.046 --> 00:01:13.048
+căn bậc hai của L trên g.
+
+00:01:13.048 --> 00:01:15.057
+Bạn đã biết L là gì.
+
+00:01:15.057 --> 00:01:17.066
+Nếu bạn không biết pi là gì, bạn có thể
+
+00:01:17.066 --> 00:01:20.101
+cũng bỏ đi ngay bây giờ.
+
+00:01:20.101 --> 00:01:25.099
+Và g là cái chúng ta gọi là gia tốc trọng trường,
+
+00:01:25.099 --> 00:01:30.072
+nó xấp xỉ như nhau ở khắp mọi nơi trên trái đất.
+
+00:01:30.072 --> 00:01:36.017
+Nhưng ở Boston nó rất gần 9.80 mét
+
+00:01:36.017 --> 00:01:38.093
+mỗi giây mỗi giây.
+
+00:01:38.093 --> 00:01:41.094
+Và bạn sẽ nói, lạ nhỉ, mét mỗi giây mỗi giây.
+
+00:01:41.094 --> 00:01:45.103
+Điều đó có nghĩa là nếu bạn có một đối tượng và bạn thả nó
+
+00:01:45.103 --> 00:01:48.034
+từ một độ cao rất lớn, rất cao--
+
+00:01:48.034 --> 00:01:50.008
+cao một vài trăm mét--
+
+00:01:50.008 --> 00:01:52.049
+và tôi đã đánh rơi nó tại vận tốc bằng 0.
+
+00:01:52.049 --> 00:01:55.013
+Sau một giây, nó sẽ có một vận tốc
+
+00:01:55.013 --> 00:01:57.038
+9,8 mét mỗi giây.
+
+00:01:57.038 --> 00:02:01.081
+Nhưng sau một giây nữa, nó sẽ thêm vào đó 9,8 mét
+
+00:02:01.081 --> 00:02:02.043
+mỗi giây.
+
+00:02:02.043 --> 00:02:03.068
+Vì vậy, nó gấp đôi.
+
+00:02:03.068 --> 00:02:06.026
+Và sau ba giây, nó là 3 giây.
+
+00:02:06.026 --> 00:02:08.664
+Vì vậy, bây giờ bạn hiểu lý do tại sao nó là mét
+
+00:02:08.664 --> 00:02:11.013
+mỗi giây mỗi giây.
+
+00:02:11.013 --> 00:02:17.072
+Và đó là ý nghĩa của g.
+
+00:02:17.072 --> 00:02:20.974
+Có một cái gì đó kỳ lạ về phương trình này, một cái gì đó
+
+00:02:20.974 --> 00:02:23.071
+phải đi ngược lại trực giác của bạn.
+
+00:02:23.071 --> 00:02:26.042
+Và bạn không nên cảm thấy xấu bởi vì nó cũng đi ngược lại
+
+00:02:26.042 --> 00:02:28.181
+trực giác của tôi.
+
+00:02:28.181 --> 00:02:32.048
+Vì vậy, chúng tôi có con lắc, và giả sử tôi mang con lắc
+
+00:02:32.048 --> 00:02:34.036
+ra đây.
+
+00:02:34.036 --> 00:02:36.069
+Chúng tôi gọi đó là biên độ của con lắc.
+
+00:02:36.069 --> 00:02:39.094
+Và chúng ta hãy để là xoay ra và trở lại.
+
+00:02:39.094 --> 00:02:41.060
+Tốn một thời gian nhất định.
+
+00:02:41.060 --> 00:02:45.018
+Nhưng bây giờ, tôi mang nó ra chừng này thôi.
+
+00:02:45.018 --> 00:02:48.047
+Nó không phải di chuyển nhiều nhặn gì.
+
+00:02:48.047 --> 00:02:51.025
+Liệu nó có cho khác biệt trong chu kỳ?
+
+00:02:51.025 --> 00:02:54.069
+Phương trình nói không, nó không.
+
+00:02:54.069 --> 00:02:57.030
+Bởi vì nếu nó đã làm ra ột sự khác biệt, sẽ có trong
+
+00:02:57.030 --> 00:03:00.069
+rằng phương trình biên độ, và không phải vậy.
+
+00:03:00.069 --> 00:03:03.064
+Và tôi sẽ chứng minh điều đó cho bạn, rằng nó là khá
+
+00:03:03.064 --> 00:03:07.048
+thú vị là thực sự thời gian đó độc lập
+
+00:03:07.048 --> 00:03:10.043
+với biên độ nếu bạn đi đến
+
+00:03:10.043 --> 00:03:13.019
+giá trị của biên độ cực đoan.
+
+00:03:13.019 --> 00:03:16.086
+Có cái gì khác ở đây, mà thậm chí còn
+
+00:03:16.086 --> 00:03:18.124
+không trực quan hơn nữa.
+
+00:03:18.124 --> 00:03:24.074
+Và đó là không quan trọng cho dù bob--
+
+00:03:24.074 --> 00:03:26.000
+chúng tôi gọi đây là bob--
+
+00:03:26.000 --> 00:03:30.003
+cho dù đó là 1 kg hoặc 500 kg?
+
+00:03:30.003 --> 00:03:32.044
+Bạn sẽ nghĩ rằng, tốt, phải có
+
+00:03:32.044 --> 00:03:34.006
+sự khác biệt trong chu kỳ.
+
+00:03:34.006 --> 00:03:38.086
+Nhưng các phương trình nói xin lỗi, nó không khác.
+
+00:03:38.086 --> 00:03:42.076
+Và tôi cũng sẽ chứng minh điều đó với bạn.
+
+00:03:42.076 --> 00:03:44.011
+Chúng tôi có ở đây--
+
+00:03:44.011 --> 00:03:47.042
+bên cạnh đó, nếu bạn muốn tự mình kiểm tra con lắc này
+
+00:03:47.042 --> 00:03:51.088
+đây phương trình cho bạn, cho L bằng 1 mét
+
+00:03:51.088 --> 00:03:53.008
+và sử dụng số này.
+
+00:03:53.008 --> 00:03:55.685
+Bạn sẽ nhận được một khoảng thời gian 2,0 giây.
+
+00:03:55.685 --> 00:03:57.066
+Nó rất dễ làm tại nhà.
+
+00:03:57.066 --> 00:03:58.095
+Bạn đo một mét.
+
+00:03:58.095 --> 00:04:01.086
+Bạn đặt một quả táo ở phía dưới và bạn xoay nó.
+
+00:04:01.086 --> 00:04:03.042
+một mét phải chính xác.
+
+00:04:03.042 --> 00:04:07.031
+Bạn thấy rằng nó sẽ là 2.0 giây.
+
+00:04:07.031 --> 00:04:13.027
+Con lắc của chúng tôi mà chúng tôi có ở đây thực sự là
+
+00:04:13.027 --> 00:04:16.065
+Mẹ của các con lắc.
+
+00:04:16.065 --> 00:04:19.279
+Hãy nhìn vào nó.
+
+00:04:19.279 --> 00:04:25.039
+15 và 1/2 kg và chiều dài của con lắc này là
+
+00:04:25.039 --> 00:04:29.049
+5.21 mét.
+
+00:04:29.049 --> 00:04:36.062
+Tuy nhiên, bạn phải hiểu rằng nó rất là khó để
+
+00:04:36.062 --> 00:04:39.038
+đo rất chính xác.
+
+00:04:39.038 --> 00:04:42.053
+Và do đó, có một sự không chắc chắn trong việc đo các
+
+00:04:42.053 --> 00:04:46.006
+độ dài mà chúng ta phải trung thực bởi vì chúng tôi là
+
+00:04:46.006 --> 00:04:48.091
+các nhà vật lý học, nói gì thì nói.
+
+00:04:48.091 --> 00:04:50.078
+Và chúng ta ước tính sự không chắc chắn là khoảng 5
+
+00:04:50.078 --> 00:04:52.077
+cm.
+
+00:04:52.077 --> 00:04:56.093
+Vì vậy, chúng ta có thể sai lệch 5 cm.
+
+00:04:56.093 --> 00:05:04.052
+Điều đó có nghĩa rằng là 1%, 5 cm là 1% trong tổng số 521.
+
+00:05:04.052 --> 00:05:09.000
+Nhưng do L chỉ hiện lên như là căn bậc hai, nó có nghĩa là
+
+00:05:09.000 --> 00:05:11.066
+sự không chắc chắn trong thời gian đó, chúng tôi dự đoán
+
+00:05:11.066 --> 00:05:13.143
+chỉ là một nửa phần trăm.
+
+00:05:13.143 --> 00:05:16.060
+Và nếu bạn không thấy lý do tại sao 1% sẽ trở thành một nửa
+
+00:05:16.060 --> 00:05:18.066
+phần trăm, OK, chỉ cần quên nó.
+
+00:05:18.066 --> 00:05:21.083
+Bạn nghe tôi là được.
+
+00:05:21.083 --> 00:05:25.058
+Vì vậy, bây giờ, tôi có thể có một dự đoán.
+
+00:05:25.058 --> 00:05:29.083
+Vì vậy, tôi dự đoán sử dụng phương trình này
+
+00:05:29.083 --> 00:05:31.006
+tất cả điều tôi làm là.
+
+00:05:31.006 --> 00:05:33.048
+Tôi đặt 5.21.
+
+00:05:33.048 --> 00:05:35.033
+Tôi đặt 9.80.
+
+00:05:35.033 --> 00:05:40.024
+Tôi nhân với 2 pi, và tôi thực hiện các dự báo rằng
+
+00:05:40.024 --> 00:05:51.055
+chu kỳ của con lắc là 4,58 ± 0,02 giây.
+
+00:05:51.055 --> 00:05:53.079
+Tại sao có cộng hoặc trừ đi 0,02?
+
+00:05:53.079 --> 00:05:57.022
+Vâng, đó là sự không chắc chắn một nửa phần trăm do
+
+00:05:57.022 --> 00:06:00.037
+căn bậc hai của L. Bạn có thể thấy ngay rằng 2 là
+
+00:06:00.037 --> 00:06:03.002
+khoảng một nửa phần trăm của 458.
+
+00:06:03.002 --> 00:06:08.056
+Vì vậy, dự đoán của tôi không thể tốt hơn.
+
+00:06:08.056 --> 00:06:10.058
+Bây giờ đến vấn đề.
+
+00:06:10.058 --> 00:06:13.058
+Tôi có để đo thời gian để thuyết phục bạn rằng nó là
+
+00:06:13.058 --> 00:06:16.091
+độc lập với biên độ và để thuyết phục bạn rằng nó là
+
+00:06:16.091 --> 00:06:18.067
+độc lập với khối lượng.
+
+00:06:18.067 --> 00:06:22.071
+Vì vậy, vấn đề lớn nhất hiện nay là chính Walter Lewin, đó là
+
+00:06:22.071 --> 00:06:24.049
+thời gian phản ứng của tôi.
+
+00:06:24.049 --> 00:06:29.000
+Làm thế nào mà tôi có thể làm cho đo lường chính xác?
+
+00:06:29.000 --> 00:06:32.061
+Điều này không có liên quan gì với sự thiếu hiểu biết về
+
+00:06:32.061 --> 00:06:35.000
+chiều dài chính xác.
+
+00:06:35.000 --> 00:06:40.099
+Bây giờ, lần cuối cùng mà tôi dạy bài giảng này với con lắc
+
+00:06:40.099 --> 00:06:42.099
+là cách đây 12 năm.
+
+00:06:42.099 --> 00:06:45.024
+Tôi đã 63.
+
+00:06:45.024 --> 00:06:50.067
+Và tại thời điểm đó, tôi đã nói với cả lớp thời gian phản ứng của tôi là một
+
+00:06:50.067 --> 00:06:53.028
+phần mười của một giây.
+
+00:06:53.028 --> 00:06:55.054
+Và đúng vậy.
+
+00:06:55.054 --> 00:06:59.063
+Nhưng bây giờ, tôi đã 75.
+
+00:06:59.063 --> 00:07:05.363
+Và vì vậy thời gian phản ứng của tôi không còn 0,1 giây.
+
+00:07:05.363 --> 00:07:07.032
+Nó là bao nhiêu?
+
+00:07:07.032 --> 00:07:08.009
+Tôi không biết.
+
+00:07:08.009 --> 00:07:14.002
+Nhưng tôi có cảm giác rằng nếu
+bạn muốn đối xử tốt với tôi
+
+00:07:14.002 --> 00:07:20.043
+một sự thay đổi, chúng ta hãy giả định rằng
+thời gian phản ứng của tôi ở tuổi 75 là
+
+00:07:20.043 --> 00:07:22.045
+nay 2/10 của một giây.
+
+00:07:22.045 --> 00:07:25.075
+Vì vậy, nếu bạn có thể sống với
+điều đó, thì mọi đo lường tôi
+
+00:07:25.075 --> 00:07:29.077
+làm, bất kể đó là bao lâu,
+sự không chắc chắn
+
+00:07:29.077 --> 00:07:31.059
+là 2/10 của một giây.
+
+00:07:31.059 --> 00:07:34.014
+Đừng nhầm lẫn rằng với 0,02.
+
+00:07:34.014 --> 00:07:37.024
+Điều đó liên quan với chiều dài.
+
+00:07:37.024 --> 00:07:39.031
+Được rồi.
+
+00:07:39.031 --> 00:07:47.024
+Vì vậy, tôi sẽ đi đầu tiên thực hiện
+một phép đo thời gian ở 5
+
+00:07:47.024 --> 00:07:52.071
+độ, và sau đó ở 10 độ biên độ.
+
+00:07:52.071 --> 00:07:56.055
+Và tôi sẽ đo 10 chu kỳ, không phải 1.
+
+00:07:56.055 --> 00:07:59.017
+Một số bạn có thể nghĩ rằng,
+rằng một sự lãng phí thời gian để
+
+00:07:59.017 --> 00:08:02.029
+làm 10 lần, nếu bạn có thể
+nhận được ngay với 1?
+
+00:08:02.029 --> 00:08:07.001
+Bạn sẽ rất nhanh chóng
+nhìn ra lý do tại sao nó là 10.
+
+00:08:07.001 --> 00:08:08.480
+Bạn sẽ thấy điều đó.
+
+00:08:08.480 --> 00:08:15.008
+Vì vậy, các 10T sau đó sẽ có một số
+cộng hoặc trừ đi của tôi
+
+00:08:15.008 --> 00:08:19.037
+không có khả năng riêng, đó là thời gian
+phản ứng 0,2 giây của tôi.
+
+00:08:19.037 --> 00:08:21.041
+Tôi có thể thay đổi điều đó.
+
+00:08:21.041 --> 00:08:23.071
+Và như vậy thì tôi làm với 10 độ.
+
+00:08:23.071 --> 00:08:25.774
+Và sau đó chúng ta có được một lần nữa, 10T.
+
+00:08:25.774 --> 00:08:27.065
+Chúng ta nhận được một số.
+
+00:08:27.065 --> 00:08:31.065
+Và sau đó chúng ta một lần nữa,
+cộng hoặc trừ 0,2 giây.
+
+00:08:31.065 --> 00:08:34.078
+Và tôi sẽ chứng minh cho bạn rằng trong
+
+00:08:34.078 --> 00:08:37.789
+sự không chắc chắn của các số đo,
+tôi sẽ có được
+
+00:08:37.789 --> 00:08:42.558
+cùng một số giống nhau trong cả ba
+trường hợp nằm trong sự không chắc chắn.
+
+00:08:42.558 --> 00:08:47.018
+Vì vậy, nếu bạn đã sẵn sàng cho điều đó,
+bạn thấy ở đây các bộ đếm thời gian.
+
+00:08:47.018 --> 00:08:49.029
+Tất cả các bạn có thể nhìn thấy.
+
+00:08:49.029 --> 00:08:51.006
+Và ở đây bạn thấy con lắc.
+
+00:08:51.006 --> 00:08:53.088
+Và tôi có hai dấu vết trên sàn nhà.
+
+00:08:53.088 --> 00:08:56.093
+Nếu tôi giữ bob ở đây, sau đó nó là 5 độ.
+
+00:08:56.093 --> 00:08:58.038
+Đây là 5 độ.
+
+00:08:58.038 --> 00:09:07.056
+Và khi tôi giữ bob đây, nó là 10 độ.
+
+00:09:07.056 --> 00:09:11.041
+Đo thời gian không dễ dàng.
+
+00:09:11.041 --> 00:09:15.062
+Cách tốt nhất để làm điều đó là bắt đầu đếm thời gian khi
+
+00:09:15.062 --> 00:09:17.068
+con lắc đến một điểm dừng.
+
+00:09:17.068 --> 00:09:19.092
+Điểm này được xác định rõ.
+
+00:09:19.092 --> 00:09:21.063
+Và sau đó bạn hãy để nó xoay 10 lần.
+
+00:09:21.063 --> 00:09:26.006
+Và sau đó khi nó đến một điểm dừng, bạn chặn nó lại.
+
+00:09:26.006 --> 00:09:30.036
+Và nó sẽ giúp tôi nếu bạn muốn đếm có bao nhiêu
+
+00:09:30.036 --> 00:09:34.055
+dao động, chúng tôi đã thực hiện,
+bởi vì sau đó tôi không phải
+
+00:09:34.055 --> 00:09:35.079
+nhìn vào nó.
+
+00:09:35.079 --> 00:09:38.074
+Tất cả tôi phải làm là khi tôi đến gần 10, tôi phải
+
+00:09:38.074 --> 00:09:42.001
+chờ cho tới thời điểm dừng lại, và
+
+00:09:42.001 --> 00:09:43.226
+sau đó tôi sẽ kết thúc nó.
+
+00:09:43.226 --> 00:09:53.082
+Vì vậy, chúng tôi sẽ làm
+điều này đầu tiên tại 5 độ.
+
+00:09:53.082 --> 00:10:00.052
+tôi sẽ bắt đầu nó khi nói đến ở đây.
+
+00:10:00.052 --> 00:10:01.023
+ĐƯỢC.
+
+00:10:01.023 --> 00:10:03.252
+Bây giờ bạn đếm.
+
+00:10:03.252 --> 00:10:17.021
+Một, hai, ba, bốn.
+
+00:10:17.021 --> 00:10:20.538
+WALTER Lewin: Bạn đang làm rất tốt.
+
+00:10:20.538 --> 00:10:21.087
+Năm.
+
+00:10:21.087 --> 00:10:25.648
+WALTER Lewin:
+Bạn sẽ vượt qua khóa học này.
+
+00:10:25.648 --> 00:10:45.205
+6, 7, 8, 9, 10.
+
+00:10:45.205 --> 00:10:55.063
+[Vỗ tay]
+
+00:10:55.063 --> 00:10:59.064
+WALTER Lewin: 45,7.
+
+00:10:59.064 --> 00:11:05.024
+Vì vậy T. Đó là toàn bộ
+phương trình này bây giờ
+
+00:11:05.024 --> 00:11:08.001
+được chia cho 10.
+
+00:11:08.001 --> 00:11:10.094
+Và bây giờ bạn sẽ thấy
+tại sao tôi lại đo 10 dao động.
+
+00:11:10.094 --> 00:11:18.005
+Vì vậy, T sẽ là 4,57
+cộng trừ 0,2 chia cho 10.
+
+00:11:18.005 --> 00:11:21.087
+Đó là, cộng hoặc trừ đi 0,02 giây.
+
+00:11:21.087 --> 00:11:26.044
+Và bạn thấy chắc chắn trong việc dự đoán.
+
+00:11:26.044 --> 00:11:28.042
+Vì vậy, có lẽ thời gian phản ứng
+của tôi là một chút tốt hơn
+
+00:11:28.042 --> 00:11:31.043
+hơn 2/10 của một giây.
+
+00:11:31.043 --> 00:11:36.016
+Đừng tin tưởng vào nó bởi vì
+bạn chưa thấy phần còn lại.
+
+00:11:36.016 --> 00:12:00.008
+Vì vậy, bây giờ 10 độ.
+
+00:12:00.008 --> 00:12:05.011
+Khoảnh khắc đó là rất quan trọng.
+
+00:12:05.011 --> 00:12:07.066
+Đó là lúc bạn có thể bị mất 4/10 của một giây,
+và sau đó bạn thấy minh
+
+00:12:07.066 --> 00:12:10.494
+mình như một thằng ngốc
+trước mặt học sinh của bạn.
+
+00:12:10.494 --> 00:12:44.348
+KHÁN GIẢ: 3, 4, 5, 6, 7, 8, 9, 10.
+
+00:12:44.348 --> 00:13:11.022
+[Vỗ tay]
+
+00:13:11.022 --> 00:13:14.028
+WALTER Lewin: Bây giờ đến phần khó khăn nhất.
+
+00:13:14.028 --> 00:13:17.073
+Phần khó nhất là chúng ta phải
+thay đổi khối lượng của
+
+00:13:17.073 --> 00:13:21.005
+đối tượng này.
+
+00:13:21.005 --> 00:13:24.094
+Và cách mà tôi sẽ làm điều đó được
+
+00:13:24.094 --> 00:13:33.011
+thể hiện trên trang bìa của cuốn sách của tôi.
+
+00:13:33.011 --> 00:13:38.099
+Vâng, tôi sẽ trèo lên con lắc đó.
+
+00:13:38.099 --> 00:13:42.033
+Đây là một thí nghiệm khó khăn.
+
+00:13:42.033 --> 00:13:43.099
+Trước hết, nó là đau đớn.
+
+00:13:43.099 --> 00:13:46.006
+Nó thực sự.
+
+00:13:46.006 --> 00:13:49.065
+Thứ hai, đo thời gian khó khăn.
+
+00:13:49.065 --> 00:13:52.025
+Bởi vì khi bạn nhìn vào con lắc và khi bạn nhìn thấy nó
+
+00:13:52.025 --> 00:13:56.035
+đứng lại, đó thực sự được xác định rất rõ.
+
+00:13:56.035 --> 00:13:57.093
+cộng hoặc trừ 0,1 giây.
+
+00:13:57.093 --> 00:14:02.003
+Tuy nhiên, khi bạn đu mình,
+sau đó bạn chỉ có thể làm
+
+00:14:02.003 --> 00:14:06.085
+bằng cách cảm nhận khoảnh khắc
+mà bạn nghĩ rằng bạn đứng yên.
+
+00:14:06.085 --> 00:14:09.046
+Và đó là những gì tôi sẽ làm.
+
+00:14:09.046 --> 00:14:13.004
+Và sau đó bạn sẽ đếm.
+
+00:14:13.004 --> 00:14:16.001
+Và điều này là rất khó chịu.
+
+00:14:16.001 --> 00:14:24.068
+Nó thật vậy.
+
+00:14:24.068 --> 00:14:28.065
+Oh, có cái khác tôi chưa nói với bạn.
+
+00:14:28.065 --> 00:14:31.051
+Nếu bạn là một nhà vật lý tốt,
+bạn sẽ nói, nếu bạn ngồi trên quả Bob này,
+
+00:14:31.051 --> 00:14:36.006
+thì có nghĩa là bạn làm cho trọng tâm của bob
+
+00:14:36.006 --> 00:14:38.048
+lên cao.
+
+00:14:38.048 --> 00:14:41.056
+Và do đó, độ dài của con lắc sẽ rút ngắn.
+
+00:14:41.056 --> 00:14:45.045
+Và như vậy bạn sẽ có được chu kỳ ngắn hơn.
+
+00:14:45.045 --> 00:14:48.032
+Và cũng tôi biết thế.
+
+00:14:48.032 --> 00:14:53.045
+Vì vậy, tôi sẽ phải trải dài cơ thể của tôi để khi
+
+00:14:53.045 --> 00:14:55.006
+nó ở đây, mà nó gần như hoàn toàn
+
+00:14:55.006 --> 00:14:57.036
+song song với sàn nhà.
+
+00:14:57.036 --> 00:15:02.015
+Nếu tôi không làm điều đó,
+tôi sẽ không thể để thuyết phục bạn rằng
+
+00:15:02.015 --> 00:15:04.077
+chu kỳ là độc lập với khối lượng.
+
+00:15:04.077 --> 00:15:14.057
+Và điều đó làm nó rất khó khăn cho tôi.
+
+00:15:14.057 --> 00:15:17.051
+Vì vậy, tôi sẽ bắt đầu nó tại thời điểm.
+
+00:15:17.051 --> 00:15:36.054
+Bạn sẽ nhìn thấy khi nào, và sau đó bạn đếm.
+
+00:15:36.054 --> 00:15:38.186
+Bạn đã sẵn sàng chưa?
+
+00:15:38.186 --> 00:15:39.665
+KHÁN GIẢ:.
+
+00:15:39.665 --> 00:15:47.006
+WALTER Lewin: OK.
+
+00:15:47.006 --> 00:15:47.855
+Bạn đếm.
+
+00:15:47.855 --> 00:15:58.027
+KHÁN GIẢN: One.
+
+00:15:58.027 --> 00:16:06.062
+WALTER Lewin: Điều này đôi khi xảy ra.
+
+00:16:06.062 --> 00:16:09.095
+Và trên thực tế, không ai biết lý do tại sao.
+
+00:16:09.095 --> 00:16:12.701
+Phải bắt đầu lại từ đầu.
+
+00:16:12.701 --> 00:16:15.019
+[TƯỢNG lạch cạch]
+
+00:16:15.019 --> 00:16:16.003
+WALTER Lewin: Tôi đã không dừng nó.
+
+00:16:16.003 --> 00:16:17.093
+Tôi thực sự chưa dừng nó.
+
+00:16:17.093 --> 00:16:23.007
+Oh, nó vẫn đếm?
+
+00:16:23.007 --> 00:16:26.002
+OK, tôi có đủ năng lượng để
+thử thêm một lần nữa, nhưng
+
+00:16:26.002 --> 00:16:29.036
+không đủ cho hai lần thử.
+
+00:16:29.036 --> 00:16:32.098
+ĐƯỢC.
+
+00:16:32.098 --> 00:16:33.008
+Bạn đã sẵn sàng?
+
+00:16:33.008 --> 00:16:34.094
+KHÁN GIẢ: Yeah.
+
+00:16:34.094 --> 00:16:44.408
+WALTER Lewin: OK.
+
+00:16:44.408 --> 00:16:54.051
+KHÁN GIẢ: 1, 2, 3--
+
+00:16:54.051 --> 00:16:57.151
+WALTER Lewin: Ah, điều này thực sự là đau.
+
+00:16:57.151 --> 00:17:03.352
+KHÁN GIẢ: --4, 5--
+
+00:17:03.352 --> 00:17:06.002
+WALTER Lewin: bạn có thể đếm nhanh hơn một chút?
+
+00:17:06.002 --> 00:17:27.348
+KHÁN GIẢ --6, 7, 8, 9, 10.
+
+00:17:27.348 --> 00:18:01.008
+[Vỗ tay]
+
+00:18:01.008 --> 00:18:06.081
+WALTER Lewin: 10T với Walter Lewin.
+
+00:18:06.081 --> 00:18:08.009
+Nó là gì?
+
+00:18:08.009 --> 00:18:17.051
+45,9 cộng trừ 0,2.
+
+00:18:17.051 --> 00:18:25.045
+Thời gian là 4,59 cộng hoặc trừ đi 0,02.
+
+00:18:25.045 --> 00:18:28.358
+Tôi đã nói với bạn, vật lý hoạt động.
+
+00:18:28.358 --> 00:18:44.052
+[Vỗ tay]
+
+00:18:44.052 --> 00:18:47.064
+WALTER Lewin: Nếu tôi có một quả bóng
+tennis trong tay tôi và tôi
+
+00:18:47.064 --> 00:18:50.042
+thử các quả bóng tennis từ một
+độ cao nhất định, không
+
+00:18:50.042 --> 00:18:57.032
+vận tốc, và nó sẽ nảy trở lại,
+nó không bao giờ có thể nảy
+
+00:18:57.032 --> 00:19:01.000
+cao hơn so với nơi mà nó bắt đầu.
+
+00:19:01.000 --> 00:19:05.036
+Nếu nó làm được vậy, chúng tôi,
+các nhà vật lý, sẽ nói rằng là tổng năng lượng
+
+00:19:05.036 --> 00:19:08.006
+không được bảo toàn.
+
+00:19:08.006 --> 00:19:12.026
+Và đó là thứ linh thiêng nhất của tất cả các luật vật lý.
+
+00:19:12.026 --> 00:19:17.024
+Nó không thể cao hơn.
+
+00:19:17.024 --> 00:19:24.001
+Giả sử đối tượng có khối lượng m và
+
+00:19:24.001 --> 00:19:31.099
+khoảng cách h từ sàn nhà.
+
+00:19:31.099 --> 00:19:34.046
+Dưới đây là sàn, và đây là đối tượng, h.
+khoảng cách h từ sàn nhà.
+
+00:19:34.046 --> 00:19:39.096
+Chúng tôi gắn vị trí của đối tượng đó với một năng lượng
+
+00:19:39.096 --> 00:19:40.008
+có cái tên.
+
+00:19:40.008 --> 00:19:43.058
+Chúng tôi gọi đó là năng lượng tiềm năng.
+
+00:19:43.058 --> 00:19:47.075
+Và đó năng lượng tiềm năng là mgh.
+
+00:19:47.075 --> 00:19:49.028
+Bạn đã biết g là gì.
+
+00:19:49.028 --> 00:19:53.095
+Vâng, h là khoảng cách này theo mét.
+
+00:19:53.095 --> 00:19:58.015
+Vì vậy, khi đối tượng đang ở đây trên sàn, h là 0.
+
+00:19:58.015 --> 00:20:01.092
+Vì vậy, không có năng lượng tiềm năng.
+
+00:20:01.092 --> 00:20:07.035
+Khi đối tượng đi xuống, nó tăng tốc và chúng tôi
+
+00:20:07.035 --> 00:20:11.073
+gắn với năng lượng vận tốc, mà chúng tôi gọi là động năng.
+
+00:20:11.073 --> 00:20:14.076
+Và động năng của một vật có
+
+00:20:14.076 --> 00:20:22.047
+khối lượng m là 1/2 mv bình.
+
+00:20:22.047 --> 00:20:27.954
+m là khối lượng và v là tốc độ của đối tượng đó.
+
+00:20:27.954 --> 00:20:32.001
+Nếu đối tượng đi xuống và nó chạm sàn nhà, sau đó
+
+00:20:32.001 --> 00:20:34.013
+năng lượng tiềm năng là 0.
+
+00:20:34.013 --> 00:20:38.436
+Và tất cả những năng lượng được chuyển thành động năng.
+
+00:20:38.436 --> 00:20:42.077
+Bởi vì năng lượng, chúng tôi tin rằng, được bảo toàn.
+
+00:20:42.077 --> 00:20:47.072
+Bây giờ, khi nó chạm sàn, một số trong đó động năng
+
+00:20:47.072 --> 00:20:52.054
+có thể được chuyển đổi thành nhiệt vì sự nén.
+
+00:20:52.054 --> 00:20:55.005
+Nếu nó là một quả bóng tennis, điều đó chắc chắn sẽ xảy ra.
+
+00:20:55.005 --> 00:20:59.054
+Vì vậy, nói cách khác, khi nó bị trả lại, tổng năng lượng
+
+00:20:59.054 --> 00:21:03.041
+không còn là năng lượng h đầy đủ,
+nhưng là ít hơn một chút, và
+
+00:21:03.041 --> 00:21:06.075
+do đó, nó sẽ không nãy lên cao chừng này.
+
+00:21:06.075 --> 00:21:11.002
+Nhưng không có cách nào mà nó có thể đi lên cao hơn h.
+
+00:21:11.002 --> 00:21:15.074
+Giả sử nó có thể nảy lên tới đây.
+
+00:21:15.074 --> 00:21:19.085
+Vâng, nó sẽ giải quyết năng lượng của thế giới.
+
+00:21:19.085 --> 00:21:24.000
+Bởi vì bạn chỉ đơn giản là ngồi xuống và
+ngồi xem trò chơi với bóng.
+
+00:21:24.000 --> 00:21:26.077
+Và quả bóng cao hơn, và cái thứ hai nãy lên
+
+00:21:26.077 --> 00:21:27.083
+đi lại cao hơn.
+
+00:21:27.083 --> 00:21:30.043
+nếu nó cao hơn ở lần đầu tiên, nó sẽ làm điều đó ở
+
+00:21:30.043 --> 00:21:31.053
+lần thứ hai.
+
+00:21:31.053 --> 00:21:34.077
+Và như vậy sau một giờ, nó sẽ ở khoảng một vài ngàn
+
+00:21:34.077 --> 00:21:36.039
+mét trên bầu trời.
+
+00:21:36.039 --> 00:21:39.006
+Và khi nó đi xuống trên sàn nhà,
+nó có một tốc độ rất lớn
+
+00:21:39.006 --> 00:21:42.057
+lượng lớn động năng.
+
+00:21:42.057 --> 00:21:44.068
+Và như vậy bạn có năng lượng từ không gì cả.
+
+00:21:44.068 --> 00:21:47.035
+Nhưng không có những điều như vậy
+trong vật lý như là một bữa ăn trưa miễn phí, vì vậy
+
+00:21:47.035 --> 00:21:49.033
+nó sẽ không xảy ra.
+
+00:21:49.033 --> 00:21:53.095
+Vì vậy, các đối tượng không bao giờ có thể đi cao hơn h.
+
+00:21:53.095 --> 00:21:57.011
+Và với một quả bóng tennis, cái chúng ta gọi là
+
+00:21:57.011 --> 00:22:01.042
+sinh nhiệt khi nó chạm sàn.
+
+00:22:01.042 --> 00:22:07.069
+Bây giờ, tình hình là khó khăn với một con lắc
+
+00:22:07.069 --> 00:22:10.066
+vì một con lắc không chạm sàn.
+
+00:22:10.066 --> 00:22:13.041
+Và vì vậy không có sự mất nhiệt bởi vì nó
+
+00:22:13.041 --> 00:22:15.035
+không chạm sàn.
+
+00:22:15.035 --> 00:22:19.046
+Vì vậy, nếu bạn mang con lắc tại
+một khoảng cách nhất định trên
+
+00:22:19.046 --> 00:22:24.023
+mặt đất như thế này, và bạn để cho nó đu, khi nó trở lại
+
+00:22:24.023 --> 00:22:28.455
+đây, nó gần như là chính xác tại cùng một chiều cao.
+
+00:22:28.455 --> 00:22:30.065
+Nó có thể không được cao hơn.
+
+00:22:30.065 --> 00:22:34.008
+Đó sẽ là một sự vi phạm của việc bảo toàn năng lượng.
+
+00:22:34.008 --> 00:22:38.095
+Nhưng vì lực cản không khí là quá nhỏ,
+
+00:22:38.095 --> 00:22:40.021
+gần như không có giảm xóc.
+
+00:22:40.021 --> 00:22:43.021
+Và trên thực tế, khi bạn nhìn thấy thí nghiệm tôi vừa làm, bạn
+
+00:22:43.021 --> 00:22:47.032
+có thể nhận thấy rằng bạn thực sự không thấy điều này.
+
+00:22:47.032 --> 00:22:50.012
+Nó thực sự đu đưa và nó tiếp tục.
+
+00:22:50.012 --> 00:22:53.081
+Miễn là bạn nhận ra rằng nếu tôi thả nó từ một
+
+00:22:53.081 --> 00:22:58.093
+vị trí với tốc độ 0, nó có thể không bao giờ, khi nó trở về, được
+
+00:22:58.093 --> 00:23:02.004
+cao hơn so với vị trí đó.
+
+00:23:02.004 --> 00:23:07.096
+Toàn bộ ý tưởng này được đằng sau máy phá dỡ các tòa nhà.
+
+00:23:07.096 --> 00:23:11.034
+Với việc phá dỡ nhà, bạn phải cần một khối lượng rất lớn.
+
+00:23:11.034 --> 00:23:14.031
+Bạn nhấc nó lên trên một khoảng cách h.
+
+00:23:14.031 --> 00:23:17.063
+Và sau đó, bạn đặt mục tiêu của bạn,
+đó là ngôi nhà của bạn, hoặc
+
+00:23:17.063 --> 00:23:21.000
+là bất cứ gì, ngay ở phía dưới khi tất cả
+
+00:23:21.000 --> 00:23:24.082
+năng lượng tiềm năng được chuyển đổi
+thành năng lượng động học.
+
+00:23:24.082 --> 00:23:29.001
+Và do đó, đối tượng này được va chạm
+với một lượng lớn năng lượng,
+
+00:23:29.001 --> 00:23:35.012
+ở tốc độ cao, và bạn phá hủy các bức tường.
+
+00:23:35.012 --> 00:23:36.064
+Ở đây, chúng ta có một tấm kính.
+
+00:23:36.064 --> 00:23:40.035
+Bạn tốt hơn nên đi ra khỏi đó bởi vì đây là một thí nghiệm
+
+00:23:40.035 --> 00:23:41.092
+nguy hiểm.
+
+00:23:41.092 --> 00:23:45.011
+Đây là một bức kính.
+
+00:23:45.011 --> 00:23:51.075
+Vì vậy, nếu tôi mang lại cho cái này chính xác ở chỗ cái kính--
+
+00:23:51.075 --> 00:23:56.081
+và nếu tôi đủ thông minh để cho nó đi với tốc độ là 0, nó
+
+00:23:56.081 --> 00:24:00.000
+không thể phá vỡ kính.
+
+00:24:00.000 --> 00:24:03.059
+Nhưng nếu tay tôi lắc một chút,
+và nếu tôi đưa cho nó một
+
+00:24:03.059 --> 00:24:07.006
+hích, thì tất nhiên, nó có thể trở lại.
+
+00:24:07.006 --> 00:24:11.007
+Và nó có thể muốn đi cao hơn.
+
+00:24:11.007 --> 00:24:19.685
+Và đó có nghĩa là--
+
+00:24:19.685 --> 00:24:29.009
+[Cười]
+
+00:24:29.009 --> 00:24:32.058
+[Vỗ tay]
+
+00:24:32.058 --> 00:24:34.145
+WALTER Lewin: Tôi biết bạn, chàng trai.
+
+00:24:34.145 --> 00:24:39.076
+Học sinh yêu thích khi kính bị vỡ.
+
+00:24:39.076 --> 00:24:51.398
+Đó là lý do tại sao họ phải trả học phí cao như vậy tại MIT.
+
+00:24:51.398 --> 00:24:59.762
+[Vỗ tay]
+
+00:24:59.762 --> 00:25:03.091
+[Cười]
+
+00:25:03.091 --> 00:25:04.052
+WALTER Lewin: OK.
+
+00:25:04.052 --> 00:25:07.083
+Chỉ cần lấy nó ra.
+
+00:25:07.083 --> 00:25:14.032
+Bây giờ đến một thí nghiệm, mà nó khó khăn nhất
+
+00:25:14.032 --> 00:25:18.062
+với tôi trong cả buổi tối này.
+
+00:25:18.062 --> 00:25:23.902
+sẽ mạo hiểm mạng cuộc sống
+của tôi để cho bạn thấy rằng tôi
+
+00:25:23.902 --> 00:25:28.051
+thực sự là một tín đồ của việc bảo toàn năng lượng.
+
+00:25:28.051 --> 00:25:33.045
+Và bạn sẽ thấy làm thế nào tôi làm điều đó.
+
+00:25:33.045 --> 00:25:37.075
+tôi sẽ chiếm chỗ của kính.
+
+00:25:37.075 --> 00:25:44.006
+Và tôi sẽ giữ đối tượng này ở cằm của tôi.
+
+00:25:44.006 --> 00:25:46.005
+Và tôi không thể di chuyển xa hơn về phía sau, vì vậy
+
+00:25:46.005 --> 00:25:48.092
+sẽ không có gian lận ở đây.
+
+00:25:48.092 --> 00:25:53.037
+tôi sẽ thả nó ra ngay từ cằm của tôi ở đây.
+
+00:25:53.037 --> 00:26:02.031
+Bạn nhận ra, như bạn đã thấy, rằng chỉ cần đẩy nhỏ
+
+00:26:02.031 --> 00:26:06.061
+và đây sẽ là bài giảng cuối cùng của tôi.
+
+00:26:06.061 --> 00:26:13.008
+Và không có ký tặng sách sau đó.
+
+00:26:13.008 --> 00:26:17.001
+Vì vậy, tôi cần sự hợp tác của bạn.
+
+00:26:17.001 --> 00:26:25.055
+Khi tôi đếm 3 xuống 0, không có tiếng ồn, không ho.
+
+00:26:25.055 --> 00:26:29.087
+Và tôi thậm chí sẽ đánh giá cao nếu trong 3 giây,
+
+00:26:29.087 --> 00:26:34.064
+bạn thậm chí sẽ không thở được.
+
+00:26:34.064 --> 00:26:37.091
+Và tôi phải nói với bạn điều này.
+
+00:26:37.091 --> 00:26:41.033
+Tôi đã không thể ngủ cả đêm.
+
+00:26:41.033 --> 00:26:43.016
+tôi sẽ nhắm mắt lại.
+
+00:26:43.016 --> 00:26:45.043
+Tôi không muốn nhìn thấy nó.
+
+00:26:45.043 --> 00:26:54.002
+Và tôi sẽ đếm từ 3 xuống 0.
+
+00:26:54.002 --> 00:27:03.992
+3, 2, 1, 0.
+
+00:27:03.992 --> 00:27:21.068
+[Vỗ tay]
+
+00:27:21.068 --> 00:27:25.001
+WALTER Lewin: Và thông thường, sau thí nghiệm này, nói
+
+00:27:25.001 --> 00:27:30.093
+với lớp rằng, vật lý hoạt động, và tôi vẫn còn sống.
+
+00:27:30.093 --> 00:27:33.001
+Và khi một bài báo viết về tôi trong tờ The New
+
+00:27:33.001 --> 00:27:36.014
+York Times một vài năm trước đây,
+trên trang thứ hai của The New
+
+00:27:36.014 --> 00:27:39.002
+York Times là sự khôn ngoan nhất trong ngày.
+
+00:27:39.002 --> 00:27:42.035
+Và sự khôn ngoan trong ngày là vật lý hoạt động,
+
+00:27:42.035 --> 00:27:44.188
+và tôi vẫn còn sống.
+
+00:27:44.188 --> 00:27:58.066
+[Vỗ tay]
+
+00:27:58.066 --> 00:28:03.056
+WALTER Lewin: ánh sáng trắng,
+giống như ánh sáng mặt trời, bao gồm
+
+00:28:03.056 --> 00:28:06.097
+tất cả các màu sắc mà bạn nhìn thấy trong cầu vồng.
+
+00:28:06.097 --> 00:28:12.068
+Nếu tôi tán xạ ánh sáng trắng bằng các hạt rất nhỏ, thì
+
+00:28:12.068 --> 00:28:17.019
+ánh sáng màu xanh bị tán xạ nhiều
+hơn so với ánh sáng màu đỏ.
+
+00:28:17.019 --> 00:28:19.076
+Và chúng tôi cho nó một cái tên trong vật lý,
+chúng tôi gọi đó tán xạ
+
+00:28:19.076 --> 00:28:21.088
+Rayleigh.
+
+00:28:21.088 --> 00:28:25.041
+Tán xạ Rayleigh chỉ xảy ra khi các hạt
+
+00:28:25.041 --> 00:28:28.074
+tán xạ ánh sáng trắng là nhỏ hơn
+
+00:28:28.074 --> 00:28:31.037
+một phần mười của một micron.
+
+00:28:31.037 --> 00:28:34.071
+Điều đó có nghĩa là một ngàn lần nhỏ hơn
+
+00:28:34.071 --> 00:28:37.012
+độ dày của mái tóc của bạn.
+
+00:28:37.012 --> 00:28:41.088
+Vì vậy, nó phải rất, rất là nhỏ.
+
+00:28:41.088 --> 00:28:45.008
+Nếu các hạt lớn một nửa micron, thì
+
+00:28:45.008 --> 00:28:47.081
+không có là tán xạ Rayleigh.
+
+00:28:47.081 --> 00:28:50.073
+Không tán xạ cho ra ánh sáng màu xanh.
+
+00:28:50.073 --> 00:28:55.064
+Tất cả các màu màu tán xa như nhau,
+và ánh sáng tán xạ
+
+00:28:55.064 --> 00:28:57.006
+bởi các hạt cở một nửa micron hoặc
+
+00:28:57.006 --> 00:29:03.066
+lớn hơn vẫn ra màu trắng.
+
+00:29:03.066 --> 00:29:08.007
+Sự phụ thuộc của cường độ tán xạ--
+
+00:29:08.007 --> 00:29:12.039
+vì vậy tôi ký hiệu là P, cường độ--
+
+00:29:12.039 --> 00:29:18.006
+tỷ lệ thuận với, khi chúng ta có tán xạ Rayleigh.
+
+00:29:18.006 --> 00:29:21.045
+Đây là phương trình duy nhất có thể
+làm phiền bạn, tới 1 trên
+
+00:29:21.045 --> 00:29:24.025
+lambda mũ thứ tư, và lambda là
+
+00:29:24.025 --> 00:29:26.008
+bước sóng của ánh sáng.
+
+00:29:26.008 --> 00:29:29.001
+Và tôi sẽ không làm phiền bạn để cho
+bạn biết bước sóng của ánh sáng
+
+00:29:29.001 --> 00:29:29.067
+là gì.
+
+00:29:29.067 --> 00:29:31.056
+Điều đó có thể gây nhầm lẫn cho bạn.
+
+00:29:31.056 --> 00:29:37.047
+Nhưng tôi sẽ cho bạn biết rằng
+ánh sáng xanh có bước sóng
+
+00:29:37.047 --> 00:29:42.051
+ngắn hơn so với ánh sáng đỏ khoảng 1,5 lần.
+
+00:29:42.051 --> 00:29:46.023
+Và do đó, lấy 1.5 mũ 4--
+
+00:29:46.023 --> 00:29:47.033
+Tin tôi đi.
+
+00:29:47.033 --> 00:29:50.069
+Yeah, 1.5 mũ 4, bạn được 5.
+
+00:29:50.069 --> 00:29:54.084
+Và điều đó có nghĩa là, trong tán xạ Rayleigh,
+ánh sáng màu xanh có
+
+00:29:54.084 --> 00:30:00.096
+xác suất cao hơn năm lần để bị
+tán xạ hơn ánh sáng màu đỏ.
+
+00:30:00.096 --> 00:30:05.085
+Và tôi sẽ chứng minh điều đó với bạn
+trong hai cách hoàn thành
+
+00:30:05.085 --> 00:30:08.015
+khác nhau.
+
+00:30:08.015 --> 00:30:12.011
+Cách đầu tiên điều mà tôi sẽ làm đó là để làm cho nó
+
+00:30:12.011 --> 00:30:16.052
+hoàn toàn tối đen trong giảng đường và ánh sáng đi
+
+00:30:16.052 --> 00:30:19.094
+thẳng lên ở đây.
+
+00:30:19.094 --> 00:30:25.008
+Sau đó, tôi sẽ đốt một điếu thuốc, và khói của
+
+00:30:25.008 --> 00:30:28.041
+thuốc lá có các hạt nhỏ
+
+00:30:28.041 --> 00:30:30.075
+hơn một phần mười của một micron.
+
+00:30:30.075 --> 00:30:34.094
+Và do đó, ánh sáng mà bạn thấy được tán xạ ra khỏi
+
+00:30:34.094 --> 00:30:38.049
+đám khói sẽ là màu xanh.
+
+00:30:38.049 --> 00:30:42.002
+Vì vậy, bạn sẽ thấy, bằng chính đôi mắt của mình, tán xạ
+
+00:30:42.002 --> 00:30:42.078
+Rayleigh.
+
+00:30:42.078 --> 00:30:46.024
+Bởi vì ánh sáng đó, ít nhiều, đi xuyên qua nó.
+
+00:30:46.024 --> 00:30:49.047
+màu xanh chiếm đa số và có
+
+00:30:49.047 --> 00:30:51.099
+xác suất cao nhất.
+
+00:30:51.099 --> 00:30:56.007
+Vì vậy, chúng tôi, đầu tiên, sẽ làm
+thí nghiệm này để chỉ cho bạn
+
+00:30:56.007 --> 00:31:00.003
+tán xạ Rayleigh của khói thuốc lá.
+
+00:31:00.003 --> 00:31:04.004
+Và sau đó tôi có một bất ngờ dành
+cho bạn và chỉ cho bạn tán xạ
+
+00:31:04.004 --> 00:31:05.042
+Mie.
+
+00:31:05.042 --> 00:31:07.055
+Nhưng đầu tiên hãy làm tán xạ Rayleigh với
+
+00:31:07.055 --> 00:31:10.067
+khói thuốc lá.
+
+00:31:10.067 --> 00:31:15.045
+Đây cũng là một thí nghiệm không dễ chịu.
+
+00:31:15.045 --> 00:31:22.222
+Đối với những bạn, người nghĩ rằng
+giảng dạy là dễ dàng, không có vậy.
+
+00:31:22.222 --> 00:31:29.194
+[Cười]
+
+00:31:29.194 --> 00:31:43.014
+[Vỗ tay]
+
+00:31:43.014 --> 00:31:55.039
+WALTER Lewin: OK.
+
+00:31:55.039 --> 00:31:57.095
+tối sẽ làm cho nó hoàn toàn tối đen,
+và sau đó tôi sẽ
+
+00:31:57.095 --> 00:32:00.064
+sẽ giữ nó ở đó.
+
+00:32:00.064 --> 00:32:02.051
+Tất cả đèn tắt.
+
+00:32:02.051 --> 00:32:06.048
+Tất cả tất.
+
+00:32:06.048 --> 00:32:08.084
+Vì vậy, tất cả chúng ta đều đồng ý rằng đây là ánh sáng trắng,
+
+00:32:08.084 --> 00:32:10.029
+được chiếu đến
+
+00:32:10.029 --> 00:32:12.057
+Và bạn không nhìn thấy ánh sáng ở đây vì không có gì tán
+
+00:32:12.057 --> 00:32:14.065
+xạ nó theo hướng của bạn.
+
+00:32:14.065 --> 00:32:15.077
+Vì vậy, bạn không nhìn thấy ánh sáng ở đây.
+
+00:32:15.077 --> 00:32:18.097
+bây giờ nhìn.
+
+00:32:18.097 --> 00:32:22.053
+Những người bạn của những người nhìn
+thấy màu xanh nói yeah.
+
+00:32:22.053 --> 00:32:24.036
+KHÁN GIẢ: Yeah.
+
+00:32:24.036 --> 00:32:28.088
+WALTER Lewin: người bạn của nhìn
+không thấy màu xanh, nói không.
+
+00:32:28.088 --> 00:32:36.038
+WALTER Lewin: Bạn nên đi gặp một bác sĩ nhãn khoa.
+
+00:32:36.038 --> 00:32:39.054
+Bây giờ đến phần khó nhất.
+
+00:32:39.054 --> 00:32:43.084
+Nếu tôi hít khói và tôi để nó trong phổi của tôi cho một
+
+00:32:43.084 --> 00:32:48.011
+phút, có hơi nước trong phổi của tôi.
+
+00:32:48.011 --> 00:32:53.015
+Và hơi nước này sẽ kết thành những
+
+00:32:53.015 --> 00:32:54.081
+hạt khói nhỏ.
+
+00:32:54.081 --> 00:32:57.021
+Và do đó, các hạt khói sẽ phát triển.
+
+00:32:57.021 --> 00:32:59.007
+nó sẽ trở thành giọt nước nhỏ, lớn hơn
+
+00:32:59.007 --> 00:33:01.099
+hơn 0,5 micron.
+
+00:33:01.099 --> 00:33:06.001
+Và điều đó có nghĩa là nếu tôi cầm nó
+một phút trong phổi của tôi và
+
+00:33:06.001 --> 00:33:10.059
+phun nó ra, bạn sẽ không nhìn thấy ánh sáng
+màu xanh, nhưng bạn sẽ thấy
+
+00:33:10.059 --> 00:33:11.002
+ánh sáng trắng.
+
+00:33:11.002 --> 00:33:14.028
+Bởi vì bạn thấy xạ Mie, tất cả các màu
+
+00:33:14.028 --> 00:33:16.075
+tán xạ như nhau.
+
+00:33:16.075 --> 00:33:21.091
+Tôi sẽ cho bạn biết rằng ngay
+trước khi tôi phun nó ra và bạn
+
+00:33:21.091 --> 00:33:27.079
+sẽ nhìn thấy khói trắng, tôi sẽ chỉ là trước khi
+tôi làm điều đó, tôi
+
+00:33:27.079 --> 00:33:30.049
+sẽ nhắc nhở bạn về những màu sắc
+mà bạn nhìn thấy bây giờ.
+
+00:33:30.049 --> 00:33:32.051
+Tôi sẽ chỉ làm điều đó cho một vài giây.
+
+00:33:32.051 --> 00:33:37.059
+Sau đó, tôi sẽ loại bỏ nó và tôi sẽ xóa sạch phổi của tôi.
+
+00:33:37.059 --> 00:34:04.226
+Bản thí nghiệm khủng khiếp.
+
+00:34:04.226 --> 00:34:22.739
+[Vỗ tay]
+
+00:34:22.739 --> 00:34:24.139
+WALTER Lewin: Ai nhìn thấy ánh sáng trắng?
+
+00:34:24.139 --> 00:34:25.031
+Chỉ cần nói có.
+
+00:34:25.031 --> 00:34:26.081
+YEAH.
+
+00:34:26.081 --> 00:34:31.324
+WALTER Lewin: Nếu bất kỳ một trong các
+bạn có đủ can đảm để nói
+
+00:34:31.324 --> 00:34:34.069
+không, ai không nhìn thấy ánh sáng trắng?
+
+00:34:34.069 --> 00:34:38.009
+KHÁN GIẢ: không
+
+00:34:38.009 --> 00:34:41.174
+WALTER Lewin: Cảm ơn bạn.
+
+00:34:41.174 --> 00:34:49.004
+[Vỗ tay]
+
+00:34:49.004 --> 00:34:55.487
+WALTER Lewin: Và bây giờ tôi sẽ giải thích cho bạn-- trong
+
+00:34:55.487 --> 00:35:02.027
+thực tế, bạn có thể có thể đoán rằng
+tại sao bầu trời có màu xanh và
+
+00:35:02.027 --> 00:35:05.036
+tại sao những đám mây màu trắng.
+
+00:35:05.036 --> 00:35:09.056
+Mây bao gồm giọt nước rất nhỏ, chắc chắn lớn hơn
+
+00:35:09.056 --> 00:35:12.042
+hơn một nửa micron, đó là Mie tán xạ.
+
+00:35:12.042 --> 00:35:17.026
+Vì vậy, ánh sáng trắng của mặt trời nằm tán xạ ra khỏi mây--
+
+00:35:17.026 --> 00:35:19.000
+trắng vẫn trắng.
+
+00:35:19.000 --> 00:35:21.095
+Vì vậy, bạn bây giờ, lần đầu tiên
+trong đời mình, có thể có một
+
+00:35:21.095 --> 00:35:27.061
+lời giải thích tại sao những đám mây màu trắng.
+
+00:35:27.061 --> 00:35:31.018
+Và bạn nên, hoặc có thể, cũng hiểu bây giờ
+
+00:35:31.018 --> 00:35:37.021
+tại sao bầu trời lại có màu xanh.
+
+00:35:37.021 --> 00:35:41.086
+Đây là mặt đất và bạn đang ở đây.
+
+00:35:41.086 --> 00:35:46.046
+Và ở đây là, gần phía trên cùng của bầu khí quyển.
+
+00:35:46.046 --> 00:35:49.013
+Và ánh sáng mặt trời đến như thế này.
+
+00:35:49.013 --> 00:35:58.029
+Mặt trời là vô cùng xa, do đó ánh sáng
+mặt trời đi vào như thế này.
+
+00:35:58.029 --> 00:36:04.045
+Bầu không khí đầy các hạt bụi rất nhỏ, nhỏ hơn
+
+00:36:04.045 --> 00:36:06.077
+hơn một phần mười của một micron.
+
+00:36:06.077 --> 00:36:10.026
+Và ngay cả những biến động mật độ của không khí
+
+00:36:10.026 --> 00:36:13.074
+chính phân tử là rõ ràng nhỏ hơn một phần mười
+
+00:36:13.074 --> 00:36:15.002
+của một micron.
+
+00:36:15.002 --> 00:36:18.052
+Và như vậy bạn sẽ có được tán xạ Rayleigh lý tưởng.
+
+00:36:18.052 --> 00:36:21.089
+Vì vậy, ánh sáng trắng đi vào, bạn đứng ở đây.
+
+00:36:21.089 --> 00:36:25.004
+Nhưng ánh sáng đến với bạn là gì?
+
+00:36:25.004 --> 00:36:26.093
+Chủ yếu là màu xanh.
+
+00:36:26.093 --> 00:36:29.017
+Vì vậy, bầu trời là màu xanh.
+
+00:36:29.017 --> 00:36:32.006
+Ánh sáng được tán xạ ở đây, đến với bạn là
+
+00:36:32.006 --> 00:36:34.015
+chủ yếu là màu xanh.
+
+00:36:34.015 --> 00:36:36.004
+Vì vậy, đó là lý do tại sao bầu trời lại có màu xanh.
+
+00:36:36.004 --> 00:36:40.053
+Và do đó, lý do đơn giản là vì nó là tán xạ Rayleigh
+
+00:36:40.053 --> 00:36:47.061
+của các hạt bụi trong không khí.
+
+00:36:47.061 --> 00:36:53.097
+Nếu mặt trời cao trên bầu trời, tổng số ánh sáng mặt trời
+
+00:36:53.097 --> 00:36:58.005
+được tán xạ theo hướng của bạn chỉ là 1%.
+
+00:36:58.005 --> 00:36:59.078
+Vì vậy, nó rất ít.
+
+00:36:59.078 --> 00:37:04.041
+Nếu mặt trời 5 độ trên đường chân trời,
+sau đó ánh sáng mặt trời
+
+00:37:04.041 --> 00:37:08.086
+phải đi qua rất nhiều không khí.
+
+00:37:08.086 --> 00:37:12.052
+Và vì vậy tôi nghĩ rằng đây là một trường hợp biên,
+
+00:37:12.052 --> 00:37:16.000
+khi chúng ta có mặt trời mọc hoặc lặn.
+
+00:37:16.000 --> 00:37:19.066
+mặt trời là ở đó và ánh sáng đến từ phía bên này và
+
+00:37:19.066 --> 00:37:20.056
+bạn đang đứng ở đây.
+
+00:37:20.056 --> 00:37:26.004
+Đây không đúng tỉ lệ lắm.
+
+00:37:26.004 --> 00:37:33.002
+Đây là lớp khí quyển rất lớn
+
+00:37:33.002 --> 00:37:38.034
+nên hơn 99% của tất cả các ánh sáng
+mặt trời trên đường tới bạn là
+
+00:37:38.034 --> 00:37:40.054
+bị tán xạ đi.
+
+00:37:40.054 --> 00:37:42.005
+Vì vậy, những gì bị tán xạ đi?
+
+00:37:42.005 --> 00:37:44.058
+màu xanh đi mất.
+
+00:37:44.058 --> 00:37:47.016
+Nếu bạn nhìn vào lambda mũ bốn, các
+
+00:37:47.016 --> 00:37:48.075
+màu xanh lá cây đi mất.
+
+00:37:48.075 --> 00:37:50.006
+Tất cả các màu đều đi mất.
+
+00:37:50.006 --> 00:37:53.645
+Chỉ có một màu sắc có bước sóng lớn nhất,
+
+00:37:53.645 --> 00:37:56.059
+nói thêm, nó là 650 nanomet.
+
+00:37:56.059 --> 00:38:00.038
+Tôi không định nói với bạn, nhưng tôi đã nói.
+
+00:38:00.038 --> 00:38:05.099
+Vì vậy, ánh sáng duy nhất đi tới bạn là màu đỏ.
+
+00:38:05.099 --> 00:38:11.003
+Và đó là lý do tại sao mặt trời trông có màu đỏ.
+
+00:38:11.003 --> 00:38:15.086
+Và có một đám mây ở đây trên bầu trời, và đám mây thấy
+
+00:38:15.086 --> 00:38:20.069
+ánh sáng, nơi tất cả các bước sóng thấp đã bị
+
+00:38:20.069 --> 00:38:21.074
+tán xạ ra.
+
+00:38:21.074 --> 00:38:26.059
+Và do đó, phía bên này của đám mây cũng là màu đỏ.
+
+00:38:26.059 --> 00:38:30.007
+Bây giờ bạn có thể hiểu càng trạng ô nhiễm trong
+
+00:38:30.007 --> 00:38:34.074
+không khí, cảnh hoàng hôn càng đẹp hơn là vậy.
+
+00:38:34.074 --> 00:38:38.018
+Và nhiều người biết rằng sau các vụ phun trào núi lửa,
+
+00:38:38.018 --> 00:38:43.086
+cảnh hoàng hôn và bình minh thực sự rất tuyệt vời.
+
+00:38:43.086 --> 00:38:47.073
+Nó cũng là lý do mặt trăng có màu đỏ khi nó mới mọc.
+
+00:38:47.073 --> 00:38:50.002
+Và ngay cả những ngôi sao và các hành tinh.
+
+00:38:50.002 --> 00:38:52.058
+Bạn không bao giờ có thể nhận thấy
+nó bởi vì nó không phải là một
+
+00:38:52.058 --> 00:38:54.043
+thứ áp đảo.
+
+00:38:54.043 --> 00:38:57.004
+Đó là mặt trời đó là thứ áp đảo
+
+00:38:57.004 --> 00:39:00.061
+làm cho toàn bộ bầu trời đỏ.
+
+00:39:00.061 --> 00:39:08.001
+Và vì vậy tôi đã quyết định rằng
+tôi sẽ tạo ra trong 26-100, một
+
+00:39:08.001 --> 00:39:13.008
+bầu trời xanh cho bạn và
+một hoàng hôn màu đỏ, giết chết hai
+
+00:39:13.008 --> 00:39:16.027
+con chim với một cục đá.
+
+00:39:16.027 --> 00:39:19.076
+Và đối với các nhà vật lý là khán giả của tôi, tôi sẽ giết
+
+00:39:19.076 --> 00:39:22.019
+ba con chim với một cục đá.
+
+00:39:22.019 --> 00:39:25.063
+Nhưng con chim thứ ba đi sau một chút.
+
+00:39:25.063 --> 00:39:29.092
+Tôi có ở đây một cái xô chứa đầy natri
+
+00:39:29.092 --> 00:39:32.057
+thiosulfate--
+
+00:39:32.057 --> 00:39:34.052
+trong thùng này.
+
+00:39:34.052 --> 00:39:38.088
+Và khi tôi bật đèn lên, bạn thậm chí sẽ không thấy bất kỳ
+
+00:39:38.088 --> 00:39:40.054
+ánh sáng từ thùng đó.
+
+00:39:40.054 --> 00:39:45.009
+Không có gì là tán xạ theo hướng của bạn.
+
+00:39:45.009 --> 00:39:48.009
+bên cạnh đó, và là ánh nắng mặt trời,
+
+00:39:48.009 --> 00:39:53.071
+Bây giờ tôi sẽ thêm vào một ít axit sulfuric.
+
+00:39:53.071 --> 00:39:59.003
+Và khi tôi làm điều đó, các hạt lưu huỳnh rất nhỏ, nhỏ hơn
+
+00:39:59.003 --> 00:40:05.003
+một phần mười micron, sẽ kết tủa trong dung dịch đó.
+
+00:40:05.003 --> 00:40:06.062
+Tán xạ Rayleigh.
+
+00:40:06.062 --> 00:40:11.086
+Và vì vậy ánh sáng đó sẽ đến với bạn là màu xanh.
+
+00:40:11.086 --> 00:40:16.041
+Và bạn sẽ thấy ánh sáng màu xanh, giống như với khói.
+
+00:40:16.041 --> 00:40:21.066
+Nhưng bây giờ, khi thời gian trôi đi,
+chúng ta sẽ nhận được nhiều hơn và nhiều hơn nữa và
+
+00:40:21.066 --> 00:40:26.085
+ngày càng nhiều của những hạt 0,1 micron.
+
+00:40:26.085 --> 00:40:30.051
+Và do đó, ánh sáng mà đi ra ở đây
+
+00:40:30.051 --> 00:40:32.024
+không có màu xanh ở trong đó nữa.
+
+00:40:32.024 --> 00:40:34.025
+Nó không có màu xanh lá cây ở trong đó nữa.
+
+00:40:34.025 --> 00:40:37.053
+Tất cả các tán xạ theo hướng của bạn, giống như ở đây với
+
+00:40:37.053 --> 00:40:39.005
+hoàng hôn.
+
+00:40:39.005 --> 00:40:41.405
+Vì vậy, bạn nghĩ mặt trời sẽ nhận màu gì?
+
+00:40:41.405 --> 00:40:42.052
+KHÁN GIẢ: Đỏ.
+
+00:40:42.052 --> 00:40:44.003
+WALTER Lewin: Nó sẽ là màu đỏ.
+
+00:40:44.003 --> 00:40:48.038
+Đó là lý do tại sao tôi nói rằng tôi sẽ giết
+hai con chim với một cục đá.
+
+00:40:48.038 --> 00:40:54.043
+Vì vậy, tôi sẽ thêm axit sulfuric.
+
+00:40:54.043 --> 00:40:57.037
+Khó khăn với thí nghiệm này luôn là nếu bạn
+
+00:40:57.037 --> 00:40:59.081
+đưa axit sulfuric quá nhiều trong nó, toàn bộ
+
+00:40:59.081 --> 00:41:01.091
+quá trình đi quá nhanh.
+
+00:41:01.091 --> 00:41:05.017
+Và nếu bạn đặt quá ít trong nó, sau đó
+
+00:41:05.017 --> 00:41:06.089
+bạn sẽ trở nên thiếu kiên nhẫn.
+
+00:41:06.089 --> 00:41:09.067
+Ít nhất, sinh viên MIT sẽ.
+
+00:41:09.067 --> 00:41:14.035
+Vì vậy, tôi sẽ đưa vào và khuấy đều.
+
+00:41:14.035 --> 00:41:22.015
+Và sau đó, làm cho nó ngay lập tức tối.
+
+00:41:22.015 --> 00:41:24.059
+Và tôi muốn bạn nhìn lên bầu trời--
+
+00:41:24.059 --> 00:41:26.044
+đây là bầu trời.
+
+00:41:26.044 --> 00:41:30.001
+Nếu bạn ở ngoài kia, bạn sẽ không nó rõ.
+
+00:41:30.001 --> 00:41:32.014
+Nhưng nhìn xem, bạn sẽ trả bao nhiêu cho việc này?
+
+00:41:32.014 --> 00:41:37.006
+Những người ở đây tầm nhìn tốt hơn.
+
+00:41:37.006 --> 00:41:39.017
+Vì vậy, chỉ cần tiếp tục nhìn.
+
+00:41:39.017 --> 00:41:45.074
+Đối với tôi, nó đã bắt đầu chuyển một chút hơi xanh.
+
+00:41:45.074 --> 00:41:48.036
+Chúng ta chỉ cần cho nó nhiều thời gian hơn một chút.
+
+00:41:48.036 --> 00:42:00.099
+Mặt trời trông sáng chỉ trắng như trước.
+
+00:42:00.099 --> 00:42:02.031
+Tôi luôn luôn có dự phỏng ở đây.
+
+00:42:02.031 --> 00:42:05.074
+Nếu nó mất quá lâu, những gì tôi làm là tôi thêm một
+
+00:42:05.074 --> 00:42:16.002
+teeny, chút acid sulfuric để tăng tốc độ
+
+00:42:16.002 --> 00:42:25.047
+một chút.
+
+00:42:25.047 --> 00:42:26.053
+Tôi nhìn thấy ánh sáng màu xanh.
+
+00:42:26.053 --> 00:42:29.061
+Và khi tôi nhìn vào mặt trời, nó trông giống một
+
+00:42:29.061 --> 00:42:32.078
+ít màu đỏ rồi.
+
+00:42:32.078 --> 00:42:36.095
+Đối với các nhà vật lý ở đây, ánh sáng tán xạ với một
+
+00:42:36.095 --> 00:42:41.067
+góc trên 90 độ, ánh sáng này tán xạ theo
+
+00:42:41.067 --> 00:42:42.045
+hướng này--
+
+00:42:42.045 --> 00:42:45.052
+những người trả cao nhất tối nay,
+những người đang ngồi ngay
+
+00:42:45.052 --> 00:42:50.076
+ở đây, ánh sáng cũng được phân cực tuyến tính.
+
+00:42:50.076 --> 00:42:54.009
+Đó cũng là trường hợp của thí nghiệm với khói, nhưng tôi
+
+00:42:54.009 --> 00:42:55.039
+đã không đề cập đến đó.
+
+00:42:55.039 --> 00:42:58.033
+Nhưng đối với những người đang ngồi ở đây,
+tôi có thể chỉ cho bạn
+
+00:42:58.033 --> 00:43:02.008
+bạn thấy với tấm phân cực của tôi,
+khi tôi xoay tấm phân cực, tôi thấy
+
+00:43:02.008 --> 00:43:05.004
+-- bầu trời xanh hoàn toàn tối.
+
+00:43:05.004 --> 00:43:08.054
+Và bầu trời xanh hoàn toàn sáng một lần nữa.
+
+00:43:08.054 --> 00:43:11.041
+Những người đang ngồi đó, góc tán xạ
+
+00:43:11.041 --> 00:43:13.058
+không phải là 90 độ.
+
+00:43:13.058 --> 00:43:15.065
+Vì vậy, họ sẽ không thấy nó lắm.
+
+00:43:15.065 --> 00:43:17.845
+Nhưng bạn ở đây thấy rất rõ đúng không?
+
+00:43:17.845 --> 00:43:19.012
+Đúng.
+
+00:43:19.012 --> 00:43:20.041
+WALTER Lewin: 100% phân cực.
+
+00:43:20.041 --> 00:43:29.093
+[Vỗ tay]
+
+00:43:29.093 --> 00:43:33.007
+WALTER Lewin: Nhìn mặt trời.
+
+00:43:33.007 --> 00:43:38.001
+Hãy chấp nhận là điều này trông cực lãng mạn,
+phải không nào?
+
+00:43:38.001 --> 00:43:45.038
+Trong 26-100, ở trung tâm của MIT,
+bạn đang nhìn thấy, trong
+
+00:43:45.038 --> 00:43:49.038
+giảng đường, một hoàng hôn màu đỏ.
+
+00:43:49.038 --> 00:43:57.078
+Và trên thực tế, mặt trời rất là đỏ lúc này,
+mà tôi nghĩ rằng hoàng hôn
+
+00:43:57.078 --> 00:44:00.804
+là rất gần.
+
+00:44:00.804 --> 00:44:22.072
+[Vỗ tay]
+
+00:44:22.072 --> 00:44:25.038
+WALTER Lewin: Tôi đã giảng ở
+
+00:44:25.038 --> 00:44:30.029
+giảng đường này khoảng 800 bài giảng.
+
+00:44:30.029 --> 00:44:39.027
+Và thật tuyệt vời khi được trở lại đây,
+nhưng nó thực sự đau khổ
+
+00:44:39.027 --> 00:44:46.002
+khi biết rằng đây là bài giảng
+cuối cùng của tôi trong 26-100.
+
+00:44:46.002 --> 00:44:49.083
+Do đó tôi quyết định rằng tôi muốn
+
+00:44:49.083 --> 00:44:54.009
+rời đi trong phong cách.
+
+00:44:54.009 --> 00:45:02.056
+và điều tôi sẽ làm là rời 26-100 bằng
+
+00:45:02.056 --> 00:45:08.374
+tên lửa tư nhân của riêng tôi.
+
+00:45:08.374 --> 00:46:39.508
+[Vỗ tay]
+
+00:46:39.508 --> 00:46:41.005
+WALTER Lewin: Cảm ơn bạn.
+
+00:46:41.005 --> 00:46:54.448
+[Vỗ tay]
+
+00:46:54.448 --> 00:46:57.062
+WALTER Lewin: Cảm ơn bạn.
+
+00:46:57.062 --> 00:47:04.021
+Bây giờ chúng ta có khoảng 15 phút
+còn lại cho các câu hỏi.
+
+00:47:04.021 --> 00:47:06.047
+Và nếu bạn có một câu hỏi, nâng cao tay của bạn.
+
+00:47:06.047 --> 00:47:09.097
+Sau đó, Claire sẽ đến với bạn với micro.
+
+00:47:09.097 --> 00:47:13.078
+Tôi hy vọng chúng ta có thể giao tiếp theo cách đó.
+
+00:47:13.078 --> 00:47:17.007
+Bạn gom các câu hỏi và tôi sẽ
+cố gắng đưa ra câu trả lời.
+
+00:47:17.007 --> 00:47:19.079
+Vì vậy, ai muốn là người đầu tiên?
+
+00:47:19.079 --> 00:47:21.545
+Vâng một nguoiwf người đó.
+
+00:47:21.545 --> 00:47:23.038
+vâng,tôi nhìn thấy bàn tay của một bạn ở đây.
+
+00:47:23.038 --> 00:47:27.083
+Bạn là tiếp theo.
+
+00:47:27.083 --> 00:47:29.096
+KHÁN GIẢ: Cảm ơn vì đang gửi đến một bài giảng hay.
+
+00:47:29.096 --> 00:47:32.016
+Tôi muốn hỏi bạn pi là gì?
+
+00:47:32.016 --> 00:47:34.081
+WALTER Lewin: Nó không dễ để tôi có thể hiểu bạn.
+
+00:47:34.081 --> 00:47:36.046
+KHÁN GIẢ: Cảm ơn vì một bài giảng hay.
+
+00:47:36.046 --> 00:47:39.088
+Tôi vốn muốn hỏi là pi là gì.
+
+00:47:39.088 --> 00:47:43.085
+Nhưng tôi nghĩ tô tốt hơn nên hỏi--
+
+00:47:43.085 --> 00:47:45.075
+WALTER Lewin: Đã bao giờ bạn đi đến một buổi
+
+00:47:45.075 --> 00:47:50.022
+ăn tối Lễ Tạ Ơn?
+
+00:47:50.022 --> 00:47:50.049
+KHÁN GIẢ: OK.
+
+00:47:50.049 --> 00:47:52.054
+WALTER Lewin: Ở đó bạn sẽ biết pi là gì.
+
+00:47:52.054 --> 00:47:56.048
+KHÁN GIẢ: Bạn có quen thuộc với hiện tượng
+
+00:47:56.048 --> 00:47:59.086
+một chớp màu xanh lá cây vào lúc hoàng hôn.
+
+00:47:59.086 --> 00:48:00.095
+WALTER Lewin: Và câu trả lời là có.
+
+00:48:00.095 --> 00:48:02.025
+KHÁN GIẢ: bạn có thể giải thích, xin vui lòng?
+
+00:48:02.025 --> 00:48:04.041
+WALTER Lewin: Tôi đã nhìn thấy nó nhiều lần.
+
+00:48:04.041 --> 00:48:07.077
+Lời giải thích là không đơn giản như bạn nghĩ.
+
+00:48:07.077 --> 00:48:08.068
+Tôi sẽ gợi ý--
+
+00:48:08.068 --> 00:48:11.004
+và tôi nghiêm túc.
+
+00:48:11.004 --> 00:48:14.041
+Vì một câu trả lời ngắn gọn là không thể, bạn có thể tìm hiểu
+
+00:48:14.041 --> 00:48:14.084
+trên web.
+
+00:48:14.084 --> 00:48:15.072
+Nó có mô tả việc này.
+
+00:48:15.072 --> 00:48:19.067
+Tôi đã thấy nó nhiều lần ở vùng núi của Áo
+
+00:48:19.067 --> 00:48:23.068
+thực sự, điều đó, nó là ánh sáng cuối cùng của
+
+00:48:23.068 --> 00:48:28.079
+mặt trời khi lặn, mà bạn có thể, nhưng không phải
+luôn luôn, nhìn thấy một đèn chớp màu xanh lá cây.
+
+00:48:28.079 --> 00:48:30.093
+Và nếu bạn muốn nhìn thấy nó, bạn phải
+
+00:48:30.093 --> 00:48:32.073
+đi hai người.
+
+00:48:32.073 --> 00:48:36.089
+Một người đứng bên cạnh bạn và bạn không nên
+
+00:48:36.089 --> 00:48:38.046
+nhìn vào mặt trời.
+
+00:48:38.046 --> 00:48:40.065
+Bởi vì nếu bạn nhìn vào mặt trời, mặc dù
+
+00:48:40.065 --> 00:48:47.029
+hầu như không có ánh sáng mặt trời,
+võng mạc của bạn vẫn hứng sáng
+
+00:48:47.029 --> 00:48:48.074
+quá lâu.
+
+00:48:48.074 --> 00:48:52.032
+Và như vậy người bên cạnh bạn,
+khi bạn nhìn như thế này,
+
+00:48:52.032 --> 00:48:53.091
+nói, nhìn bây giờ.
+
+00:48:53.091 --> 00:48:58.576
+Và sau đó bạn nhìn, và đó là cách thấy nó được.
+
+00:48:58.576 --> 00:49:07.074
+[Vỗ tay]
+
+00:49:07.074 --> 00:49:08.089
+WALTER Lewin: Có câu hỏi ngay tại đây.
+
+00:49:08.089 --> 00:49:10.068
+Tại sao chúng ta không lấy nó trước?
+
+00:49:10.068 --> 00:49:12.056
+Và sau đó là người phụ nữ kia.
+
+00:49:12.056 --> 00:49:14.816
+Và người đàn ông này cũng có.
+
+00:49:14.816 --> 00:49:17.215
+Đung Vâng, tôi chỉ muốn cảm ơn bạn cho bài giảng.
+
+00:49:17.215 --> 00:49:24.055
+KHÁN GIẢ: Khi còn nhỏ, tôi đọc một cuốn sách,
+nó mà bảo tôi
+
+00:49:24.055 --> 00:49:27.016
+rằng nhìn chằm chằm vào mặt trời,
+sau đó tôi có thể thay đổi vật thể
+
+00:49:27.016 --> 00:49:28.009
+bằng cách nhìn chằm chằm vào những thứ đó.
+
+00:49:28.009 --> 00:49:33.001
+cái tôi đã làm là nhìn chằm chằm vào mặt trời lúc hoàng hôn.
+
+00:49:33.001 --> 00:49:34.047
+WALTER Lewin: Bạn nhìn chằm chằm vào mặt trời?
+
+00:49:34.047 --> 00:49:35.001
+KHÁN GIẢ: Hoàng hôn.
+
+00:49:35.001 --> 00:49:36.047
+WALTER Lewin: Hoàng hôn.
+
+00:49:36.047 --> 00:49:38.012
+Đó không phải là một ý tưởng tốt.
+
+00:49:38.012 --> 00:49:39.008
+Bạn phải rất cẩn thận.
+
+00:49:39.008 --> 00:49:40.048
+KHÁN GIẢ: tôi phát hiện ra một cách khó khăn.
+
+00:49:40.048 --> 00:49:41.079
+WALTER Lewin: Và như vậy bạn làm
+hư đôi mắt của bạn và bạn
+
+00:49:41.079 --> 00:49:46.003
+hỏi về nó.
+
+00:49:46.003 --> 00:49:50.066
+KHÁN GIẢ: Nhưng điều quan trọng là sau đó, tôi đã
+
+00:49:50.066 --> 00:49:52.079
+phải nhìn chằm chằm vào một bức tường màu trắng,
+và tôi đã làm.
+
+00:49:52.079 --> 00:49:55.036
+Nhưng những gì tôi nhìn thấy một đốm sáng--
+
+00:49:55.036 --> 00:49:56.645
+WALTER Lewin: Tôi biết chính xác những gì bạn nhìn thấy.
+
+00:49:56.645 --> 00:49:58.009
+KHÁN GIẢ: đốm đỏ di chuyển xung quanh--
+
+00:49:58.009 --> 00:50:01.035
+WALTER Lewin: Có lẽ là không phải đỏ, có thể màu xanh lá cây.
+
+00:50:01.035 --> 00:50:03.051
+Đó là hiện tượng nổi tiếng.
+
+00:50:03.051 --> 00:50:07.049
+Bạn đã, thực sự,làm một cái gì đó với võng mạc của bạn và
+
+00:50:07.049 --> 00:50:11.075
+các thông điệp được gửi đến cho bộ não, nói rằng
+
+00:50:11.075 --> 00:50:13.014
+là màu xanh.
+
+00:50:13.014 --> 00:50:14.092
+Nó là một hiện tượng rất nổi tiếng.
+
+00:50:14.092 --> 00:50:17.022
+Bạn thậm chí không phải nhìn vào mặt trời.
+
+00:50:17.022 --> 00:50:19.081
+Bạn thậm chí có thể làm điều đó với ánh sáng như thế này và nhìn chằm chằm vào
+
+00:50:19.081 --> 00:50:21.004
+mà ánh sáng trong một thời gian.
+
+00:50:21.004 --> 00:50:24.029
+Và sau đó, tất cả của một đột ngột nhìn vào
+bức tường trắng và bạn thấy
+
+00:50:24.029 --> 00:50:25.049
+một màu sắc khác.
+
+00:50:25.049 --> 00:50:27.015
+Nó là điều rất thú vị.
+
+00:50:27.015 --> 00:50:29.055
+Và vật lý không thể giải thích điều đó.
+
+00:50:29.055 --> 00:50:32.069
+Cái bạn thấy, đây là thần kinh học.
+
+00:50:32.069 --> 00:50:35.818
+Và do đó, nó không phải là trách nhiệm của chúng tôi để giải thích nó.
+
+00:50:35.818 --> 00:50:43.031
+[Vỗ tay]
+
+00:50:43.031 --> 00:50:45.048
+KHÁN GIẢ: Vì vậy, đây là, tôi đoán,
+đây là một câu hỏi cá nhân--
+
+00:50:45.048 --> 00:50:46.071
+WALTER Lewin:Nói lớn như bạn có thể bởi vì tôi có một
+
+00:50:46.071 --> 00:50:47.073
+bị kiếm thính.
+
+00:50:47.073 --> 00:50:49.001
+KHÁN GIẢ: Đây là một câu hỏi cá nhân.
+
+00:50:49.001 --> 00:50:52.000
+Tôi chỉ tự hỏi, cái gì đã truyền cảm hứng
+cho ngài để trở thành một
+
+00:50:52.000 --> 00:50:52.091
+giáo sư?
+
+00:50:52.091 --> 00:50:53.005
+WALTER Lewin: Tại sao gì?
+
+00:50:53.005 --> 00:50:56.017
+KHÁN GIẢ: Điều gì đã khiến bạn trở thành một giáo sư,
+và một
+
+00:50:56.017 --> 00:50:57.004
+một giáo sư tuyệt vời?
+
+00:50:57.004 --> 00:50:57.005
+WALTER Lewin: Bạn có thể dịch?
+
+00:50:57.005 --> 00:50:57.008
+Tôi có thể nghe.
+
+00:50:57.008 --> 00:50:59.385
+KHÁN GIẢ: cái gì truyền bạn cảm hứng?
+
+00:50:59.385 --> 00:51:00.235
+WALTER Lewin: Tại sao là gì?
+
+00:51:00.235 --> 00:51:02.091
+KHÁN GIẢ: Điều gì đã khiến bạn trở thành một giáo sư?
+
+00:51:02.091 --> 00:51:08.003
+WALTER Lewin: Oh, đó là may mắn.
+
+00:51:08.003 --> 00:51:12.046
+Tôi đã được đào tạo trong vật lý hạt nhân.
+
+00:51:12.046 --> 00:51:17.088
+Và sau đó, tôi đã có một số lời đề nghị làm post-doc một năm.
+
+00:51:17.088 --> 00:51:19.082
+ở Hoa Kỳ.
+
+00:51:19.082 --> 00:51:26.011
+Và vì một lý do không phải là rõ ràng, tôi chọn MIT vì
+
+00:51:26.011 --> 00:51:29.084
+một lĩnh vực hoàn toàn mới đã được sinh ra ở Cambridge,
+
+00:51:29.084 --> 00:51:33.018
+Massachusetts, khởi xướng bởi Giáo sư Bruno
+
+00:51:33.018 --> 00:51:35.074
+Rossi có mặt tại MIT.
+
+00:51:35.074 --> 00:51:39.065
+Tiến hành bởi Riccardo Giacconi người
+
+00:51:39.065 --> 00:51:43.002
+đã nhận, cách đây không lâu, giải thưởng Nobel cho điều đó.
+
+00:51:43.002 --> 00:51:46.026
+Đó là phát hiện của thiên văn học tia X.
+
+00:51:46.026 --> 00:51:50.005
+Và mặc dù tôi không biết gì về thiên văn học vào thời điểm đó, tôi
+
+00:51:50.005 --> 00:51:52.034
+quyết định đã đến lúc phải thay đổi lĩnh vực.
+
+00:51:52.034 --> 00:51:55.027
+Vì vậy, tôi chấp nhận lời đề nghị tại MIT.
+
+00:51:55.027 --> 00:51:58.072
+Và sau đó, vì lý do vẫn chưa rõ với tôi, nhưng
+
+00:51:58.072 --> 00:52:02.092
+George Clarke, người là khán giả ở đây, biết lý do tại sao
+
+00:52:02.092 --> 00:52:05.016
+họ cung cấp cho tôi một chức giáo sư.
+
+00:52:05.016 --> 00:52:09.021
+Và tôi không bao giờ rời đi.
+
+00:52:09.021 --> 00:52:15.078
+Nó có trả lời câu hỏi của bạn?
+
+00:52:15.078 --> 00:52:21.035
+Yeah, bạn cần có microphone ở đây.
+
+00:52:21.035 --> 00:52:23.019
+Chúng tôi có nhiều hơn 10 phút, vì vậy chúng tôi có thể
+
+00:52:23.019 --> 00:52:25.058
+xử lý khá một vài câu hỏi.
+
+00:52:25.058 --> 00:52:28.009
+KHÁN GIẢ: Vì vậy, tôi ngồi đây xem bài giảng
+của bạn, tôi nghĩ về
+
+00:52:28.009 --> 00:52:29.089
+20 năm trước đây.
+
+00:52:29.089 --> 00:52:34.034
+Và tôi đã quên rằng một trong những điều mà tôi đã học được từ ngài
+
+00:52:34.034 --> 00:52:37.634
+là làm thế nào để vẽ đường chấm chấm trên bảng với phấn.
+
+00:52:37.634 --> 00:52:44.028
+[Vỗ tay]
+
+00:52:44.028 --> 00:52:46.054
+KHÁN GIẢ: Và tôi thực sự sử dụng nó
+cho mình khi tôi còn là một
+
+00:52:46.054 --> 00:52:48.062
+giáo sư cho một số số năm.
+
+00:52:48.062 --> 00:52:51.057
+đó là một kỹ năng rất hữu ích.
+
+00:52:51.057 --> 00:52:53.002
+Nhưng ở đây những gì tôi muốn hỏi các bạn.
+
+00:52:53.002 --> 00:52:56.096
+; muốn hỏi các ngài, khi ngài bắt đầu dạy vật lý, và
+
+00:52:56.096 --> 00:52:59.094
+Cách mà các bài giảng của ngài phát triển theo thời gian?
+
+00:52:59.094 --> 00:53:01.045
+WALTER Lewin: câu hỏi cuối cùng là gì?
+
+00:53:01.045 --> 00:53:06.034
+KHÁN GIẢ: Làm nào mà các bài giảng của bạn phát triển theo thời gian?
+
+00:53:06.034 --> 00:53:08.142
+WALTER Lewin: Bạn hiểu được nó.
+
+00:53:08.142 --> 00:53:12.011
+KHÁN GIẢ: Làm thế nào mà các bài giảng của
+bạn phát triển theo thời gian?
+
+00:53:12.011 --> 00:53:20.028
+WALTER Lewin: Yeah.
+
+00:53:20.028 --> 00:53:24.006
+Tôi nghĩ rằng tôi đã luôn luôn lập dị.
+
+00:53:24.006 --> 00:53:26.067
+Đúng vậy.
+
+00:53:26.067 --> 00:53:30.078
+Và từ ngày đầi, các bài giảng của tôi
+
+00:53:30.078 --> 00:53:33.074
+luôn khác với bình thường.
+
+00:53:33.074 --> 00:53:40.019
+Nhưng tất nhiên, chúng đã tiến hóa theo
+một cách mà tăng đáng kể.
+
+00:53:40.019 --> 00:53:42.076
+Và đó không phải các dòng chấm
+chấm trên bảng, bởi vì tôi
+
+00:53:42.076 --> 00:53:49.018
+đã có thể làm điều đó ở trường trung học.
+
+00:53:49.018 --> 00:53:53.014
+Ngày nay, có hàng trăm bài giảng
+của tôi có thể được xem
+
+00:53:53.014 --> 00:53:55.398
+trên web.
+
+00:53:55.398 --> 00:53:57.013
+Hai khóa học hoàn chỉnh
+
+00:53:57.013 --> 00:54:00.001
+khóa học đầu tiên cho sinh viên năm nhất,
+khóa thứ hai về điện
+
+00:54:00.001 --> 00:54:01.008
+và Từ.
+
+00:54:01.008 --> 00:54:03.037
+Và khóa học thứ ba
+
+00:54:03.037 --> 00:54:06.032
+Rung động và Sóng.
+
+00:54:06.032 --> 00:54:10.047
+Chúng hiện đang được xem hàng ngày, trung bình, 6000
+
+00:54:10.047 --> 00:54:15.011
+người trên khắp thế giới, đó là 2 triệu mỗi năm.
+
+00:54:15.011 --> 00:54:18.011
+Và do đó, mỗi buổi sáng khi tôi thức dậy và trong ngày,
+
+00:54:18.011 --> 00:54:21.004
+khoảng hai chục câu hỏi đến với tôi bằng email từ
+
+00:54:21.004 --> 00:54:23.002
+trên toàn thế giới.
+
+00:54:23.002 --> 00:54:28.034
+Nhiều người hỏi câu hỏi và tôi trả lời tất cả email.
+
+00:54:28.034 --> 00:54:32.069
+Nhưng điều tuyệt vời là nhiều giáo sư vật lý muốn
+
+00:54:32.069 --> 00:54:36.066
+biết làm thế nào tôi làm cho những đường chấm chấm đó.
+
+00:54:36.066 --> 00:54:48.052
+[Vỗ tay]
+
+00:54:48.052 --> 00:54:54.056
+WALTER Lewin: Có một video dài hai phút, mà
+
+00:54:54.056 --> 00:54:56.026
+ai đó đã làm.
+
+00:54:56.026 --> 00:54:59.091
+Một người nào đó xem xét tất cả
+các đường chấm chấm mà tôi từng vẽ
+
+00:54:59.091 --> 00:55:05.077
+ở 801 và đưa vào trong một băng video.
+
+00:55:05.077 --> 00:55:08.038
+Nó thật ồn ào.
+
+00:55:08.038 --> 00:55:12.056
+Bạn xem [LÀM ÂM THANH].
+
+00:55:12.056 --> 00:55:18.078
+[Vỗ tay]
+
+00:55:18.078 --> 00:55:23.098
+OK, chúng ta có thời gian cho một số câu hỏi nữa.
+
+00:55:23.098 --> 00:55:25.062
+Yep, Ana.
+
+00:55:25.062 --> 00:55:27.092
+Ana, xin vui lòng sử dụng microphone,
+mặc dù tôi đủ gần để
+
+00:55:27.092 --> 00:55:31.042
+có thể hiểu được bạn.
+
+00:55:31.042 --> 00:55:33.004
+Ana là người bạn Facebook của tôi.
+
+00:55:33.004 --> 00:55:38.064
+Tôi có một bài kiểm tra nghệ thuật
+trên Facebook hai lần một tuần, và
+
+00:55:38.064 --> 00:55:41.074
+bạn bè Facebook của tôi, những người có thể
+trả lời những câu hỏi luôn luôn
+
+00:55:41.074 --> 00:55:45.026
+đề cập mỗi ngày rằng họ có câu trả lời đúng.
+
+00:55:45.026 --> 00:55:47.074
+Ana là tại hoặc gần top đầu.
+
+00:55:47.074 --> 00:55:49.093
+Cô hầu như luôn luôn có nó ngay.
+
+00:55:49.093 --> 00:55:53.013
+Và đôi khi cô ấy viết cho tôi email và nó nói,
+
+00:55:53.013 --> 00:55:55.027
+Walter, tôi đã làm việc với nó tám giờ một ngày.
+
+00:55:55.027 --> 00:55:56.665
+Tôi thực sự phải bỏ cuộc.
+
+00:55:56.665 --> 00:55:58.042
+Tôi không có nhiều thời gian hơn.
+
+00:55:58.042 --> 00:55:59.023
+Tiếp đi.
+
+00:55:59.023 --> 00:56:01.051
+KHÁN GIẢN: bài giảng yêu thích của bạn là gì
+
+00:56:01.051 --> 00:56:03.047
+bài giảng mà bạn đã giảng?
+
+00:56:03.047 --> 00:56:04.856
+WALTER Lewin: Tôi không có.
+
+00:56:04.856 --> 00:56:05.808
+Không.
+
+00:56:05.808 --> 00:56:07.024
+Tôi thực sự không.
+
+00:56:07.024 --> 00:56:08.057
+Tôi yêu tất cả các khóa--
+
+00:56:08.057 --> 00:56:10.493
+801, 802, 803.
+
+00:56:10.493 --> 00:56:12.079
+Tôi thực sự không thể nói rằng tôi có một yêu thích.
+
+00:56:12.079 --> 00:56:14.059
+Nếu bạn hỏi tôi nghệ sĩ yêu thích của tôi, chúng ta
+
+00:56:14.059 --> 00:56:16.092
+có thể nói về điều đó.
+
+00:56:16.092 --> 00:56:23.064
+Nhưng chúng ta làm điều đó trên Facebook.
+
+00:56:23.064 --> 00:56:25.085
+Có câu hỏi ở đây và câu hỏi ở đó.
+
+00:56:25.085 --> 00:56:35.025
+Chúng tôi có vẫn còn năm phút cho câu hỏi.
+
+00:56:35.025 --> 00:56:38.922
+Clair, ai cầm mic?
+
+00:56:38.922 --> 00:56:39.038
+KHÁN GIẢ: Hello?
+
+00:56:39.038 --> 00:56:40.035
+Tôi có cần phải bật lên?
+
+00:56:40.035 --> 00:56:41.316
+KHÁN GIẢ: Nó bật rồi.
+
+00:56:41.316 --> 00:56:42.082
+KHÁN GIẢ: Nó đã bật.
+
+00:56:42.082 --> 00:56:45.835
+Tôi tự hỏi làm thế nào mà cầu vồng liên hệ với tán xạ?
+
+00:56:45.835 --> 00:56:46.074
+Có không?
+
+00:56:46.074 --> 00:56:48.048
+WALTER Lewin: Làm thế nào cầu vồng gì?
+
+00:56:48.048 --> 00:56:50.084
+KHÁN GIẢ: cầu vồng có liên quan gì với
+
+00:56:50.084 --> 00:56:51.077
+tán xạ?
+
+00:56:51.077 --> 00:56:56.053
+Và vì sao chúng lại tròn?
+
+00:56:56.053 --> 00:56:57.031
+WALTER Lewin: Mua cuốn sách của tôi.
+
+00:56:57.031 --> 00:56:59.049
+Nó giải thích trong cuốn sách của tôi.
+
+00:56:59.049 --> 00:57:13.052
+[Cười]
+
+00:57:13.052 --> 00:57:14.085
+KHÁN GIẢ: Chào.
+
+00:57:14.085 --> 00:57:16.081
+Làm thế nào để bạn chuẩn bị bài giảng của bạn?
+
+00:57:16.081 --> 00:57:21.046
+Tốn bao nhiêu thời gian để bạn làm để chuẩn bị?
+
+00:57:21.046 --> 00:57:23.081
+WALTER Lewin: Nó là câu hỏi rất hay.
+
+00:57:23.081 --> 00:57:27.001
+Và nếu tôi nói cho bạn biết làm thế nào tôi chuẩn bị nó, thì
+
+00:57:27.001 --> 00:57:31.022
+các đồng nghiệp tại MIT sẽ ghét tôi.
+
+00:57:31.022 --> 00:57:34.022
+Tính trung bình, việc chuẩn bị cho một bài giảng là
+
+00:57:34.022 --> 00:57:37.011
+khoảng 40 đến 60 giờ.
+
+00:57:37.011 --> 00:57:41.014
+Tôi giảng thử bài giảng trong một phòng học trống với
+
+00:57:41.014 --> 00:57:43.049
+tất cả mọi thứ trên bảng đen mà tôi sẽ viết trên
+
+00:57:43.049 --> 00:57:47.011
+bảng đen, giả vờ rằng có một lớp học đầy đủ
+
+00:57:47.011 --> 00:57:49.064
+trước mặt tôi, nhưng không có ai cả.
+
+00:57:49.064 --> 00:57:51.042
+Và tôi nói chuyện với họ như thể có.
+
+00:57:51.042 --> 00:57:54.071
+Tôi làm điều đó hai tuần trước bài giảng.
+
+00:57:54.071 --> 00:57:58.001
+Nói chung, các bài giảng thường dài hơn một tí
+
+00:57:58.001 --> 00:57:59.092
+Vì vậy, tôi phải làm một số sửa đổi.
+
+00:57:59.092 --> 00:58:03.039
+Sau đó, một tuần trước khi các bài giảng, tôi lập lại.
+
+00:58:03.039 --> 00:58:06.002
+Sau đó, tôi rất gần với thời gian.
+
+00:58:06.002 --> 00:58:10.019
+Và sau đó 5:00 của buổi sáng của giảng--
+
+00:58:10.019 --> 00:58:11.074
+bạn có thể hỏi vợ tôi.
+
+00:58:11.074 --> 00:58:15.091
+Tôi ở MIT và tôi giảng một bài giảng y hết trong một
+
+00:58:15.091 --> 00:58:19.097
+phòng học trống lúc 5:30 vào buổi sáng
+trong khi các giờ giảng là lúc
+
+00:58:19.097 --> 00:58:23.004
+10:00 và lúc 11:00.
+
+00:58:23.004 --> 00:58:25.004
+Đó là cách tôi chuẩn bị.
+
+00:58:25.004 --> 00:58:28.772
+Đừng nói với các đồng nghiệp của tôi, họ sẽ ghét tôi.
+
+00:58:28.772 --> 00:58:39.023
+[Vỗ tay]
+
+00:58:39.023 --> 00:58:40.056
+WALTER Lewin: Bên cạnh đó, tôi đã thực hiện một
+
+00:58:40.056 --> 00:58:42.031
+ngoại lệ cho bài giảng này.
+
+00:58:42.031 --> 00:58:47.045
+Tôi lặp lại bài giảng này sáu lần.
+
+00:58:47.045 --> 00:58:50.091
+Yeah?
+
+00:58:50.091 --> 00:58:52.004
+KHÁN GIẢ: Chào.
+
+00:58:52.004 --> 00:58:54.023
+Bạn có lời khuyên nào cho một sinh viên
+
+00:58:54.023 --> 00:58:55.074
+muốn trở thành một nhà vật lý?
+
+00:58:55.074 --> 00:58:56.505
+WALTER Lewin: Điều gì làm bạn có những gì?
+
+00:58:56.505 --> 00:58:58.044
+KHÁN GIẢ: bạn có lời khuyên nào cho những sinh viên muốn
+
+00:58:58.044 --> 00:58:58.099
+là một nhà vật lý?
+
+00:58:58.099 --> 00:59:00.051
+WALTER Lewin: Bạn phải yêu thích nó.
+
+00:59:00.051 --> 00:59:03.895
+Và nếu bạn không yêu thích nó, đừng chạm vào nó.
+
+00:59:03.895 --> 00:59:06.059
+Và nếu bạn ghét nó, đó là vì bạn
+
+00:59:06.059 --> 00:59:09.052
+có một giáo viên rất tồi.
+
+00:59:09.052 --> 00:59:12.026
+Tôi làm cho mọi học sinh--
+
+00:59:12.026 --> 00:59:14.083
+không chỉ tại MIT, nhưng trên toàn thế giới--
+
+00:59:14.083 --> 00:59:17.022
+Tôi làm cho họ có tình yêu với vật lý.
+
+00:59:17.022 --> 00:59:18.024
+Bạn có thể đọc điều này trong cuốn sách của tôi.
+
+00:59:18.024 --> 00:59:19.953
+Bạn nên mua nó.
+
+00:59:19.953 --> 00:59:25.215
+[Vỗ tay]
+
+00:59:25.215 --> 00:59:30.007
+WALTER Lewin: Một câu hỏi nữa.
+
+00:59:30.007 --> 00:59:31.455
+OK, một câu hỏi nữa.
+
+00:59:31.455 --> 00:59:36.058
+Yeah, quý ông này ở đây.
+
+00:59:36.058 --> 00:59:40.055
+KHÁN GIẢ: Bạn làm gì cho vui, bên cạnh việc giảng dạy?
+
+00:59:40.055 --> 00:59:41.008
+WALTER Lewin: Nghệ thuật.
+
+00:59:41.008 --> 00:59:42.125
+Lịch sử nghệ thuật.
+
+00:59:42.125 --> 00:59:43.032
+Nó là tình yêu của tôi.
+
+00:59:43.032 --> 00:59:47.003
+Vật lý là cuộc sống của tôi,
+lịch sử nghệ thuật là tình yêu của tôi.
+
+00:59:47.003 --> 00:59:49.017
+Cám ơn.
+
+00:59:49.017 --> 01:00:08.085
+[Vỗ tay]
+
+01:00:08.085 --> 01:00:12.344
+WALTER Lewin: Vậy, việc ký sách sẽ bắt đầu.
+
+01:00:12.344 --> 01:00:17.016
+Bạn có thể mua sách tại hội trường và bạn có thể đi xuống.
+
+01:00:17.016 --> 01:00:19.028
+Bây giờ, tôi có một yêu cầu.
+
+01:00:19.028 --> 01:00:23.072
+Đặt trong cuốn sách một mảnh giấy và viết xuống rất
+
+01:00:23.072 --> 01:00:27.063
+rõ ràng bạn tặng sách cho ai
+
+01:00:27.063 --> 01:00:31.048
+Vì vậy, nếu nó là dành cho con gái của mình và con gái bạn là Emily,
+
+01:00:31.048 --> 01:00:36.004
+viết Tặng Emily, thậm chí dù tên của bạn là Peter, tôi
+
+01:00:36.004 --> 01:00:38.069
+sẽ viết trong cuốn sách Tặng Emily và
+
+01:00:38.069 --> 01:00:40.001
+ký Walter Lewin.
+
+01:00:40.001 --> 01:00:42.042
+Nếu bạn không đặt mảnh giấy, nó
+
+01:00:42.042 --> 01:00:44.022
+sẽ mất rất lâu.
+
+01:00:44.022 --> 01:00:48.009
+Một vài ngày trước, tôi đã có một buổi
+ký tặng sách và tôi đã không yêu cầu họ
+
+01:00:48.009 --> 01:00:52.078
+Vì vậy, ở đó có một người Thổ Nhĩ Kỳ tới và tôi đã nói,
+
+01:00:52.078 --> 01:00:53.035
+là tên của bạn là gì?
+
+01:00:53.035 --> 01:00:55.001
+Ông ta nói, tên của tôi là [? Atittta. ?]
+
+01:00:55.001 --> 01:00:57.052
+Và sau đó tôi nói, làm thế nào để bạn đánh vần đó?
+
+01:00:57.052 --> 01:00:58.077
+Ông nói rằng, ồ, rất dễ dàng.
+
+01:00:58.077 --> 01:01:01.059
+Nó là [? ATITTTA. ?]
+
+01:01:01.059 --> 01:01:04.053
+Và sau đó tôi đã nói, tốt hơn
+
+01:01:04.053 --> 01:01:06.031
+nếu bạn viết nó trên một mảnh giấy.
+
+01:01:06.031 --> 01:01:09.023
+Và tôi đã thậm chí không thể đọc nó.
+
+01:01:09.023 --> 01:01:14.013
+Vì vậy, xin vui lòng, viết rất cẩn thận tên người mà tôi
+
+01:01:14.013 --> 01:01:20.003
+cần tặng cuốn sách.
+
+01:01:20.003 --> 01:01:23.408
+Chúng tôi cần một cái bàn.
