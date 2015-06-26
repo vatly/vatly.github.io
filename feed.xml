@@ -6,20 +6,199 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 16:38:19 +0800</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 16:38:19 +0800</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 21:09:22 +0800</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 21:09:22 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Chúa có phải là nhà toán học?</title>
+        <description>&lt;p&gt;Galileo Galilei (1564-1642), người được xem như cha đẻ của vật lý học hiện đại, đã từng nói:&lt;/p&gt;
+&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;Galileo Galilei &lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/640px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg&quot; alt=&quot;Galileo Galilei &quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Philosophy [nature] is written in that great book which ever is before our eyes – I mean the universe – but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written. The book is written in mathematical language, and the symbols are triangles, circles and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Đại ý là: &lt;em&gt;vũ trụ được viết nên bởi ngôn ngữ toán học, để hiểu được nó thì phải hiểu các biểu tượng của toán, nếu không có toán, ta sẽ mãi lang lang vô vọng trong tối tăm.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Từ đó đến nay, mối quan hệ giữa vật lý và toán học chưa bao hết làm ngạc nhiên các nhà vật lý cũng như các nhà toán học. Nhà vật lý đồng thời là nhà toán học, Eugene Wigner năm 1960 đã viết một bài báo có tiêu đề &lt;strong&gt;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&lt;/strong&gt;, trong đó ông nên lên ý tưởng về phép màu toán học trong khoa học tự nhiên, với niềm tin rằng, các khái niệm toán học luôn có tính ứng dụng vượt xa bối cảnh mà nó đã ra đời, từ đó kết luận rằng có một quan hệ sâu sắc giữa vật lý và toán học.&lt;/p&gt;
+
+&lt;p&gt;Trong video dưới đây nhà vật lý lý thuyết Michio Kaku sẽ dẫn ta đi trên hành trình khám phá ứng dụng của toán trong vật lý học, và gợi ý cho ta, về tâm trí của Chúa khi tạo nên vũ trụ này.&lt;/p&gt;
+
+&lt;div class=&quot;amara-embed&quot; data-hide-order=&quot;true&quot; data-height=&quot;480px&quot; data-width=&quot;740px&quot; data-initial-language=&quot;vi&quot; data-show-subtitles-default=&quot;true&quot; data-url=&quot;http://www.youtube.com/watch?v=jremlZvNDuk?cc_load_policy=0&quot;&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Big Think&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=jremlZvNDuk&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nào, giờ chúng ta cùng đi một hành trình nho nhỏ, hành trình mà chính Newton đã đi qua để chứng minh rằng, trái táo rơi, và mặt trăng cũng rơi.&lt;/p&gt;
+
+&lt;!-- Quiz Container --&gt;
+&lt;div id=&quot;quiz&quot;&gt;
+&lt;!-- Question 1 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;&lt;p&gt;Như ta biết khi trái táo rơi, trái táo bị trái đất hút với với gia tốc trọng trường là $g = 9.8 m/s^2$. Hiện tượng này đã được Galille nhận ra từ trước. &lt;/p&gt;
+    
+&lt;p&gt;Newton theo lý thuyết của mình biết rằng lực hấp dẫn tỉ lệ nghịch với bình phương khoảng cách. Các đo đạc bấy giờ đã biết khoảng cách giữa trái đất và mặt trăng bằng 60 lần bán kính trái đất. &lt;/p&gt;
+
+&lt;p&gt;Hỏi gia tốc rơi của mặt trăng theo dự đoán của Newton là bao nhiêu?&lt;/p&gt;
+ &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-1&quot; name=&quot;q1&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-1-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $g&#39; = 1/60^2 \times g \approx 20,000~km/d^2.$&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-2&quot; name=&quot;q1&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-1-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $g&#39; = 1/30^2 \times g \approx 5,000~km/d^2$&lt;/label&gt; &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-1-3&quot; name=&quot;q1&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-1-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $g&#39; = 1/60 \times g \approx 1.2 \times 10^6~km/d^2$&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Question 2 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;&lt;p&gt;Giờ ta muốn biết mỗi ngày mặt trăng đi được bao xa. Nếu giả sử mặt trăng quay quanh trái đất với quĩ đạo tròn với bán kính $R = 0.38\times 10^6~km$ và chu kì mặt trăng là $28$ ngày.&lt;/p&gt;
+
+&lt;p&gt;Hỏi khoảng cách $d$ mặt trăng di chuyển trong một ngày?&lt;/p&gt;
+ &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-1&quot; name=&quot;q2&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-2-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $d = \pi \times R / 28 \approx 0.0426 \times 10^6~km.$&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-2&quot; name=&quot;q2&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-2-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $d = 2\times \pi \times R / 28 \approx 0.0853 \times 10^6~km.$&lt;/label&gt; &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-2-3&quot; name=&quot;q2&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-2-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $d = \pi \times R /2 / 28 \approx 0.0213 \times 10^6~km.$&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Question 2 --&gt;
+&lt;div class=&quot;card quizlib-question&quot;&gt;
+    &lt;div class=&quot;quizlib-question-title&quot;&gt;            &lt;img src=&quot;http://www.mathplanet.com/media/43945/altitude_right_triangle_499x300.jpg&quot; /&gt;
+&lt;p&gt;Trong hình trên có $A$ là tâm trái đất, $B$ là mặt trăng của ngày hôm qua, $C$ là vị trí mới của mặt trăng nếu nó vẫn tiếp tục đi thẳng và $D$ là vị trí thực sự của mặt trăng sau một ngày, vì ta đang giả sử trong ngày này mặt trăng rơi tự do, như trái táo, từ $C$ về $D$.&lt;/p&gt;
+
+&lt;p&gt;Ta đã biết $AB = R = 0.38 \times 10^6~km$. Trong một ngày mặt trăng đi được $BC \approx 0.0853 \times 10^6~km$ từ bài toán ở trên.&lt;/p&gt;
+
+&lt;p&gt;Hỏi khoảng cách $AC$ giữa mặt trăng và trái đất, sau một ngày, nếu mặt trăng không rơi là bao nhiêu?&lt;/p&gt;
+ &lt;/div&gt;
+    &lt;div class=&quot;quizlib-question-answers&quot;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-1&quot; name=&quot;q3&quot; value=&quot;a&quot; /&gt;&lt;label for=&quot;radio-3-1&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $AC = \sqrt{AB^2 - BC^2} \approx 0.37030\times 10^6~km.$&lt;/label&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-2&quot; name=&quot;q3&quot; value=&quot;b&quot; /&gt;&lt;label for=&quot;radio-3-2&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $AC = \sqrt{BC^2 - AB^2} \approx 0.37030i\times 10^6~km.$&lt;/label&gt; &lt;/li&gt;
+            &lt;li&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; id=&quot;radio-3-3&quot; name=&quot;q3&quot; value=&quot;c&quot; /&gt;&lt;label for=&quot;radio-3-3&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/label&gt; $AC = \sqrt{BC^2 + AB^2} \approx 0.38946 \times 10^6~km.$&lt;/label&gt; &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;quiz-result&quot; class=&quot;card&quot;&gt;
+Điểm số &lt;span id=&quot;quiz-percent&quot;&gt;&lt;/span&gt;% - &lt;span id=&quot;quiz-score&quot;&gt;&lt;/span&gt;/&lt;span id=&quot;quiz-max-score&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; onclick=&quot;showResults();&quot;&gt;XEM KẾT QUẢ&lt;/button&gt;&lt;/p&gt;
+
+&lt;script&gt;
+
+  var quiz;
+
+  function showResults() {
+      // Check answers and continue if all questions have been answered
+      if (quiz.checkAnswers()) {
+          var quizScorePercent = quiz.result.scorePercentFormatted; // The unformatted percentage is a decimal in range 0 - 1
+          var quizResultElement = document.getElementById(&#39;quiz-result&#39;);
+          quizResultElement.style.display = &#39;block&#39;;
+          document.getElementById(&#39;quiz-score&#39;).innerHTML = quiz.result.score.toString();
+          document.getElementById(&#39;quiz-max-score&#39;).innerHTML = quiz.result.totalQuestions.toString();
+          document.getElementById(&#39;quiz-percent&#39;).innerHTML = quizScorePercent.toString();
+
+          // Change background colour of results div according to score percent
+          if (quizScorePercent &gt;= 75) quizResultElement.style.backgroundColor = &#39;#4caf50&#39;;
+          else if (quizScorePercent &gt;= 50) quizResultElement.style.backgroundColor = &#39;#ffc107&#39;;
+          else if (quizScorePercent &gt;= 25) quizResultElement.style.backgroundColor = &#39;#ff9800&#39;;
+          else if (quizScorePercent &gt;= 0) quizResultElement.style.backgroundColor = &#39;#f44336&#39;;
+
+          // Highlight questions according to whether they were correctly answered. The callback allows us to highlight/show the correct answer
+          quiz.highlightResults(handleAnswers);
+      }
+  }
+
+  /** Callback for Quiz.highlightResults. Highlights the correct answers of incorrectly answered questions
+   * Parameters are: the question element, question number, correctly answered flag
+   */
+  function handleAnswers(question, no, correct) {
+      if (!correct) {
+          var answers = question.getElementsByTagName(&#39;input&#39;);
+          for (var i = 0; i &lt; answers.length; i++) {
+              if (answers[i].type === &quot;checkbox&quot; || answers[i].type === &quot;radio&quot;){
+                  // If the current input element is part of the correct answer, highlight it
+                  if (quiz.answers[no].indexOf(answers[i].value) &gt; -1) {
+                      answers[i].parentNode.classList.add(quiz.Classes.CORRECT);
+                  }
+              } else {
+                  // If the input is anything other than a checkbox or radio button, show the correct answer next to the element
+                  var correctAnswer = document.createElement(&#39;span&#39;);
+                  correctAnswer.classList.add(quiz.Classes.CORRECT);
+                  correctAnswer.classList.add(quiz.Classes.TEMP); // quiz.checkAnswers will automatically remove elements with the temp class
+                  correctAnswer.innerHTML = quiz.answers[no];
+                  correctAnswer.style.marginLeft = &#39;10px&#39;;
+                  answers[i].parentNode.insertBefore(correctAnswer, answers[i].nextSibling);
+              }
+          }
+      }
+  }
+
+  window.onload = function() {
+      quiz = new Quiz(&#39;quiz&#39;, [
+          &#39;a&#39;,
+          &#39;b&#39;,
+          &#39;c&#39;,
+      ]);
+  };
+
+&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Từ các kết quả trên, ta có trong thực tế mặt trăng rơi $DC = AC - AD \approx AC - AB = (0.38946 - 0.38)\times 10^6 = 9460~km$ trong một ngày.&lt;/p&gt;
+
+&lt;p&gt;Còn theo lý thuyết hấp dẫn của mình, Newton dự đoán mặt trăng sẽ rơi với gia tốc $g’ = 20,000~km/d^2$.&lt;/p&gt;
+
+&lt;p&gt;Dùng giải tích do chính Newton phát minh ra, ta có quãng đường mặt trăng rơi theo lý thuyết là &lt;script type=&quot;math/tex&quot;&gt;s = \frac 1 2 \times g&#39; \times (1d)^2 = 10000~km&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sai khác $5.4\%$ giữa hai kết quả.&lt;/p&gt;
+
+&lt;p&gt;Với các phép tính toán tương tự, Newton đã chứng minh được rằng &lt;strong&gt;táo rơi và mặt trăng cũng rơi&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, vui lòng xem hướng dẫn ở cuối trang. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;💕 &lt;strong&gt;CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN&lt;/strong&gt;  💕&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẫn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 01:06:42 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/Chua-la-nha-toan-hoc/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/Chua-la-nha-toan-hoc/</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Phản vật chất là gì?</title>
         <description>&lt;p&gt;Phản vật chất (antimatter) là một thành tựu quan trọng của cơ học lượng tử tương đối tính.&lt;/p&gt;
 &lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Paul Dirac&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dirac_4.jpg/220px-Dirac_4.jpg&quot; alt=&quot;Paul Dirac&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dirac_4.jpg/220px-Dirac_4.jpg&quot; alt=&quot;Paul Dirac&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
 &lt;caption align=&quot;bottom&quot;&gt;Carl Anderson&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;150px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_Anderson.jpg&quot; alt=&quot;Carl Anderson&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_Anderson.jpg&quot; alt=&quot;Carl Anderson&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;p&gt;Năm 1928, Paul Dirac, khi đang giải phương trình sóng Schrodinger cho electron, bằng cách sửa đổi phương trình của Schrodinger phù hợp với thuyết tương đối hẹp, đã tìm ra một nghiệm khác của phương trình. Ông đặt tên cho nó là antielectron.&lt;/p&gt;
 
