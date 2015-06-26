@@ -157,7 +157,7 @@ b, h1, strong, h2, h3, h4 {
   color: #797478;
   float: left;
   width: 16%;
-  margin: 2% 2% 50px 2%;
+  margin: 2% 2% 20px 2%;
   text-decoration: none;
   overflow: hidden;        
 
@@ -186,7 +186,6 @@ b, h1, strong, h2, h3, h4 {
 .gallery-item-name {
     text-transform: uppercase;
     height: 30px;
-    font-weight: 400;
     color: #797478;
     font-size: 10px;
     line-height: 30px;
@@ -195,7 +194,7 @@ b, h1, strong, h2, h3, h4 {
     margin-left: 5px;
     margin-right: 5px;
 
-    font-weight: 500;
+    font-weight: 900;
    
 }
 
