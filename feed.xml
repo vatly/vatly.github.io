@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 00:28:03 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 00:28:03 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 00:57:27 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 00:57:27 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -701,6 +701,22 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <title>Phương trình $E = mc^2$</title>
         <description>&lt;p&gt;Bài giảng hôm này là về phương trình vật lý nổi tiếng $E = mc^2$.
 Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự là gì.&lt;/p&gt;
+
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+    file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
+    label: &#39;tiếng Việt&#39;, 
+    kind: &#39;captions&#39;,
+    default: true,
+  }],
+        
+    });
+&lt;/script&gt;
 
 &lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
 

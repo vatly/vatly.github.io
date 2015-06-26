@@ -219,11 +219,6 @@ b, h1, strong, h2, h3, h4 {
  
 @media only screen and (max-width : 530px),
 only screen and (max-device-width : 530px){
-    .gallery-item {width: 46%;}
-}
- 
-@media only screen and (max-width : 320px),
-only screen and (max-device-width : 320px){
     .gallery-item {width: 96%;}
     .gallery-item-image img {width: 96%;}
     .gallery-item-name {font-size: 18px;}
