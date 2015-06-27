@@ -32,8 +32,8 @@
 }
 
 li {
-  line-height: 30px;
-  font-size: 14px;
+      min-height: 30px;
+      font-size: 14px;
 }
 
 input[type="text"]  {
@@ -231,4 +231,18 @@ only screen and (max-device-width : 530px){
     color: #bbb;
     font-size: 7px;
     overflow: hidden;
+}
+#hdvlplayer_caption {
+    min-height: 64px;
+    bottom: -20px;
+}
+
+#hdvlplayer_caption div {
+    min-height: 64px;    
+}
+
+#hdvlplayer_caption span {
+    margin-top: 10px;
+    display: table-cell;
+    vertical-align: middle;
 }
