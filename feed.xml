@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 20:00:49 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 20:00:49 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 20:19:18 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 20:19:18 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -44,7 +44,7 @@
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -106,7 +106,7 @@
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -306,7 +306,7 @@
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -476,7 +476,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -642,7 +642,7 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -695,7 +695,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -745,7 +745,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -791,7 +791,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
@@ -842,7 +842,7 @@ Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự
   }],   captions: {
             color: &#39;#fff&#39;,
             fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, ; ádsdArial&#39;,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
             //edgeStyle: &#39;uniform&#39;,
         },
