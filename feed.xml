@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 11:30:16 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 11:30:16 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 11:34:36 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 11:34:36 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,7 +40,7 @@
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -238,7 +238,7 @@
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -406,7 +406,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -570,7 +570,7 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -621,7 +621,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -669,7 +669,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -713,7 +713,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
@@ -762,7 +762,7 @@ Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự
             kind: &#39;captions&#39;,
             default: true,
   }],   captions: {
-            color: &#39;#dd5&#39;,
+            color: &#39;#fff&#39;,
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
