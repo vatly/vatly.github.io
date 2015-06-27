@@ -69,7 +69,7 @@
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=933993543324441";
+      js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.3&appId=933993543324441";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -132,12 +132,17 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         file: "https://www.youtube.com/watch?v=E43-CfukEgs",
         width: "100%",
         tracks: [{ 
-    file: '/assets/E43-CfukEgs.vtt', 
-    label: 'tiếng Việt', 
-    kind: 'captions',
-    default: true,
-  }],
-        
+            file: '/assets/E43-CfukEgs.vtt', 
+            label: 'tiếng Việt', 
+            kind: 'captions',
+            default: true,
+  }],   captions: {
+            color: '#dd5',
+            fontSize: 20,
+            fontfamily: 'Calibri, Venada, Arial',
+            backgroundOpacity: 50,
+            edgeStyle: 'depressed',
+        },
     });
 </script>
 
@@ -157,7 +162,11 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
   </article>
 	
-	<h2>Đặt câu hỏi</h2>
+	<h2>Đặt câu hỏi
+    <div style="float:right">
+<div class="fb-like" data-href="" data-width="20px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+        </div>
+    </h2>
     
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -201,7 +210,7 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <p class="text">Tập hợp các video bài giảng hay về Vật lý.  Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
 </p> 
                    <p class="text">
-     <strong style="  text-transform: uppercase;">Click <a href="http://eepurl.com/brwoMP"> đây</a> để theo dõi qua email. 
+     <a href="http://eepurl.com/brwoMP"> Subscribe</a> để được cập nhật các video mới nhất. 
              </p>
 
       </div>

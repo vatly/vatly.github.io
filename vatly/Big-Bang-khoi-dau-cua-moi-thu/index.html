@@ -69,7 +69,7 @@
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=933993543324441";
+      js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.3&appId=933993543324441";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -132,7 +132,27 @@ vẫn tiếp tục được phát hiện, nhiều câu hỏi mới được đ�
 <p>Chúng ta đang đứng trước ngưỡng cửa và cơ hội để giải đáp những câu hỏi nguyên thủy nhất
 về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối tiếp nhau vẫn luôn tự hỏi khi ngước nhìn lên bầu trời sao.</p>
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/wNDGgL73ihY?cc_lang_pref=vi&amp;cc_load_policy=1" frameborder="0" allowfullscreen=""></iframe>
+<div id="myElement"></div>
+
+<script>
+    jwplayer("myElement").setup({
+        file: "https://www.youtube.com/watch?v=wNDGgL73ihY",
+        width: "100%",
+        tracks: [{ 
+            file: '/assets/wNDGgL73ihY.vtt', 
+            label: 'tiếng Việt', 
+            kind: 'captions',
+            default: true,
+  }],   captions: {
+            color: '#dd5',
+            fontSize: 20,
+            fontfamily: 'Calibri, Venada, Arial',
+            backgroundOpacity: 50,
+            edgeStyle: 'depressed',
+        },
+    });
+</script>
+
 <p>Video có nguồn từ kênh <strong>Kurz Gesagt - In a Nutshell</strong> trên Youtube, xem video gốc tại <a href="https://www.youtube.com/watch?v=wNDGgL73ihY">đây.</a></p>
 
 <p><strong>Bây giờ tới màn vận động trí não một tí để hiểu rõ hơn.</strong></p>
@@ -264,7 +284,11 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
 
   </article>
 	
-	<h2>Đặt câu hỏi</h2>
+	<h2>Đặt câu hỏi
+    <div style="float:right">
+<div class="fb-like" data-href="" data-width="20px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+        </div>
+    </h2>
     
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -308,7 +332,7 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <p class="text">Tập hợp các video bài giảng hay về Vật lý.  Giúp giải đáp các câu hỏi xung quanh các bài giảng này.
 </p> 
                    <p class="text">
-     <strong style="  text-transform: uppercase;">Click <a href="http://eepurl.com/brwoMP"> đây</a> để theo dõi qua email. 
+     <a href="http://eepurl.com/brwoMP"> Subscribe</a> để được cập nhật các video mới nhất. 
              </p>
 
       </div>

@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 00:57:27 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 00:57:27 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 11:30:16 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 11:30:16 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -35,12 +35,17 @@
         file: &quot;https://www.youtube.com/watch?v=jremlZvNDuk&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/jremlZvNDuk.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/jremlZvNDuk.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -228,12 +233,17 @@
         file: &quot;https://www.youtube.com/watch?v=Lo8NmoDL9T8&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/Lo8NmoDL9T8.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/Lo8NmoDL9T8.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -384,7 +394,27 @@ vẫn tiếp tục được phát hiện, nhiều câu hỏi mới được đ�
 &lt;p&gt;Chúng ta đang đứng trước ngưỡng cửa và cơ hội để giải đáp những câu hỏi nguyên thủy nhất
 về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối tiếp nhau vẫn luôn tự hỏi khi ngước nhìn lên bầu trời sao.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/wNDGgL73ihY?cc_lang_pref=vi&amp;amp;cc_load_policy=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;myElement&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=wNDGgL73ihY&quot;,
+        width: &quot;100%&quot;,
+        tracks: [{ 
+            file: &#39;/assets/wNDGgL73ihY.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
+    });
+&lt;/script&gt;
+
 &lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Kurz Gesagt - In a Nutshell&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=wNDGgL73ihY&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bây giờ tới màn vận động trí não một tí để hiểu rõ hơn.&lt;/strong&gt;&lt;/p&gt;
@@ -535,12 +565,17 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
         file: &quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/4a0FbQdH3dY.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/4a0FbQdH3dY.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -581,12 +616,17 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         file: &quot;https://www.youtube.com/watch?v=E43-CfukEgs&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/E43-CfukEgs.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/E43-CfukEgs.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -619,19 +659,22 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
 
 &lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;Xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=Y7IsyjFROHE&quot;&gt;đây&lt;/a&gt;.&lt;/p&gt;
-
 &lt;script&gt;
     jwplayer(&quot;myElement&quot;).setup({
         file: &quot;https://www.youtube.com/watch?v=Y7IsyjFROHE&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/Y7IsyjFROHE.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/Y7IsyjFROHE.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -665,12 +708,17 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         file: &quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
@@ -706,31 +754,20 @@ Thông qua bài này các bạn sẽ hiểu được khối lượng thật sự
 
 &lt;script&gt;
     jwplayer(&quot;myElement&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;,
-        width: &quot;100%&quot;,
-        tracks: [{ 
-    file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
-    });
-&lt;/script&gt;
-
-&lt;div id=&quot;myElement&quot;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;myElement&quot;).setup({
         file: &quot;https://www.youtube.com/watch?v=Xo232kyTsO0&quot;,
         width: &quot;100%&quot;,
         tracks: [{ 
-    file: &#39;/assets/Xo232kyTsO0.vtt&#39;, 
-    label: &#39;tiếng Việt&#39;, 
-    kind: &#39;captions&#39;,
-    default: true,
-  }],
-        
+            file: &#39;/assets/Xo232kyTsO0.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#dd5&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;depressed&#39;,
+        },
     });
 &lt;/script&gt;
 
