@@ -6,26 +6,13 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jun 2015 19:33:58 +0800</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 19:33:58 +0800</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 19:37:09 +0800</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 19:37:09 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Vì sao mèo luôn tiếp đất bằng chân?</title>
         <description>&lt;p&gt;Xét hệ quy chiếu rơi tự do, con mèo đang đứng yên, không có lực nào tác dụng, lại có thể xoay thân mình để chân nó luôn hướng xuống khi chạm đất? Liệu có vi phạm tính bảo toàn moment của động lượng?&lt;/p&gt;
-
-&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/78/Cat_fall_150x300_6fps.gif&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Đây là một câu hỏi thú vị trong cuộc sống hằng ngày và có thể dùng vật lý phổ thông để giải thích.&lt;/p&gt;
-
-&lt;p&gt;Như một trường hợp ở hình bên, có thể phân tích vector moment của động lượng ra ba thành phần.&lt;/p&gt;
-
-&lt;p&gt;Hai thành phần $L_{FRONT}$ và  $L_{BACK}$, là nỗ lực các cơ bên trong cơ thể mèo, cố xoắn phần trước và theo các trục lệch nhau.&lt;/p&gt;
-
-&lt;p&gt;Thành phần thứ ba là $L_{COMPOUND}$ là thành phần khiến mèo quay quanh thân mình. Và như bạn, thấy hợp của ba thành phần này là vector $0$. Như vậy là moment của động lượng được bảo toàn và mèo vẫn tiếp đất bằng chân.&lt;/p&gt;
 
 &lt;p&gt;Để rõ hơn về hiện tượng này, các bạn có thể, xem thêm tại &lt;a href=&quot;https://www.wikiwand.com/en/Cat_righting_reflex&quot;&gt;đây&lt;/a&gt;.&lt;/p&gt;
 
