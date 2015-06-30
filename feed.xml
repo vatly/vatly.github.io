@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jun 2015 17:28:20 +0800</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 17:28:20 +0800</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 19:32:53 +0800</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 19:32:53 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;Như ở hình bên, có thể phân tích vector moment của động lượng ra ba thành phần.&lt;/p&gt;
 
-&lt;p&gt;Hai thành phần $L_{FRONT}$ và  $L_{BACK}$, là nỗ lực các cơ bên trong con mèo, cố xoắn phần trước theo một chiều, và phần sau theo chiều ngược lại.&lt;/p&gt;
+&lt;p&gt;Hai thành phần $L_{FRONT}$ và  $L_{BACK}$, là nỗ lực các cơ bên trong cơ thể mèo, cố xoắn phần trước và theo các trục lệch nhau.&lt;/p&gt;
 
 &lt;p&gt;Thành phần thứ ba là $L_{COMPOUND}$ là thành phần khiến mèo quay quanh thân mình. Và như bạn, thấy hợp của ba thành phần này là vector $0$. Như vậy là moment của động lượng được bảo toàn và mèo vẫn tiếp đất bằng chân.&lt;/p&gt;
 
