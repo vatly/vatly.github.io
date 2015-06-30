@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vatly.github.io/vatly/meo-roi-tu-do/</loc>
+    
+    <lastmod>2015-06-30T23:50:30+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://vatly.github.io/vatly/nghich-ly-fermi-2/</loc>
     
     <lastmod>2015-06-29T04:15:30+08:00</lastmod>
@@ -108,7 +117,7 @@
   
   <url>
     <loc>https://vatly.github.io/index.html</loc>
-    <lastmod>2015-06-28T20:30:31+08:00</lastmod>
+    <lastmod>2015-06-30T17:28:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

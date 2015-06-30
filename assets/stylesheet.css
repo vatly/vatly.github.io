@@ -199,7 +199,11 @@ b, h1, strong, h2, h3, h4 {
 }
 
 .gallery-item-image img {
-
+    display: block;
+    max-width:230px;
+    max-height:180px;
+    width: auto;
+    height: auto;
 
 }
 
@@ -229,7 +233,7 @@ only screen and (max-device-width : 530px){
     float:right;
     z-index: 100;
     color: #bbb;
-    font-size: 7px;
+    font-size: 10px;
     overflow: hidden;
 }
 #hdvlplayer_caption {
@@ -246,3 +250,30 @@ only screen and (max-device-width : 530px){
     display: table-cell;
     vertical-align: middle;
 }
+
+.embed-container {
+position: relative;
+height: 0;
+overflow: hidden;
+background-color:black;
+}
+
+.ratio-16-9{
+padding-bottom:56.25%; /* 9/16*100 */
+}
+
+.ratio-4-3{
+padding-bottom:75%; /* 3/4*100 */
+}
+
+.ratio-1-1{
+padding-bottom:100%; /* … */
+}
+
+.embed-container img{
+position: absolute;
+top: 0;
+left: 0;
+width:100%;
+}
+

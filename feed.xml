@@ -6,9 +6,70 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jun 2015 20:30:31 +0800</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2015 20:30:31 +0800</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 17:28:20 +0800</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 17:28:20 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Vì sao mèo luôn tiếp đất bằng chân?</title>
+        <description>&lt;p&gt;Xét hệ quy chiếu rơi tự do, con mèo đang đứng yên, không có lực nào tác dụng, lại có thể xoay thân mình để chân nó luôn hướng xuống khi chạm đất? Liệu có vi phạm tính bảo toàn moment của động lượng?&lt;/p&gt;
+
+&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/78/Cat_fall_150x300_6fps.gif&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Đây là một câu hỏi thú vị trong cuộc sống hằng ngày và có thể dùng vật lý phổ thông để giải thích.&lt;/p&gt;
+
+&lt;p&gt;Như ở hình bên, có thể phân tích vector moment của động lượng ra ba thành phần.&lt;/p&gt;
+
+&lt;p&gt;Hai thành phần $L_{FRONT}$ và  $L_{BACK}$, là nỗ lực các cơ bên trong con mèo, cố xoắn phần trước theo một chiều, và phần sau theo chiều ngược lại.&lt;/p&gt;
+
+&lt;p&gt;Thành phần thứ ba là $L_{COMPOUND}$ là thành phần khiến mèo quay quanh thân mình. Và như bạn, thấy hợp của ba thành phần này là vector $0$. Như vậy là moment của động lượng được bảo toàn và mèo vẫn tiếp đất bằng chân.&lt;/p&gt;
+
+&lt;p&gt;Để rõ hơn về hiện tượng này, các bạn có thể, xem thêm tại &lt;a href=&quot;https://www.wikiwand.com/en/Cat_righting_reflex&quot;&gt;đây&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=RtWbpyjJqrU&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/RtWbpyjJqrU.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Smarter Every Day&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=RtWbpyjJqrU&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jun 2015 23:50:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/meo-roi-tu-do/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/meo-roi-tu-do/</guid>
+        
+        
+        <category>physics</category>
+        
+      </item>
     
       <item>
         <title>Nghịch lý Fermi - Các giải thích 2/2</title>
@@ -41,10 +102,10 @@
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -200,10 +261,10 @@
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -264,10 +325,10 @@
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -464,10 +525,10 @@
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -634,10 +695,10 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -800,10 +861,10 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -853,10 +914,10 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -903,10 +964,10 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 16,
+            fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
         },
         
     });
@@ -923,58 +984,6 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <pubDate>Wed, 24 Jun 2015 04:45:45 +0800</pubDate>
         <link>https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</link>
         <guid isPermaLink="true">https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</guid>
-        
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Higgs boson là gì?</title>
-        <description>&lt;p&gt;Nhà khoa học từ phòng thí nghiệm Fermilab trình bày về bản chất của Higgs boson và mối liên hệ của nó với trường Higgs. Theo đó Higgs boson là mảnh ghép nhỏ nhất tạo nên trường Higgs, một trường năng lượng phủ khắp vũ trụ.&lt;/p&gt;
-
-&lt;p&gt;Một trường hợp tương tự với mối liên hệ giữa Higgs boson và trường Higgs là mối liên hệ giữa hạt photon và trường điện từ. Bạn hãy thử suy nghĩ về nó.&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/RIg1Vh7uPyw.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 16,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            //edgeStyle: &#39;uniform&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;Video có nguồn từ kênh trên Youtube của Fermilab, tại &lt;a href=&quot;https://www.youtube.com/watch?v=RIg1Vh7uPyw&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Jun 2015 23:05:45 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/Higgs-boson-la-gi/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/Higgs-boson-la-gi/</guid>
         
         
         <category>physics</category>
