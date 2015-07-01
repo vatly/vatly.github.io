@@ -6,9 +6,61 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2015 10:57:44 +0800</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2015 10:57:44 +0800</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2015 17:39:09 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2015 17:39:09 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Làm sao để dự đoán Supernova?</title>
+        <description>&lt;p&gt;Các vụ nổ supernova (vụ nổ siêu tân tinh) là một trong những sự kiện chấn động nhất vũ trụ, có thể rọi sáng toàn bộ thiên hà.&lt;/p&gt;
+
+&lt;p&gt;Bài giảng dưới đây cho ta biết về cơ chế của các vụ nổ supernova, cách thức mà các nhà vật lý thực nghiệm có thể dự đoán các vụ nổ này &lt;em&gt;trước khi ánh sáng từ vụ nổ đến trái đất&lt;/em&gt;, liệu có thể?&lt;/p&gt;
+
+&lt;p&gt;Điều này mở ra cơ hội cho nhân loại, lần đầu tiên, chứng kiến những hình ảnh ban đầu của sự kiện nổi bật nhất trong vũ trụ này.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=xYxyTZG7APQ&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/xYxyTZG7APQ.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Ted-Ed&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=xYxyTZG7APQ&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jun 2015 23:50:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/phat-hien-supernova/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/phat-hien-supernova/</guid>
+        
+        
+        <category>vật lý</category>
+        
+        <category>vũ trụ</category>
+        
+      </item>
     
       <item>
         <title>Vì sao mèo luôn tiếp đất bằng chân?</title>
@@ -56,7 +108,11 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/meo-roi-tu-do/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>vật lý cổ điển</category>
+        
+        <category>vũ trụ</category>
         
       </item>
     
@@ -119,7 +175,9 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/nghich-ly-fermi-2/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>vũ trụ</category>
         
       </item>
     
@@ -217,7 +275,9 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/hoi-dap/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>hỏi đáp</category>
         
       </item>
     
@@ -282,7 +342,9 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/nghich-ly-fermi-1/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>vũ trụ</category>
         
       </item>
     
@@ -480,7 +542,9 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/Chua-la-nha-toan-hoc/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>toán</category>
         
       </item>
     
@@ -656,7 +720,11 @@
         <guid isPermaLink="true">https://vatly.github.io/vatly/Phan-vat-chat/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>lượng tử</category>
+        
+        <category>tương đối hẹp</category>
         
       </item>
     
@@ -831,7 +899,9 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <guid isPermaLink="true">https://vatly.github.io/vatly/Big-Bang-khoi-dau-cua-moi-thu/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>big bang</category>
         
       </item>
     
@@ -882,7 +952,9 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
         <guid isPermaLink="true">https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
+        
+        <category>bài giảng</category>
         
       </item>
     
@@ -935,51 +1007,9 @@ Với thí nghiệm đơn giản này, con người ngày càng gần hơn với
         <guid isPermaLink="true">https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</guid>
         
         
-        <category>physics</category>
+        <category>vật lý</category>
         
-      </item>
-    
-      <item>
-        <title>Tàu vũ trụ siêu nhỏ</title>
-        <description>&lt;p&gt;Một bài giảng từ TED với dự đoán về tương lai của tàu vũ trụ.&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=Y7IsyjFROHE&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/Y7IsyjFROHE.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 0,
-            edgeStyle: &#39;uniform&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, vui lòng xem hướng dẫn ở cuối trang. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jun 2015 04:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/Tau-vu-tru-ti-hon/</guid>
-        
-        
-        <category>physics</category>
+        <category>thí nghiệm</category>
         
       </item>
     
