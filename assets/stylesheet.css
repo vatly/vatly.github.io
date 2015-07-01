@@ -200,11 +200,6 @@ b, h1, strong, h2, h3, h4 {
 
 .gallery-item-image img {
     display: block;
-    max-width:230px;
-    max-height:180px;
-    width: auto;
-    height: auto;
-
 }
 
 .gallery-item:hover {
