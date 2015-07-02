@@ -6,9 +6,34 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jul 2015 17:36:49 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2015 17:36:49 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 21:30:13 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 21:30:13 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>[Sci-Fi] Wanderers - Carl Sagan</title>
+        <description>&lt;p&gt;Một bộ film khoa học viễn tưởng ngắn, được thực hiện bởi &lt;em&gt;Erik Wernquist&lt;/em&gt;, dự đoán về tương lai của nhân loại trong hành trình khám phá hệ Mặt Trời.&lt;/p&gt;
+
+&lt;p&gt;Lời dẫn từ nhà thiên văn học nổi tiếng &lt;em&gt;Carl E. Sagan&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Film xem tốt nhất khi full screen cùng với loa tốt :-)&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/108650530&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Video gốc tại &lt;a href=&quot;http://erikwernquist.com/wanderers/film.html&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nếu thấy hay, bạn có thể &lt;strong&gt;like&lt;/strong&gt; hoặc &lt;strong&gt;chia sẻ&lt;/strong&gt; cho bạn bè người thân của mình ;-)&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p style=&quot;display: none;&quot;&gt; Ghi lại đây để kỷ niệm 100 bạn subscribe ;)) &lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2015 01:25:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/xe-dap-khong-nga/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/xe-dap-khong-nga/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>Xe đạp không ngã?</title>
@@ -48,8 +73,8 @@
 &lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jul 2015 01:25:30 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/xe-dap-khong-nga/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/xe-dap-khong-nga/</guid>
+        <link>https://vatly.github.io/vatly/wanderers-carl-sagan/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/wanderers-carl-sagan/</guid>
         
         
         <category>vật lý</category>
@@ -949,59 +974,6 @@ về vũ trụ, những câu hỏi mà hàng ngàn thế hệ người nối ti�
         <category>vật lý</category>
         
         <category>big bang</category>
-        
-      </item>
-    
-      <item>
-        <title>Bài giảng cuối cùng của Walter Lewin</title>
-        <description>&lt;p&gt;Mặc dù gặp scandal trong thời gian gần đây, nhưng di sản để lại của Walter Lewin cho những người yêu vật lý là không kể hết.
-Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong những bài giảng hay nhất của ông về vật lý cổ điển.&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/4a0FbQdH3dY.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 0,
-            edgeStyle: &#39;uniform&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;Video có nguồn từ kênh trên Youtube của OCW, tại &lt;a href=&quot;https://www.youtube.com/watch?v=4a0FbQdH3dY&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jun 2015 10:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/bai-giang-cuoi-cua-Walter-Lewin/</guid>
-        
-        
-        <category>vật lý</category>
-        
-        <category>bài giảng</category>
         
       </item>
     
