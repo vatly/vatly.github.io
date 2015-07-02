@@ -283,3 +283,23 @@ width:100%;
     float:right;
 }
 
+#preview {
+    background-color: #efefef;
+    border: 1px solid #dedede;
+    filter: alpha(opacity=10);
+    opacity: 0.1;    
+
+  -webkit-transition: all 1.5s ease;
+     -moz-transition: all 1.5s ease;
+       -o-transition: all 1.5s ease;
+      -ms-transition: all 1.5s ease;
+          transition: all 1.5s ease;
+
+}
+
+#preview:hover {
+    background-color: #efefef;
+    border: 1px solid #dedede;
+    filter: alpha(opacity=100);
+    opacity: 1.0;    
+}
