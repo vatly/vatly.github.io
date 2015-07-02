@@ -6,9 +6,55 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2015 21:46:31 +0800</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2015 21:46:31 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 17:36:49 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 17:36:49 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Xe đạp không ngã?</title>
+        <description>&lt;p&gt;Một trong những sai lầm thường thấy khi giải thích việc xe đạp có thể đứng được là do bảo toàn moment của động lượng, qua video này chúng ta sẽ thật sự hiểu được cơ chế nào khiến cho xe đạp không ngã.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=oZAc5t2lkvo&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/oZAc5t2lkvo.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 0,
+            edgeStyle: &#39;uniform&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;MinutePhysics&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=oZAc5t2lkvo&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2015 01:25:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/xe-dap-khong-nga/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/xe-dap-khong-nga/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>Làm sao để dự đoán Supernova?</title>
@@ -50,8 +96,9 @@
 &lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 30 Jun 2015 23:50:30 +0800</pubDate>
+        <pubDate>Wed, 01 Jul 2015 23:50:30 +0800</pubDate>
         <link>https://vatly.github.io/vatly/phat-hien-supernova/</link>
         <guid isPermaLink="true">https://vatly.github.io/vatly/phat-hien-supernova/</guid>
         
@@ -955,61 +1002,6 @@ Dưới đây là bài giảng cuối cùng của ông tại MIT. Một trong nh
         <category>vật lý</category>
         
         <category>bài giảng</category>
-        
-      </item>
-    
-      <item>
-        <title>Thí nghiệm của Galilleo</title>
-        <description>&lt;p&gt;Nhà vật lý người Anh giới thiệu thí nghiệm đã khai sinh ra Vật lý học. Thả hai vật rơi tự do.
-Với thí nghiệm đơn giản này, con người ngày càng gần hơn với bản chất thật sự của lực hấp dẫn, của không gian và thời gian.&lt;/p&gt;
-
-&lt;p&gt;Nếu có ai đó hỏi bạn về điều duy nhất nên nhớ về toàn bộ Vật lý học cổ điển. Hãy trả lời đó là thí nghiệm này.&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=E43-CfukEgs&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/E43-CfukEgs.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 0,
-            edgeStyle: &#39;uniform&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;Video có nguồn từ kênh trên Youtube của BBC, tại &lt;a href=&quot;https://www.youtube.com/watch?v=E43-CfukEgs&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc gì sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, bạn có thể like page chính thức của Hỏi đáp vật lý tại cuối trang này. Xin cám ơn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Hãy đặt câu hỏi vì bạn là người ham hiểu biết.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Và đôi khi chỉ một câu hỏi &lt;em&gt;ngớ ngẩn&lt;/em&gt; có thể làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jun 2015 07:45:45 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/Thi-nghiem-cua-Galilleo/</guid>
-        
-        
-        <category>vật lý</category>
-        
-        <category>thí nghiệm</category>
         
       </item>
     
