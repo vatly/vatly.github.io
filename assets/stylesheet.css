@@ -176,7 +176,6 @@ b, h1, strong, h2, h3, h4 {
 .gallery-item-inner:hover {
     color: firebrick;
     text-decoration: none;
-    -webkit-filter: brightness(150%);
 }
 
 .gallery-item-inner {
@@ -184,17 +183,15 @@ b, h1, strong, h2, h3, h4 {
 }
 
 .gallery-item-name {
-    text-transform: uppercase;
     height: 30px;
-    color: #797478;
-    font-size: 10px;
+    font-size: 13px;
     line-height: 30px;
     overflow:hidden;
     
     margin-left: 5px;
     margin-right: 5px;
 
-    font-weight: 900;
+    font-weight: 500;
    
 }
 
@@ -203,10 +200,10 @@ b, h1, strong, h2, h3, h4 {
 }
 
 .gallery-item:hover {
-    overflow: hidden;    
-    opacity: 0.7;
-    filter: alpha(opacity=70); /* For IE8 and earlier */
+    overflow: hidden; 
+    color:firebrick;
 }
+
 
 
 /* MEDIA QUERIES*/
