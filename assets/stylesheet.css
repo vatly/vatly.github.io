@@ -12,6 +12,9 @@
 
 .cardprime {
   background-color: #fff;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
   -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
   box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.15);
@@ -23,6 +26,7 @@
   margin-bottom: 10px;
 
   text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 16px;
   color: #fff;
 }
@@ -45,6 +49,7 @@ input[type="text"]  {
 
   cursor: pointer;
 
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 16px;
   color: #fff;
 
@@ -156,16 +161,20 @@ b, h1, strong, h2, h3, h4 {
   text-decoration: none;
   overflow: hidden;        
 
-  color: #fff;
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
 
 }
 
-.galleery-item  {
-    text-decoration: none;
-  color: #fff;
+.galleery-item a {
+      text-decoration: none;
 }
 
 .gallery-item-inner:hover {
+    color: firebrick;
     text-decoration: none;
 }
 
@@ -174,18 +183,15 @@ b, h1, strong, h2, h3, h4 {
 }
 
 .gallery-item-name {
-    text-decoration: none;
     height: 30px;
     font-size: 13px;
     line-height: 30px;
     overflow:hidden;
-    position: relative;
-    margin-top: -30px;
-    background-color: rgba(55, 55, 55, 0.5);
-    width: 100%;
+    
+    margin-left: 5px;
+    margin-right: 5px;
+
     font-weight: 500;
-    padding-left: 5px;
-    color: #fff;
    
 }
 
