@@ -300,3 +300,11 @@ width:100%;
     filter: alpha(opacity=100);
     opacity: 1.0;    
 }
+
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+    display: none !important;
+}
+
+.fb_edge_comment_widget {
+  display: none !important;
+}
