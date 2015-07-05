@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vatly.github.io/vatly/pha-ky-luc-bang-vat-ly/</loc>
+    
+    <lastmod>2015-07-05T00:38:30+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://vatly.github.io/vatly/khong-thoi-gian-lieu-co-that/</loc>
     
     <lastmod>2015-07-05T00:38:30+08:00</lastmod>
@@ -164,7 +173,7 @@
   
   <url>
     <loc>https://vatly.github.io/index.html</loc>
-    <lastmod>2015-07-04T17:50:29+08:00</lastmod>
+    <lastmod>2015-07-05T20:12:09+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
