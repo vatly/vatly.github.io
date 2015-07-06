@@ -6,9 +6,64 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2015 20:12:09 +0800</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2015 20:12:09 +0800</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2015 19:21:48 +0800</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2015 19:21:48 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Trái đất - The pale blue dot</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png&quot; style=&quot;float:right&quot; height=&quot;100px&quot; /&gt;
+Nhà thiên văn học, huyền thoại, Carl Sagan miêu tả chấm sáng nhỏ bé màu xanh trên phông nền rộng lớn của vũ trụ. Đó chính là chúng ta, trái đất, ngôi nhà nhỏ bé của biết bao thế hệ người, của tất cả hạnh phúc và niềm đau, tình yêu và thù hận, anh hùng và tiểu nhân.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/pale-blue-dot/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=4PN5JJDh78I&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/4PN5JJDh78I.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;None&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;TEDvn&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=4PN5JJDh78I&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;lan toả tri thức tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jul 2015 00:28:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/pale-blue-dot/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/pale-blue-dot/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>Phá kỷ lục thế giới bằng vật lý</title>
@@ -37,7 +92,7 @@
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -55,7 +110,7 @@
 
 &lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 05 Jul 2015 00:38:30 +0800</pubDate>
+        <pubDate>Mon, 06 Jul 2015 00:38:30 +0800</pubDate>
         <link>https://vatly.github.io/vatly/pha-ky-luc-bang-vat-ly/</link>
         <guid isPermaLink="true">https://vatly.github.io/vatly/pha-ky-luc-bang-vat-ly/</guid>
         
@@ -95,7 +150,7 @@
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -147,7 +202,7 @@
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -242,7 +297,7 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -298,7 +353,7 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -355,7 +410,7 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -426,7 +481,7 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
             fontSize: 20,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
             backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
+            edgeStyle: &#39;None&#39;,
         },
         
     });
@@ -554,79 +609,6 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
         <category>vật lý</category>
         
         <category>hỏi đáp</category>
-        
-      </item>
-    
-      <item>
-        <title>Nghịch lý Fermi - Aliens ở đâu? 1/2</title>
-        <description>&lt;p&gt;Enrico Fermi là nhà vật lý người Ý, được biết đến như là cha đẻ của bom nguyên tử. Nghịch lý Fermi được  Fermi và nhà vật lý Michael H. Hart đưa ra với những luận điểm sau:&lt;/p&gt;
-&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/250px-Enrico_Fermi_1943-49.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mặt trời là một ngôi sao điển hình. Có hàng tỉ ngôi sao trong ngân hà có hàng tỉ năm tuổi già hơn mặt trời.&lt;/li&gt;
-  &lt;li&gt;Xác suất cao rằng vài ngôi sao trong số này sẽ có hành tinh giống Trái Đất. Giả sử trái đất là trường hợp điển hình, một vài trong các hành tinh có thể phát triển sự sống có trí tuệ.&lt;/li&gt;
-  &lt;li&gt;Một vài nền văn minh trong số này có thể phát triển công nghệ du hành liên sao, một công nghệ mà chính Trái đất cũng đang phát triển.&lt;/li&gt;
-  &lt;li&gt;Thậm chí với tốc tộ du hành liên sao hiện tại, thì toàn bộ ngân hà có thể được thuộc địa hóa trong vài chục triệu năm.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Theo dòng suy luận này, Trái đất đáng ra đã bị thuộc địa hóa hay ít nhất là được viếng thăm. Nhưng Fermi lại không thấy bất cứ bằng chứng nào cho việc này, không hề có bất kỳ dấu hiệu của sự sống có trí tuệ ở nơi nào khác trong thiên hà của chúng ta. Từ đó Fermi đặt câu hỏi, &lt;strong&gt;“Where is everybody?”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-&lt;div&gt;
-&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
-    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/nghich-ly-fermi-1/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=sNhhvQGsMEc&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/sNhhvQGsMEc.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;uniform&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Kurz Gesagt - In a Nutshell&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=sNhhvQGsMEc&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bạn có thể xem phần 2 tại &lt;a href=&quot;https://vatly.github.io/vatly/nghich-ly-fermi-2/&quot;&gt;đây.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, vui lòng xem hướng dẫn ở cuối trang. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Jun 2015 01:06:42 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/nghich-ly-fermi-1/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/nghich-ly-fermi-1/</guid>
-        
-        
-        <category>vật lý</category>
-        
-        <category>vũ trụ</category>
         
       </item>
     
