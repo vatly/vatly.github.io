@@ -6,9 +6,63 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jul 2015 19:56:08 +0800</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2015 19:56:08 +0800</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2015 20:57:28 +0800</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2015 20:57:28 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Sấm siêu thanh</title>
+        <description>&lt;p&gt;Một bài giảng thú vị về máy bay siêu thanh, hiệu ứng Doppler, sấm siêu thanh và vẻ đẹp của tự nhiên khi tận dụng sấm siêu thanh.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/faster-than-sound/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=3K-BIWAYPYE&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/3K-BIWAYPYE.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;None&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;TEDvn&lt;/strong&gt; Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=3K-BIWAYPYE&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;lan toả tri thức tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Jul 2015 04:53:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/faster-than-sound/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/faster-than-sound/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>Trái đất - The pale blue dot</title>
@@ -510,106 +564,6 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
         <category>vật lý</category>
         
         <category>vũ trụ</category>
-        
-      </item>
-    
-      <item>
-        <title>Bạn hỏi chúng tôi trả lời</title>
-        <description>&lt;p&gt;Bạn &lt;strong&gt;Thai Thuong Triet&lt;/strong&gt; có hỏi chúng tôi một loạt câu hỏi dưới đây. Chúng tôi nhận thấy các câu hỏi này rất hay và có thể được hỏi bởi các bạn khác nên quyết định đăng thành một bài riêng tại đây.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#c1&quot;&gt;Tại sao&lt;/a&gt; các hành tinh trong hệ mặt Trời có chuyển động tự xoay và đều có quĩ đạo nằm trên mặt phẳng Hoàng Đạo?&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#c2&quot;&gt;Tại sao&lt;/a&gt; khi xuyên qua môi trường có hằng số điện môi, như bầu khí quyển trái Đất chẳng hạn, ánh sáng bị giảm tốc độ, nhưng khi ra khỏi môi trường để bay vào chân không, thì ánh sáng lại khôi phục lại tốc độ ban đầu? Tác động của môi trường lên ánh sáng như thế nào để tăng tốc cho ánh sáng?&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#c3&quot;&gt;Tại sao&lt;/a&gt; trong cấu tạo nguyên tử, các electron luôn ở phía ngoài còn proton luôn nằm bên trong?&lt;/li&gt;
-  &lt;li&gt;Bản chất của tính quán tính của khối lượng &lt;a href=&quot;#c4&quot;&gt;là gì?&lt;/a&gt; Tại sao chỉ có khối lượng mới có tính quán tính?&lt;/li&gt;
-  &lt;li&gt;Bản chất các tương tác như tương tác hấp dẫn, tương tác điện từ, tương tác hạt nhân,v.v..? &lt;a href=&quot;#c5&quot;&gt;nguyên nhân?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sự hình thành, nguyên nhân tồn tại, cấu trúc và giới hạn của Vũ trụ &lt;a href=&quot;#c6&quot;&gt;là gì?&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;a-namec1a1-ti-sao-cc-hnh-tinh-trong-h-mt-tri-c-chuyn-ng-t-xoay-v-u-c-qu-o-nm-trn-mt-phng-hong-o&quot;&gt;&lt;a name=&quot;c1&quot;&gt;&lt;/a&gt;1. Tại sao các hành tinh trong hệ mặt Trời có chuyển động tự xoay và đều có quĩ đạo nằm trên mặt phẳng Hoàng Đạo?&lt;/h4&gt;
-
-&lt;p&gt;Các hành tinh đều tự xoay là do bảo toàn mô men quán tính  của hành tinh. Lấy trái đất làm ví dụ, &lt;strong&gt;vì sao trái đất quay quanh trục?&lt;/strong&gt; Đơn giản là vì mô men quán tính  của hệ gồm tất cả vật chất tạo nên trái đất là khác 0, và do vậy trái đất quay!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vì sao các quỹ đạo đều nằm trên cùng mặt phẳng?&lt;/strong&gt; Điều này thì liên quan tới vài thứ: trạng thái ban đầu của hệ mặt trời, hấp dẫn, và bảo toàn mô men quán tính .  Về cơ bản, mặt phẳng hoàng đạo được xác định bởi hai thứ: khối tâm của cả hệ mặt trời và vector biểu diễn mô men động lượng của cả hệ mặt trời. Mặt phẳng hoàng đạo là mặt phẳng đi qua khối tâm của hệ và vuông góc với vector mô men động lượng.&lt;/p&gt;
-
-&lt;p&gt;Vì mô men quán tính bảo toàn nên cả hệ sẽ được mô tả như một hệ quay quanh một trục không thay đổi theo thời gian.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vì sao hệ này lại &lt;em&gt;dẹt&lt;/em&gt; lại thành một mặt phẳng?&lt;/strong&gt; Đó là do hấp hẫn hút các vật chất ban đầu của hệ mặt trời lại với nhau, va chạm và kết hợp với nhau. Và kết quả là các thành phần vận tốc vuông góc với mặt phẳng hoàng đạo triệt tiêu lẫn nhau.&lt;/p&gt;
-
-&lt;p&gt;Các điều này dẫn đến kết quả chúng ta có hệ mặt trời như ngày nay.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-namec2a2-ti-sao-khi-xuyn-qua-mi-trng-c-hng-s-in-mi-nh-bu-kh-quyn-tri-t-chng-hn-nh-sng-b-gim-tc--nhng-khi-ra-khi-mi-trng--bay-vo-chn-khng-th-nh-sng-li-khi-phc-li-tc--ban-u-tc-ng-ca-mi-trng-ln-nh-sng-nh-th-no--tng-tc-cho-nh-sng&quot;&gt;&lt;a name=&quot;c2&quot;&gt;&lt;/a&gt;2. Tại sao, khi xuyên qua môi trường có hằng số điện môi, như bầu khí quyển trái Đất chẳng hạn, ánh sáng bị giảm tốc độ, nhưng khi ra khỏi môi trường để bay vào chân không, thì ánh sáng lại khôi phục lại tốc độ ban đầu? Tác động của môi trường lên ánh sáng như thế nào để tăng tốc cho ánh sáng?&lt;/h4&gt;
-
-&lt;p&gt;Việc ánh sáng bị giảm vận tốc khi truyền qua môi trường vật chất có thể hiểu đơn giản là do, khi ở trong môi trường vật chất ánh sáng không thật sự truyền đi một mạch từ điểm đầu tới điểm cuối, mà ánh sáng liên tục bị hấp thụ và phát xạ bởi các điện tích ở trong môi trường.&lt;/p&gt;
-
-&lt;p&gt;Việc bị hấp thụ rồi phát xạ lại tốn một ít thời gian và đó là lý do mà ánh sáng bị chậm lại.&lt;/p&gt;
-
-&lt;p&gt;Có thể hiểu một cách nôm na là như thế này, một photon bay qua môi trường va chạm phải một electron, khiến electron này lên trạng thái kích thích, sau một thời gian, electron phát xạ ra photon để xuống năng lượng thấp hơn, và photon sau một hồi nghỉ ngơi lại tiếp tục hành trình. Và đó là lý do ánh sáng chậm lại, để cho photon nghỉ ngơi!&lt;/p&gt;
-
-&lt;p&gt;Tất nhiên, bản chất lượng tử của hiện tượng này phức tạp hơn nhiều!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tác động của môi trường lên ánh sáng như thế nào để tăng tốc cho ánh sáng?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Chúng tôi không nghĩ là vật lý hiện tại biết cách để tăng tốc cho ánh sáng. Nhưng biết đâu được, trong tương lai, một lý thuyết chính xác hơn về ánh sáng cho phép ta làm được điều trên.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-namec3a3-ti-sao-trong-cu-to-nguyn-t-cc-electron-lun--pha-ngoi-cn-proton-lun-nm-bn-trong&quot;&gt;&lt;a name=&quot;c3&quot;&gt;&lt;/a&gt;3. Tại sao trong cấu tạo nguyên tử, các electron luôn ở phía ngoài còn proton luôn nằm bên trong?&lt;/h4&gt;
-
-&lt;p&gt;Tuy là không hoàn toàn chính xác, nhưng có thể nói đơn giản vì hạt nhân (proton + neutron) nặng hơn rất nhiều so với electron (gấp khoảng $1836$ lần).  Nên có thể coi hệ nhân + electron, đứng yên ở một chỗ tại nhân và electron nhảy nhót xung quanh.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-namec4a4-bn-cht-ca-tnh-qun-tnh-ca-khi-lng-l-g-ti-sao-ch-c-khi-lng-mi-c-tnh-qun-tnh&quot;&gt;&lt;a name=&quot;c4&quot;&gt;&lt;/a&gt;4. Bản chất của tính quán tính của khối lượng là gì? Tại sao chỉ có khối lượng mới có tính quán tính?&lt;/h4&gt;
-
-&lt;p&gt;Khối lượng quán tính là khái niệm mà ta dùng để mô tả xu hướng giữ nguyên chuyển động hiện tại của vật chất.&lt;/p&gt;
-
-&lt;p&gt;Ta có một khái niệm khác là khối lượng hấp dẫn, đại lượng mô tả tính hấp hẫn của vật chất trong tương tác hấp dẫn.&lt;/p&gt;
-
-&lt;p&gt;Trong trường hợp này, nếu ta chấp nhận nguyên lý tương đương giữa gia tốc và hấp dẫn, nền tảng của thuyết tương đối rộng, thì sẽ dẫn đến sự hợp nhất của khối lượng quán tính và khối lượng hấp dẫn. Và nó chính là năng lượng. Năng lượng làm cong không thời gian biểu hiện như là hấp hẫn. Năng lượng làm cong không thời gian biểu hiện như là quán tính.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-namec5a5-bn-cht-cc-tng-tc-nh-tng-tc-hp-dn-tng-tc-in-t-tng-tc-ht-nhnvv-nguyn-nhn&quot;&gt;&lt;a name=&quot;c5&quot;&gt;&lt;/a&gt;5. Bản chất các tương tác như tương tác hấp dẫn, tương tác điện từ, tương tác hạt nhân,v.v..? Nguyên nhân?&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Bản chất của hấp dẫn?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Theo Einstein, năng lượng làm cong không thời gian sinh ra hấp dẫn. Bản chất của hấp dẫn ở mức độ hạ nguyên tử là câu hỏi lớn, có thể là lớn nhất trong vật lý hiện đại.&lt;/p&gt;
-
-&lt;p&gt;Bản chất của lực điện từ ở mức độ hạ nguyên tử là do sự trao đổi các photon ảo. Có thể hình dung thế này. Hai electron A và B. A phóng một photon và bị lệch đi một tí (bảo toàn &lt;s&gt;mommen&lt;/s&gt; động lượng) sau đó B nhận photon và lệch đi một tí. Và ta có lực đẩy giữa hai electron.&lt;/p&gt;
-
-&lt;p&gt;Bản chất của lực hạt nhân cũng là do trao đổi các hạt truyền lực &lt;s&gt;khác&lt;/s&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tất nhiên, bản chất thực sự liên quan có thể được giải thích bởi lược đồ Feynman và thuyết trường lượng tử.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-namec6a6-s-hnh-thnh-nguyn-nhn-tn-ti-cu-trc-v-gii-hn-ca-v-tr-l-g&quot;&gt;&lt;a name=&quot;c6&quot;&gt;&lt;/a&gt;6. Sự hình thành, nguyên nhân tồn tại, cấu trúc và giới hạn của Vũ trụ là gì?&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Sự hình thành của vũ trụ?&lt;/strong&gt; Khoa học hiện tại giải thích sự hình thành của vũ trụ thông qua Big Bang, nhưng sự khởi đầu của Big Bang như thế nào thì không nhà vật lý nào ở hiện tại dám nhận là mình biết!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nguyên nhân tồn tại của vũ trụ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Câu hỏi này thật sự nằm ngoài phạm vi của vật lý. Nó có thể được xếp vào thể loại các câu hỏi  triết học. Vì &lt;em&gt;nguyên nhân tồn tại&lt;/em&gt; không phải là một khái niệm vật lý. Và hoàn toàn công bằng với câu hỏi trên là các câu hỏi. Liệu vũ trụ có cần nguyên nhân để tồn tại? Tồn tại là gì? Nguyên nhân là gì? …&lt;/p&gt;
-
-&lt;p&gt;Nên chúng tôi xin phép không trả lời câu này.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cấu trúc vũ trụ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ở mức độ tổng quát nhất của vũ trụ, các mô hình vật lý hiện tại dùng lý thuyết tương đối rộng với hình học về không gian cong để mô hình cấu trúc của không thời gian của vũ trụ. Vũ trụ có thể là phẳng, có độ cong âm hoặc có độ cong dương. Các kết quả mới nhất của vệ tinh quan sát Planck gợi ý rằng vũ trụ, ở mức độ rộng lớn nhất, là phẳng.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Giới hạn của vũ trụ ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Không ai biết liệu vũ trụ có vô tận hay hữu hạn. Nhưng nhiều bằng chứng cho thấy vũ trụ rộng lớn hơn nhiều so với bán kính vũ trụ quan sát được.&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Jun 2015 08:57:42 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/hoi-dap/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/hoi-dap/</guid>
-        
-        
-        <category>vật lý</category>
-        
-        <category>hỏi đáp</category>
         
       </item>
     
