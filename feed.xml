@@ -6,9 +6,67 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jul 2015 20:57:28 +0800</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2015 20:57:28 +0800</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2015 19:58:07 +0800</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2015 19:58:07 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Con quay hồi chuyển</title>
+        <description>&lt;p&gt;Bài giảng về hiện tượng thú vị, con quay hồi chuyển.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/con-quay-hoi-chuyen/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=ty9QSiVC2g0&quot;,
+        width: &quot;100%&quot;,
+        stretching : &#39;fill&#39;,
+        tracks: [{ 
+            file: &#39;/assets/ty9QSiVC2g0.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;None&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Veritasium&lt;/strong&gt; Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=ty9QSiVC2g0&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;lan toả tri thức tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
+
+&lt;p&gt;Video về con quay hồi chuyển trong thực tế.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;480px&quot; src=&quot;https://www.youtube.com/embed/cquvA_IpEsA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jul 2015 03:49:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/con-quay-hoi-chuyen/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/con-quay-hoi-chuyen/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>Sấm siêu thanh</title>
@@ -491,77 +549,6 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
         <category>vật lý</category>
         
         <category>vật lý cổ điển</category>
-        
-        <category>vũ trụ</category>
-        
-      </item>
-    
-      <item>
-        <title>Nghịch lý Fermi - Các giải thích 2/2</title>
-        <description>&lt;table style=&quot;float: right;margin:20px&quot; class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img style=&quot;float: right&quot; height=&quot;200px&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arecibo_message.svg/170px-Arecibo_message.svg.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Video này đưa ra các cách giải thích cho &lt;strong&gt;nghịch lý Fermi.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Có thể rằng sự sống thông minh chỉ đủ khả năng lan tỏa ra vài hệ mặt trời rồi bị biến mất.&lt;/p&gt;
-
-&lt;p&gt;Có thể có sự sống thông minh ở ngoài kia nhưng ta chưa đủ khả năng giao tiếp với họ, và với họ ta chỉ như những con kiến mà thôi.&lt;/p&gt;
-
-&lt;p&gt;Có thể sự sống thông minh phát triển tới mức tạo cho riêng mình một vũ trụ mô phỏng để sống mà không cần giao tiếp với bên ngoài.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-&lt;div&gt;
-&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
-    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/nghich-ly-fermi-2/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=1fQkVqno-uI&quot;,
-        width: &quot;100%&quot;,
-        stretching : &#39;fill&#39;,
-        tracks: [{ 
-            file: &#39;/assets/1fQkVqno-uI.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;None&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Kurz Gesagt - In a Nutshell&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=1fQkVqno-uI&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bạn có thể xem phần 1 tại &lt;a href=&quot;https://vatly.github.io/vatly/nghich-ly-fermi-1/&quot;&gt;đây.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các video mới nhất từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Jun 2015 04:15:30 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/nghich-ly-fermi-2/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/nghich-ly-fermi-2/</guid>
-        
-        
-        <category>vật lý</category>
         
         <category>vũ trụ</category>
         

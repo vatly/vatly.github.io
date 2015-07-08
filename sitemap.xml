@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vatly.github.io/vatly/con-quay-hoi-chuyen/</loc>
+    
+    <lastmod>2015-07-09T03:49:30+08:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://vatly.github.io/vatly/faster-than-sound/</loc>
     
     <lastmod>2015-07-08T04:53:30+08:00</lastmod>
@@ -191,7 +200,7 @@
   
   <url>
     <loc>https://vatly.github.io/index.html</loc>
-    <lastmod>2015-07-07T20:57:28+08:00</lastmod>
+    <lastmod>2015-07-08T19:58:07+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

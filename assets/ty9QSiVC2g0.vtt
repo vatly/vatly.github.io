@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:01.340 --> 00:00:05.399
+Chào mọi người,
+là tôi Derek từ kênh Veritasium.
+
+00:00:05.742 --> 00:00:10.014
+Tôi đã theo dõi seri của Destin
+về máy bay trực thăng
+
+00:00:10.342 --> 00:00:14.168
+và con quay hồi chuyển là một trong
+những thứ làm tôi rất kinh ngạc.
+
+00:00:15.276 --> 00:00:19.840
+và tôi đang ở trường đại học và
+tôi sẽ mượn một vài đồ dùng dạy học
+
+00:00:19.840 --> 00:00:23.360
+để cho bạn biết cách thức mà
+con quay hồi chuyển hoạt động.
+
+00:00:25.914 --> 00:00:28.310
+Điều đầu tiên tôi sẽ nói là về vector.
+
+00:00:28.897 --> 00:00:32.454
+bởi vì nhiều thứ trong vật lý là vector,
+nghĩa là chúng có hướng.
+
+00:00:33.011 --> 00:00:38.393
+ví dụ như động lượng và lực đều là vector.
+Đây là hai đại lượng vector khá quen thuộc.
+
+00:00:38.393 --> 00:00:40.406
+Ở đây, tôi có một chiếc xe đang di chuyển.
+
+00:00:40.406 --> 00:00:42.660
+nó có động lượng theo hướng đó.
+
+00:00:42.660 --> 00:00:45.334
+và nếu tôi tác dụng một lực vào nó,
+
+00:00:45.334 --> 00:00:47.392
+tôi có thể thay đổi động lượng của xe.
+
+00:00:47.392 --> 00:00:52.515
+Ví dụ nếu tôi đẩy về bên phải thì động lượng
+của nó sẽ tăng về phía bên phải.
+
+00:00:52.575 --> 00:00:54.991
+mọi thứ đều phù hợp với trực quan.
+
+00:00:55.334 --> 00:00:58.879
+Điều tương tự đối với một vật đang quay.
+
+00:00:58.879 --> 00:01:03.706
+Một moment lực làm tăng moment động lượng
+của vật theo hướng của moment lực.
+
+00:01:03.992 --> 00:01:08.496
+Nếu tôi tác dụng một lực hướng xuống
+ở phía này của bánh xe.
+
+00:01:08.525 --> 00:01:10.394
+tôi tạo ra một moment lực.
+
+00:01:10.394 --> 00:01:15.617
+một moment lực bằng lực nhân
+khoảng cách tới trục quay, gọi là r.
+
+00:01:15.617 --> 00:01:20.018
+moment lực là lực tác dụng nhân bán kính quay.
+
+00:01:20.018 --> 00:01:23.097
+Vậy moment lực này định hướng như thế nào?
+
+00:01:23.097 --> 00:01:25.678
+Chúng ta dùng quy tắc bàn tay phải để xác định.
+
+00:01:25.678 --> 00:01:30.354
+Cách ta làm là để các ngón tay theo hướng trục quay.
+
+00:01:30.354 --> 00:01:33.105
+và uống cong theo hướng của lực tác dụng.
+
+00:01:33.105 --> 00:01:35.506
+và ngón cái của ta sẽ chỉ hướng của moment lực.
+
+00:01:35.506 --> 00:01:37.942
+Moment lực thực sự là theo hướng này,
+
+00:01:37.942 --> 00:01:39.796
+vuông góc so với lực tác dụng.
+
+00:01:39.796 --> 00:01:41.326
+Lực tác dụng chỉ xuống theo hướng này.
+
+00:01:41.326 --> 00:01:44.153
+Nhưng moment lực hướng ra theo hướng này.
+
+00:01:44.153 --> 00:01:46.233
+Vậy nên moment động lượng của bánh xe này
+
+00:01:46.233 --> 00:01:49.321
+tăng theo hướng đó.
+
+00:01:49.321 --> 00:01:52.470
+Tôi càng tác dụng moment lực.
+
+00:01:52.470 --> 00:01:55.355
+tôi càng làm tăng moment động lượng của bánh xe,
+
+00:01:55.355 --> 00:01:57.102
+theo hướng của moment lực.
+
+00:01:57.102 --> 00:02:00.236
+Tôi làm cho bánh xe này có một
+moment động lượng lớn
+
+00:02:00.236 --> 00:02:02.641
+theo hướng này, hướng về phía camera.
+
+00:02:02.641 --> 00:02:05.991
+Trước khi đi xa hơn,
+hãy xem thiết lập của thí nghiệm.
+
+00:02:05.991 --> 00:02:10.238
+tôi có một bánh xe treo một phía
+bởi sợi dây thừng.
+
+00:02:10.238 --> 00:02:13.191
+Thật ra, là đang có một moment lực lúc này,
+nếu tôi thả tay ra.
+
+00:02:13.191 --> 00:02:17.393
+Bởi vì trọng lực kéo bánh xe xuống,
+và lực này tác dụng tại
+
+00:02:17.393 --> 00:02:20.932
+khoảng cách so với điểm treo ở đây.
+
+00:02:20.932 --> 00:02:22.770
+Và nếu tôi thả ra.
+
+00:02:22.770 --> 00:02:25.164
+Ồ, nó xảy ra đúng như ta dự đoán.
+
+00:02:25.260 --> 00:02:28.415
+Bánh xe rớt xuống theo hướng này.
+
+00:02:28.415 --> 00:02:31.972
+Nhưng tôi muốn xem nó như là một
+trường hợp của chuyển động quay.
+
+00:02:31.972 --> 00:02:34.604
+Có một moment lực chỉ về hướng này.
+
+00:02:34.604 --> 00:02:38.588
+cố làm tăng moment động lượng
+của hệ theo hướng đó.
+
+00:02:38.588 --> 00:02:42.192
+và moment động lượng theo hướng này
+khiến cả hệ
+
+00:02:42.192 --> 00:02:44.807
+bắt đầu quay ngược chiều kim đồng hồ.
+
+00:02:44.807 --> 00:02:46.724
+và đó là điều ta thấy.
+
+00:02:46.724 --> 00:02:51.350
+Điều gì xảy ra nếu tôi thả tay
+khi đã làm cho bánh xe quay.
+
+00:02:51.350 --> 00:02:54.072
+Trong trường hợp đó, thì bánh xe đã có sẵn
+
+00:02:54.072 --> 00:02:56.485
+moment động lượng theo hướng này.
+
+00:02:56.485 --> 00:02:58.336
+và moment lực đẩy theo hướng đó.
+
+00:02:58.336 --> 00:03:01.903
+Thật sự khiến cho moment động lượng
+quay theo hướng này.
+
+00:03:01.903 --> 00:03:05.791
+Nào, để tôi thử làm bánh xe quay,
+xem nó có hoạt động hay không.
+
+00:03:09.171 --> 00:03:11.039
+Nào
+
+00:03:11.212 --> 00:03:12.264
+hô
+
+00:03:12.264 --> 00:03:13.819
+Nhìn kìa.
+
+00:03:13.819 --> 00:03:15.979
+Nó quay đúng như ta đã dự đoán.
+
+00:03:15.979 --> 00:03:17.572
+Moment động lượng chỉ theo hướng này.
+
+00:03:17.572 --> 00:03:19.596
+Nhưng moment lực đẩy theo hướng này.
+
+00:03:19.596 --> 00:03:20.652
+Moment động lượng.
+
+00:03:20.652 --> 00:03:21.491
+Moment lực.
+
+00:03:21.491 --> 00:03:25.502
+Moment lực đã đẩy
+moment động lượng đi vòng quanh.
+
+00:03:25.502 --> 00:03:27.989
+Trừ việc, nó sẽ không kéo dài
+
+00:03:27.989 --> 00:03:32.116
+vì có một ít ma sát ở bánh xe
+
+00:03:35.009 --> 00:03:36.974
+[HỎI ĐÁP VẬT LÝ]
+
+00:03:37.099 --> 00:03:40.280
+Like bên dưới để giúp nhiều người
+có thể biết tới video này.
+
+00:03:40.406 --> 00:03:43.602
+Để nhận được các video mới nhất từ chúng tôi.
+
+00:03:43.602 --> 00:03:46.197
+Like page tại cuối trang web.
+
+00:03:46.197 --> 00:03:47.893
+Xin cám ơn.
