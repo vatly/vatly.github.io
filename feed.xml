@@ -6,9 +6,63 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jul 2015 20:35:54 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2015 20:35:54 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2015 21:20:58 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2015 21:20:58 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>GPS và đồng hồ nguyên tử</title>
+        <description>&lt;p&gt;Điện thoại bằng cách nào xác định vị trí của ta? Câu trả lời nằm ở những đồng hồ nguyên tử cực kì chính xác trong các vệ tinh trên quĩ đạo. Vậy các đồng hồ nguyên tử này hoạt động như thế nào?&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/dong-ho-nguyen-tu/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=E7L4HN2VK9A&quot;,
+        
+        width: &quot;100%&quot;,
+        tracks: [{ 
+            file: &#39;/assets/E7L4HN2VK9A.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;None&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;TEDvn&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=E7L4HN2VK9A&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;chia sẻ video này tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi  &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2015 05:14:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/dong-ho-nguyen-tu/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/dong-ho-nguyen-tu/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>1905, năm thần kỳ của Einstein</title>
@@ -513,32 +567,6 @@ Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoản
         <pubDate>Sat, 04 Jul 2015 00:33:30 +0800</pubDate>
         <link>https://vatly.github.io/vatly/y-tuong-don-gian/</link>
         <guid isPermaLink="true">https://vatly.github.io/vatly/y-tuong-don-gian/</guid>
-        
-        
-        <category>vật lý</category>
-        
-      </item>
-    
-      <item>
-        <title>[Sci-Fi] Wanderers - Carl Sagan</title>
-        <description>&lt;p&gt;Một bộ film khoa học viễn tưởng ngắn, được thực hiện bởi &lt;em&gt;Erik Wernquist&lt;/em&gt;, dự đoán về tương lai của nhân loại trong hành trình khám phá hệ Mặt Trời.&lt;/p&gt;
-
-&lt;p&gt;Lời dẫn từ nhà thiên văn học nổi tiếng &lt;em&gt;Carl E. Sagan&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Film xem tốt nhất khi full screen cùng với âm lượng lớn :-)&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/108650530&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Video gốc tại &lt;a href=&quot;http://erikwernquist.com/wanderers/film.html&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nếu thấy hay, bạn có thể &lt;strong&gt;like&lt;/strong&gt; hoặc &lt;strong&gt;chia sẻ&lt;/strong&gt; cho bạn bè người thân của mình ;-)&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p style=&quot;display: none;&quot;&gt; Ghi lại đây để kỷ niệm 100 bạn subscribe ;)) &lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 03 Jul 2015 05:34:30 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/wanderers-carl-sagan/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/wanderers-carl-sagan/</guid>
         
         
         <category>vật lý</category>
