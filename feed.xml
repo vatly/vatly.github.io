@@ -6,9 +6,83 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jul 2015 21:20:58 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2015 21:20:58 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2015 17:18:25 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 17:18:25 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>2&#39; thuyết tương đối</title>
+        <description>&lt;p&gt;Đầu thế kỷ 20, các nhà vật lý, bằng thực nghiệm, đã biết rằng vận tốc ánh sáng là không đổi ở mọi hệ quy chiếu.&lt;/p&gt;
+
+&lt;p&gt;Cho dù bạn đang đứng yên trên mặt đất hay di chuyển với tốc độ $900~km/h$ trên máy bay, vận tốc ánh sáng luôn là $c\approx 3 \times 10^8 m/s$.&lt;/p&gt;
+
+&lt;p&gt;Điều này dẫn tới hệ quả rất bất ngờ, công thức chuyển đổi hệ quy chiếu của Galilleo dưới đây, hoá ra, là sai!&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{align}
+x^{\prime} &amp;= x - vt, ~y^{\prime} = y, ~z^{\prime} = z \\
+t^{\prime} &amp;= t
+\end{align} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;Thay vào đó là công thức chuyển đổi được tìm ra bởi Lorentz.&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{align}
+x^{\prime} &amp;= \frac{x-vt}{\sqrt{1-\frac{v^2}{c^2}}}, ~~y^{\prime} = y, ~~z^{\prime} = z \\ \\  
+t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
+\end{align} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;Công thức này chính là toàn bộ lý thuyết tương đối hẹp. Nhưng hệ quả mà nó dẫn tới là vô cùng lớn, từ đó mà ta biết rằng, không gian và thời gian cũng mang tính tương đối, có thể co giãn, dài ngắn tuỳ thuộc vào người quan sát.&lt;/p&gt;
+
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/tuong-doi-thuyet/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=GM_RusGg54I&quot;,
+        
+        width: &quot;100%&quot;,
+        tracks: [{ 
+            file: &#39;/assets/GM_RusGg54I.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 20,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 50,
+            edgeStyle: &#39;None&#39;,
+        },
+        
+    });
+&lt;/script&gt;
+
+&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;MinutePhysics&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=ajhFNcUTJI0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;chia sẻ video này tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
+
+&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi  &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
+
+&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2015 05:14:30 +0800</pubDate>
+        <link>https://vatly.github.io/vatly/tuong-doi-thuyet/</link>
+        <guid isPermaLink="true">https://vatly.github.io/vatly/tuong-doi-thuyet/</guid>
+        
+        
+        <category>vật lý</category>
+        
+      </item>
     
       <item>
         <title>GPS và đồng hồ nguyên tử</title>
@@ -498,75 +572,6 @@
         <pubDate>Sun, 05 Jul 2015 00:38:30 +0800</pubDate>
         <link>https://vatly.github.io/vatly/khong-thoi-gian-lieu-co-that/</link>
         <guid isPermaLink="true">https://vatly.github.io/vatly/khong-thoi-gian-lieu-co-that/</guid>
-        
-        
-        <category>vật lý</category>
-        
-      </item>
-    
-      <item>
-        <title>Đo vận tốc ánh sáng</title>
-        <description>&lt;p&gt;Từ những quan sát và suy luận đơn giản, người xưa đã có thể làm những việc tưởng chừng như không tưởng. Đo bán kính trái đất. Đo vận tốc ánh sáng. Tất cả đều bắt nguồn từ các ý tưởng đơn giản.&lt;/p&gt;
-
-&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
-&lt;div&gt;
-&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
-    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/y-tuong-don-gian/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-    jwplayer(&quot;hdvlplayerp&quot;).setup({
-        file: &quot;https://www.youtube.com/watch?v=F8UFGu2M2gM&quot;,
-        
-        width: &quot;100%&quot;,
-        tracks: [{ 
-            file: &#39;/assets/F8UFGu2M2gM.vtt&#39;, 
-            label: &#39;tiếng Việt&#39;, 
-            kind: &#39;captions&#39;,
-            default: true,
-  }],   captions: {
-            color: &#39;#fff&#39;,
-            fontSize: 20,
-            fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;None&#39;,
-        },
-        
-    });
-&lt;/script&gt;
-
-&lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;Ted-Ed&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=F8UFGu2M2gM&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Vài quan niệm về ánh sáng trước thời Galilleo.&lt;/p&gt;
-
-&lt;p&gt;Empedocles (490-430 BC) cho rằng ánh sáng có vận tốc hữu hạn, vì ánh sáng là thứ gì đó chuyển động, nên phải mất thời gian để di chuyển. Aristotle lại cho rằng “ánh sáng là do sự hiện hữu của thứ gì đó, nhưng nó không chuyển động.”&lt;/p&gt;
-
-&lt;p&gt;Euclid và Ptolemy cho rằng ánh sáng phát ra từ mắt nên ta có thể thấy. Dựa trên lý thuyết này, Heron của thành Alexandria lập luận rằng, nếu ánh sáng phát ra từ mắt rọi sáng vật, thì ánh sáng phải có vận tốc vô hạn, vì vừa mở mắt ra đã thấy các vì sao rồi!&lt;/p&gt;
-
-&lt;p&gt;Tới đầu thế kỷ 11, các nhà triết học hồi giáo quan niệm ánh sáng phát ra từ vật tới mắt ta, có vận tốc hữu hạn, nhanh hơn vận tốc âm thanh và bị chậm lại trong môi trường.&lt;/p&gt;
-
-&lt;p&gt;Đầu thế kỷ 17, Kepler tin rằng ánh sáng có vận tốc vô hạn do chân không không cản trở ánh sáng. Descartes lập luận rằng nếu vận tốc ánh sáng là hữu hạn, Mặt trời, Trái đất, và Mặt trăng sẽ lệch nhau khi có nguyệt thực.&lt;/p&gt;
-
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Speed_of_light_from_Earth_to_Moon.gif/500px-Speed_of_light_from_Earth_to_Moon.gif&quot; /&gt;
-Một chùm sáng di chuyển từ trái đất tới mặt trăng mất khoảng $1.255$ giây.&lt;/p&gt;
-
-&lt;p&gt;Mọi quan niệm ở trên chỉ xuất phát từ suy luận logic thuần tuý và chưa có bất cứ bằng chứng thực nghiệm nào kiểm chứng. Điều này nhắc nhở chúng ta rằng &lt;strong&gt;chân lý của khoa học là thực nghiệm.&lt;/strong&gt; Mọi mô hình toán, mọi suy luận logic, cho dù rất đơn giản, khi chưa được thực nghiệm kiểm chứng đều có thể sai.&lt;/p&gt;
-
-&lt;p&gt;Nếu thấy hay, bạn có thể &lt;strong&gt;like&lt;/strong&gt; hoặc &lt;strong&gt;chia sẻ&lt;/strong&gt; cho bạn bè người thân của mình ;-)&lt;/p&gt;
-
-&lt;p&gt;Bất kỳ câu hỏi hay thắc mắc nào sau khi xem video này, các bạn có thể ghi vào khung bên dưới.&lt;/p&gt;
-
-&lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;»  CHÚNG TÔI RẤT CẦN CÂU HỎI CỦA  BẠN  «&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Vì vậy mong các bạn chứ ngại ngần ghi ra những câu hỏi cho dù là đơn giản nhất. Và đôi khi chỉ một câu hỏi &lt;strong&gt;ngớ ngẩn&lt;/strong&gt; làm thay đổi cả thế giới.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jul 2015 00:33:30 +0800</pubDate>
-        <link>https://vatly.github.io/vatly/y-tuong-don-gian/</link>
-        <guid isPermaLink="true">https://vatly.github.io/vatly/y-tuong-don-gian/</guid>
         
         
         <category>vật lý</category>
