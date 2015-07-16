@@ -6,8 +6,8 @@
 </description>
     <link>https://vatly.github.io/</link>
     <atom:link href="https://vatly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Jul 2015 21:57:58 +0800</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2015 21:57:58 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2015 23:08:45 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 23:08:45 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -34,9 +34,38 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
 
 &lt;p&gt;Công thức này chính là toàn bộ lý thuyết tương đối hẹp. Nhưng hệ quả mà nó dẫn tới là vô cùng lớn, từ đó mà ta biết rằng, không gian và thời gian cũng mang tính tương đối, có thể co giãn, dài ngắn tuỳ thuộc vào người quan sát.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;420px&quot; src=&quot;https://www.youtube.com/embed/GM_RusGg54I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div id=&quot;hdvlplayerp&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;float:right; margin-left:20px; overflow: hidden !important;&quot;&gt;
+    &lt;div style=&quot;overflow: hidden !important;&quot; class=&quot;fb-like&quot; data-href=&quot;https://vatly.github.io/vatly/tuong-doi-thuyet/&quot; data-width=&quot;100px&quot; data-layout=&quot;button&quot; data-action=&quot;like&quot; data-show-faces=&quot;false&quot; data-share=&quot;false&quot;&gt;&lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    jwplayer(&quot;hdvlplayerp&quot;).setup({
+        file: &quot;https://www.youtube.com/watch?v=ajhFNcUTJI0&quot;,
+        
+        width: &quot;100%&quot;,
+        tracks: [{ 
+            file: &#39;/assets/ajhFNcUTJI0.vtt&#39;, 
+            label: &#39;tiếng Việt&#39;, 
+            kind: &#39;captions&#39;,
+            default: true,
+  }],   captions: {
+            color: &#39;#fff&#39;,
+            fontSize: 14,
+            fontfamily: &#39;Calibri, Venada, Arial&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
+        },
+        
+    });
+&lt;/script&gt;
 
 &lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;MinutePhysics&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=ajhFNcUTJI0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;lan toả tri thức tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
 
 &lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi  &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
 
@@ -154,10 +183,10 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 20,
+            fontSize: 14,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;Uniform&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
         },
         
     });
@@ -208,10 +237,10 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 20,
+            fontSize: 14,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;Uniform&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
         },
         
     });
@@ -266,10 +295,10 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 20,
+            fontSize: 14,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;Uniform&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
         },
         
     });
@@ -322,10 +351,10 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 20,
+            fontSize: 14,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;Uniform&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
         },
         
     });
@@ -359,8 +388,6 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
 &lt;iframe width=&quot;100%&quot; height=&quot;420px&quot; src=&quot;https://www.youtube.com/embed/-QfNbwjl-zk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video có nguồn từ kênh &lt;strong&gt;TEDvn&lt;/strong&gt; trên Youtube, xem video gốc tại &lt;a href=&quot;https://www.youtube.com/watch?v=-QfNbwjl-zk&amp;amp;cc_lang_pref=vi&amp;amp;cc_load_policy=0&quot;&gt;đây.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Để giúp chúng tôi &lt;strong&gt;lan toả tri thức tới cộng đồng&lt;/strong&gt;, bạn có thể nhấn vào nút &lt;strong&gt;thích&lt;/strong&gt; ở bên phải.&lt;/p&gt;
 
 &lt;p&gt;Để nhận được các &lt;strong&gt;video mới nhất&lt;/strong&gt; từ chúng tôi, vui lòng &lt;strong&gt;like page&lt;/strong&gt; của chúng tôi trên Facebook &lt;strong&gt;ở cuối trang&lt;/strong&gt;. Xin cám ơn :-)&lt;/p&gt;
 
@@ -407,10 +434,10 @@ t^{\prime} &amp;= \frac{t-(v/c^2)x}{\sqrt{1-\frac{v^2}{c^2}}}
             default: true,
   }],   captions: {
             color: &#39;#fff&#39;,
-            fontSize: 20,
+            fontSize: 14,
             fontfamily: &#39;Calibri, Venada, Arial&#39;,
-            backgroundOpacity: 50,
-            edgeStyle: &#39;Uniform&#39;,
+            backgroundOpacity: 70,
+            edgeStyle: &#39;none&#39;,
         },
         
     });
