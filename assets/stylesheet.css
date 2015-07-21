@@ -335,3 +335,26 @@ width:100%;
 
 }
 
+ul#menu li
+{
+    display:inline-table;
+    list-style: none;
+    border: 1px solid #b2b2b2;
+    padding: 0;
+    margin: 2px;
+    width: 60px;
+    text-align: center;
+}
+
+ul#menu li a
+{
+    font-weight: bold;
+    text-decoration: none;
+    color: #696969;
+    line-height: 30px;
+}
+
+ul#menu li a.active {
+    color: blueviolet;
+}
+
